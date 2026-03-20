@@ -16,9 +16,9 @@ async def main():
         stream=True
     )
 
-    bank_url = "https://ameriabank.am/personal/loans"
+    bank_url = "https://conversebank.am/hy/kutakayin/"
 
-    output_path = "ameria/credits"
+    output_path = "converse/deposits"
 
 
     # Here I used a simple scrapper to take the data and turn it into markdown format
@@ -28,9 +28,9 @@ async def main():
             config=run_config
         )
 
-        # if scrapping succeeded, writing in its .md file
+        # if scrapping succeeded, writing it in its .md file
         if result.success:
-            with open("ameria/credits/loans.md", "w", encoding="utf-8") as f:
+            with open("converse/deposits/cumulative.md", "w", encoding="utf-8") as f:
                 # Write the source URL at the top so the AI knows where it is
                 f.write(f"SOURCE: {result.url}\n\n")
                 f.write(result.markdown)

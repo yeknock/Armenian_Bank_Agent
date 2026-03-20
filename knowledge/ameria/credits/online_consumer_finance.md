@@ -1,0 +1,443 @@
+SOURCE: https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance
+
+  * [](https://ameriabank.am/)
+  * [](https://ameriabank.am/business)
+  * [](https://ameriabank.am/investment)
+
+
+  * [ ](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#)
+  * [ ](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#)
+  * [ ](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#)
+  *     * [hy](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance "Հայերեն \(Հայաստան\)")
+    * [en](https://ameriabank.am/en/personal/loans/consumer-loan/online-consumer-finance "English \(United States\)")
+    * [ru](https://ameriabank.am/ru/personal/loans/consumer-loan/online-consumer-finance "Русский \(Россия\)")
+
+
+  * [ ![Investor Relations](https://ameriabank.am/Portals/0/Images/header-backgrounds/ir.svg) ](https://ameriabank.am/ir) [IR](https://ameriabank.am/ir) [IR](https://ameriabank.am/ir)
+  * [ ![About us](https://ameriabank.am/Portals/0/Images/header-backgrounds/about-us.svg) ](https://ameriabank.am/about-ameriabank/history) [Բանկի մասին](https://ameriabank.am/about-ameriabank/history)
+  * [ ![Phone](https://ameriabank.am/Portals/0/Images/header-backgrounds/phone-icon.svg) ](tel:+374%2010%2056%2011%2011) [+374 10 56 11 11](tel:+374%2010%2056%2011%2011)
+  * [ ![Map](https://ameriabank.am/Portals/0/Images/header-backgrounds/map-icon.svg) ](https://ameriabank.am/service-network) [Մասնաճյուղեր](https://ameriabank.am/service-network)
+
+
+[ ![Ameriabank Logo](https://ameriabank.am/Portals/0/Logo/Ameriabank%20green.svg?ver=2020-06-23-132200-427) ](https://ameriabank.am/)
+[Որոնել](javascript:__doPostBack\('dnn%24dnnSearch%24cmdSearch',''\))
+  * [](https://ameriabank.am/personal/cards/banking-cards)
+    *       * [](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#_)
+      * [](https://ameriabank.am/personal/cards/banking-cards)
+      * [](https://ameriabank.am/personal/cards/cards/digital-cards)
+      * [](https://ameriabank.am/personal/cards/cards/gift-cards)
+      * [](https://ameriabank.am/personal/cards/cards/student-card)
+      * [](https://ameriabank.am/business/micro/cards/business-card)
+      * [](https://ameriabank.am/personal/cards/more/card-benefits)
+      * [](https://join.myameria.am/?ref=7A46E509-7CD8-41F7-96C4-5EE4E7F3CBDA)
+      * [](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#_)
+      * [](https://ameriabank.am/personal/cards/other-services/support)
+      * [](https://ameriabank.am/personal/cards/cards-management/24-7)
+      * [](https://ameriabank.am/personal/cards/cards-management/ussd)
+  * [](https://ameriabank.am/personal/loans)
+    *       * [](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#_)
+      * [](https://ameriabank.am/loans/consumer-loans)
+      * [](https://ameriabank.am/personal/loans/consumer-loans/consumer-loans)
+      * [](https://ameriabank.am/personal/loans/consumer-loans/overdraft)
+      * [](https://ameriabank.am/personal/loans/consumer-loans/credit-line)
+      * [](https://ameriabank.am/personal/loans/consumer-loans/consumer-finance)
+      * [](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance)
+      * [](https://ameriabank.am/varkayin-hashvich)
+      * [](https://ameriabank.am/personal/loans/other-loans/payment-options)
+      * [](https://customer.ameriabank.am/signin?utm_source=ameriabank&utm_medium=button-menu&utm_campaign=online-loans)
+      * [](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#_)
+      * [](https://ameriabank.am/loans/secured-loans)
+      * [](https://ameriabank.am/loans/secured-loans/consumer-loan)
+      * [](https://ameriabank.am/loans/secured-loans/overdraft)
+      * [](https://ameriabank.am/loans/secured-loans/credit-line)
+      * [](https://ameriabank.am/personal/loans/other-loans/investment-loan)
+      * [](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#_)
+      * [](https://ameriabank.am/personal/loans/mortgage-loans)
+      * [](https://myhome.am/home)
+      * [](https://ameriabank.am/personal/loans/mortgage/online)
+      * [](https://ameriabank.am/personal/loans/mortgage/primary-market-loan)
+      * [](https://ameriabank.am/personal/loans/mortgage/secondary-market)
+      * [](https://ameriabank.am/campaigns/mortgage-loan-for-diaspora)
+      * [](https://ameriabank.am/personal/loans/mortgage/commercial-mortgage)
+      * [](https://ameriabank.am/personal/loans/mortgage/renovation-mortgage)
+      * [](https://ameriabank.am/personal/loans/mortgage/construction-mortgage)
+      * [](https://ameriabank.am/hipotekayin-hashvich)
+      * [](https://myhome.am/calculators/loan-calculator)
+      * [](https://ameriabank.am/personal/loans/mortgage/special-offers/for-the-usa-citizens)
+      * [](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#_)
+      * [](https://ameriabank.am/personal/loans/car-loans)
+      * [](https://mycar.am/home)
+      * [](https://ameriabank.am/personal/loans/car-loan/without-bank-visit)
+      * [](https://ameriabank.am/personal/loans/car-loan/online-secondary-market)
+      * [](https://ameriabank.am/personal/loans/car-loan/primary)
+      * [](https://ameriabank.am/personal/loans/car-loan/secondary-market)
+      * [](https://ameriabank.am/personal/loans/car-loan/secondary-market-unused)
+      * [](https://mycar.am/apply-now/)
+      * [](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#_)
+      * [](https://ameriabank.am/personal/loans/more/support/information)
+      * [](https://payments.ameriabank.am/LoanRepayment/hy/Contract)
+      * [](https://ameriabank.am/personal/loans/calculators)
+  * [](https://ameriabank.am/personal/accounts)
+    *       * [](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#_)
+      * [](https://ameriabank.am/personal/accounts/smart-account)
+      * [](https://ameriabank.am/personal/accounts/better-package)
+      * [](https://ameriabank.am/personal/accounts/accounts/sector-employee)
+      * [](https://ameriabank.am/personal/accounts/accounts/persona-account)
+      * [](https://ameriabank.am/personal/accounts/accounts/ameria-premium-account)
+      * [](https://ameriabank.am/personal/account/account/ameria-partner-account)
+      * [](https://ameriabank.am/personal/accounts/compare-packages)
+      * [](https://join.myameria.am/?ref=2B69DDC9-B8A8-415C-B887-E7947C5ADE54)
+      * [](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#_)
+      * [](https://ameriabank.am/personal/accounts/current-account)
+      * [](https://ameriabank.am/personal/accounts/accounts/saving-account)
+      * [](https://ameriabank.am/personal/accounts/accounts/social-package-account)
+      * [](https://ameriabank.am/personal/accounts/accounts/escrow-account)
+      * [](https://ameriabank.am/personal/accounts/metal-account)
+      * [](https://ameriabank.am/personal/accounts/accounts-management/accounts-for-non-residents)
+      * [](https://ameriabank.am/business/micro/accounts/business-account)
+      * [](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#_)
+      * [](https://ameriabank.am/personal/accounts/accounts-management/myameria)
+      * [](https://ameriabank.am/personal/accounts/accounts-management/myameria-star)
+      * [](https://myameria.am/)
+      * [](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#_)
+      * [](https://ameriabank.am/personal/more/online/utility-payment)
+      * [](https://ameriabank.am/nostro-accounts)
+      * [](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#_)
+      * [](https://ameriabank.am/investment/operations/brokerage)
+      * [](https://ameriabank.am/personal/more/other-services/foreign-exchange-transactions)
+      * [](https://ameriabank.am/personal/more/other-services/safe-deposit-box)
+  * [](https://ameriabank.am/personal/transfers)
+    *       * [](https://ameriabank.am/personal/transfers/armenia)
+      * [](https://ameriabank.am/personal/accounts/payments/transfer-to-account)
+      * [](https://ameriabank.am/personal/accounts/payments/moneyto)
+      * [](https://ameriabank.am/accounts/payments/card-to-card-transfer)
+      * [](https://ameriabank.am/personal/transfers/abroad)
+      * [](https://ameriabank.am/personal/accounts/payments/moneygram)
+      * [](https://ameriabank.am/personal/accounts/payments/ubpay)
+      * [](https://ameriabank.am/personal/accounts/payments/visa-transfer)
+      * [](https://ameriabank.am/personal/accounts/payments/stak)
+  * [](https://ameriabank.am/personal/saving)
+    *       * [](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#_)
+      * [](https://ameriabank.am/personal/saving/deposits/see-all)
+      * [](https://ameriabank.am/personal/saving/deposits/ameria-deposit)
+      * [](https://ameriabank.am/personal/saving/deposits/kids-deposit)
+      * [](https://ameriabank.am/personal/saving/deposits/cumulative-deposit)
+      * [](https://ameriabank.am/personal/accounts/accounts/saving-account)
+      * [](https://ameriabank.am/personal/saving/saving/bonds)
+      * [](https://ameriabank.am/avandi-hashvich)
+      * [](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#_)
+      * [](https://ameriabank.am/personal/savings/myinvest)
+      * [](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#_)
+      * [](https://ameriabank.am/personal/saving/other-services/support)
+      * [](https://ameriabank.am/personal/saving/other-services/terms)
+  * [](https://ameriabank.am/personal/digital-ameria)
+    *       * [](https://ameriabank.am/personal/accounts/smart-account)
+      * [](https://ameriabank.am/personal/accounts/smart-account)
+      * [](https://smart-apply.ameriabank.am/)
+      * [](https://ameriabank.am/personal/accounts/accounts-management/myameria)
+      * [](https://ameriabank.am/personal/accounts/accounts-management/myameria)
+      * [](https://ameriabank.am/personal/accounts/accounts-management/myameria-star)
+      * [](https://ameriabank.am/personal/savings/myinvest)
+      * [](https://ameriabank.am/personal/accounts/accounts-management/mypoint)
+      * [](https://ameriabank.am/personal/more/digital/mytour)
+      * [](https://ameriabank.am/personal/more/digital/mypay)
+      * [](https://ameriabank.am/personal/more/digital/mypay-partners)
+      * [](https://myameria.am)
+      * [](https://ameriabank.am/personal/loans/consumer-loans/consumer-loans)
+      * [](https://ameriabank.am/personal/loans/consumer-loans/consumer-loans)
+      * [](https://ameriabank.am/personal/loans/consumer-loans/overdraft)
+      * [](https://ameriabank.am/personal/loans/consumer-loans/credit-line)
+      * [](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance)
+      * [](https://myhome.am/home)
+      * [](https://ameriabank.am/personal/loans/mortgage/online)
+      * [](https://myhome.am/calculators/loan-calculator)
+      * [](https://mycar.am/home)
+      * [](https://ameriabank.am/personal/loans/car-loan/without-bank-visit)
+      * [](https://ameriabank.am/online-insurance)
+      * [](https://ameriabank.am/personal/more/online/utility-payment)
+      * [](https://ameriabank.am/personal/special-offers)
+      * [](https://ameriabank.am/online-insurance)
+      * [](https://ameriabank.am/Embassy/hy-AM)
+      * [](https://payments.ameriabank.am/LoanRepayment/hy/Contract)
+      * [](https://ameriabank.am/personal/more/online/eventhub)
+
+
+Օնլայն բանկինգ 
+[ ![internet banking Logo](https://ameriabank.am/Portals/0/Icons/Redesign/Internet-bank.png) Ինտերնետ բանկինգ ](https://online.ameriabank.am/InternetBank/MainForm.wgx) [ ![MyAmeria Logo](https://ameriabank.am/Portals/0/Icons/Redesign/myameria.png) MyAmeria ](https://myameria.am)
+[ Subscribe ](https://online.ameriabank.am/InternetBank/MainForm.wgx)
+# Օնլայն ապառիկ
+Գնիˊր, ինչ ուզում ես, ընդամենը 5 րոպեում 
+![ ](https://ameriabank.am/Portals/0/Images/consumer-loan/consumer-finance.png)
+![loan limit icon](https://ameriabank.am/Portals/0/Images/icons/loan-limit-icon.png)
+###### 50,000-1,000,000 դրամ
+Ֆինանսավորման գումար
+![time icon](https://ameriabank.am/Portals/0/Images/icons/percentage-icon.png)
+###### 18.5%
+Անվանական տոկոսադրույք  
+Փաստացի տոկոսադրույք ` 20%-21%
+![percentage-icon](https://ameriabank.am/Portals/0/Images/icons/overdraft-time-icon.png)
+###### 12-36 ամիս
+Ֆինանսավորման ժամկետ
+## Օնլայն ապառիկ  
+
+Օնլայն ապառիկով կարող ես գնել էլեկտրոնիկա, կենցաղային տեխնիկա, կահույք և քո առօրյա կյանքի համար անհրաժեշտ բազմաթիվ ապրանքներ մեր գործընկեր առցանց խանութներից՝ առանց տնից դուրս գալու։  
+
+#### ԱՌԱՎԵԼՈՒԹՅՈՒՆՆԵՐ
+* * *
+![...](https://ameriabank.am/Portals/0/Images/consumer-finance/guide-cover.png)
+## Գործընկերները
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/domus.png)
+###### DOMUS 
+_ԴՈՄՈՒՍ ՓԲԸ_
+Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Domus-ից:
+[Գնիր օնլայն ](https://domus.am/%20)
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/duson.png)
+###### DUSON
+_ՊՐՈՄԱՍ ՍՊԸ_
+Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Duson-ից:
+[Գնիր օնլայն ](https://duson.am/%20)
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/tornado_electronics.png)
+###### Tornado Electronics 
+_Հովհաննիսյան Գրիգոր Աղասու Ա/Ձ_
+Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Tornado Electronics-ից:
+[Գնիր օնլայն ](https://tornadoelectronics.am/%20%20)
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/allsell.png)
+###### Allcell 
+_«Նռանե» ՍՊԸ_
+Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Allcell-ից:
+[Գնիր օնլայն ](https://allsell.am/%20)
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/jur_am.png)
+###### Jur.am 
+_«ԷՎՐԻ ԴԵՅ» ՓԲԸ_
+Օնլայն ապառիկով Jur.am-ից կարող ես գնել ջրի դիսպենսերներ, սուրճի մեքենաներ և ֆիլտրացիոն լուծումներ։
+[Գնիր օնլայն ](https://jur.am/hy/eshop/water-dispensers-and-accessories/dispensers)
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/mtech.png)
+###### MTECH
+_«ՄՏԵԽ» ՍՊԸ_
+Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Mtech-ից:
+[Գնիր օնլայն ](https://mtech.am/hy%20)
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/eldorado.png)
+###### Eldorado 
+_«ԷԼ ՄԱՐԿԵՏ» ՍՊԸ_
+Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Eldorado խանութների ցանցից:
+[Գնիր օնլայն ](https://eldorado.am/%20)
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/pixel.png)
+###### Pixels 
+_«ՊԻԿՍԵԼ» ՍՊԸ_
+Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Pixel-ից:
+[Գնիր օնլայն ](https://www.pixel.am/%20)
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/yerevan-mobile.png)
+###### Yerevan Mobile 
+_«ՎԱԳՆԵՐ» ՍՊԸ_
+Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Yerevan Mobile-ից:
+[Գնիր օնլայն ](https://www.yerevanmobile.am/am/%20)
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/eurobaza.png)
+###### Eurobaza 
+_«ՅՈՒՆԻՎԵՐՍԱԼ ՊՐՈՋԵՔՏ» ՍՊԸ_
+Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Eurobaza-ից:
+[Գնիր օնլայն ](https://eurobaza.am/%20)
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/red_store.png)
+###### REDstore 
+_«Նոութբուք Սթոր» ՍՊԸ_
+Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, REDstore-ից:
+[Գնիր օնլայն ](https://redstore.am/%20)
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/vesta.png)
+###### Vesta
+_«Փրիթի-Ուեյ» ՍՊԸ_
+Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Vesta խանութների ցանցից:
+[Գնիր օնլայն ](https://vesta.am/)
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/v_and_v.png)
+###### V&V Electronics
+_«ՎԻ ԸՆԴ ՎԻ ԷԼԵԿՏՐՈՆԻԿՍ» ՍՊԸ_
+Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, V&V Electronics խանութների ցանցից:
+[Գնիր օնլայն ](https://v-v.am/)
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/ucom.png)
+###### Ucom
+_«Յուքոմ» ՓԲԸ_
+Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես Յուքոմից:
+[Գնիր օնլայն ](https://www.ucom.am/)
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/ispace.png)
+###### iSpace
+_«ԷՅ ԷՍ ԲԻ ՍԻ» ՍՊԸ_
+Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, iSpace խանութների ցանցից:
+[Գնիր օնլայն ](https://ispace.am/)
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/vega4.png)
+###### Vega
+_«Վեգա Ուորլդ» ՍՊԸ_
+Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Վեգա խանութների ցանցից:
+[Գնիր օնլայն ](https://vega.am/am)
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/zigzag-logo.png)
+###### Zigzag
+_«Զիգզագ» ՍՊԸ_
+Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Զիգզագ խանութների ցանցից:
+[Գնիր օնլայն ](https://www.zigzag.am/)
+  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/vlv-center.png)
+###### VLV Centre
+_«ՎԻԷԼՎԻ ՍԵՆԹՐ» ՍՊԸ_
+Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, ՎիԷլՎի խանութների ցանցից:
+[Գնիր օնլայն ](https://vlv.am/)
+
+
+##  Պայմաններ և սակագներ 
+  * [ Ապրանքների ձեռքբերման ապառիկ ֆինանսավորման պայմաններ ](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#Tab1_50088)
+  * [ Վճարումների կատարման եղանակներ ](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#Tab2_50088)
+  * [ Վարկային պատմություն և սքոր ](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#Tab3_50088)
+  * [ Օգտակար տեղեկություն ](https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance#Tab4_50088)
+
+  
+|  ****Հաճախորդի անձնական տվյալներ****  |  ****Հաճախորդի տարիք****  |  20 - 66  |  
+| --- | --- | --- |  
+|  ****Ռեզիդենտություն****  |  ՀՀ քաղաքացիություն ունեցող և չունեցող ՀՀ ռեզիդենտ ֆիզիկական անձինք *  |  
+|  ****Ծառայության պայմաններ****  |  ****Արժույթ****  |  ՀՀ դրամ  |  
+|  ****ֆինանսավորման սահմանաչափ****  |  Նվազագույնը` 50 000 ՀՀ դրամ  Առավելագույնը` 1 000 000 ՀՀ դրամ  |  
+|  ****Ժամկետ (ամիս)****  |  12 - 36 ամիս  |  
+ |  
+ |  
+ |  
+|  ****Կանխավճար****  |  Չի կիրառվում  |  
+|  ****Պարտքի մարման եղանակներ****  |  ****Մարման եղանակ****  |  Անուիտետային` պարտքի գումարի և տոկոսագումարի հանրագումարը վճարվում է հավասարաչափ` ամսական պարբերականությամբ  |  
+|  ****Ապահովվածություն****  |  ****Գրավադրվող գույքի նկարագրություն****  |  Գրավի առարկա հանդիսանում է գնվող ապրանքը   |  
+|  ****Պարտք/գրավ հարաբերակցության առավելագույն սահմանաչափ****  |  100%  |  
+|  ****Պահանջվող փաստաթղթեր****  |  ****Փաստաթղթեր****  |  • Անձը հաստատող փաստաթղթեր  |  
+|  • ՀԾՀ /Սոցիալական քարտ/  |  
+|  ****Տույժեր և տուգանքներ****  |  ****Տույժեր ժամկետանց մայր գումարի և տոկոսագումարի նկատմամբ****  |  Պայմանագրով սահմանված մարման ժամկետների խախտում թույլ տալու դեպքում Հաճախորդը Բանկին վճարում է տույժ` կետանցի յուրաքանչյուր օրվա համար. .ժամկետանց Պարտքի և կամ Ժամկետանց տոկոսագումարի 0.13 %-ի չափով  .պարտքի վաղաժամկետ մարման դեպքում տույժեր և տուգանքներ չեն գանձվում  |  
+|  ****Ծածկույթ****  |  ****Համայնքներ****  |  ՀՀ   |  
+  
+
+* Հայաստանի Հանրապետության ռեզիդենտ ֆիզիկական անձինք (այսուհետ` ռեզիդենտ ֆիզիկական անձինք) են համարվում այն ֆիզիկական անձինք, որոնք հարկային տարում Հայաստանի Հանրապետությունում փաստացի գտնվել են 183 և ավելի օր /ՀՀ Հարկային օրենսգրքի 25 հոդված/
+1. Վճարային տերմինալների միջոցով  
+2. Այլ բանկից դրամական փոխանցում կատարելու միջոցով  
+3. Բանկի մասնաճյուղերում  
+4. Օնլայն տարբերակով՝ **[բանկի կայքում](https://payments.ameriabank.am/LoanRepayment/hy)**  
+|  **Վճարման եղանակ**  |  **Միջնորդավճար**  |  
+| --- | --- |  
+|  Անկանխիկ եղանակով, ինչպես նաև «Ամերիաբանկ» ՓԲԸ վճարային տերմինալների միջոցով  |  0 դրամ  |  
+|  Easy Pay, TelCell, MobiDram, idram, UPay վճարային տերմինալների միջոցով  |  МobiDram, idram- 200 դրամ Easy Pay -300 ՀՀ դրամ Telcell - 400 ՀՀ դրամ  
+UPay – մինչև 35,000 ՀՀ դրամը` 200 դրամ, 35,001 ՀՀ դրամից սկսած` 0.6% HayPost - 300 ՀՀ դրամ  
+ |  
+|  Բանկում կանխիկ վճարման եղանակով  |  500 ՀՀ դրամ /յուրաքանչյուր գործողության համար/  |  
+|  Օնլայն տարբերակով՝ [**բանկի կայքում**](https://payments.ameriabank.am/LoanRepayment/hy)  |  0 դրամ  |  
+**ԴՈՒ ԻՐԱՎՈՒՆՔ ՈՒՆԵՍ ՀԱՂՈՐԴԱԿՑՎԵԼ ՖԻՆԱՆՍԱԿԱՆ ԿԱԶՄԱԿԵՐՊՈՒԹՅԱՆ ՀԵՏ ՔՈ ՆԱԽԸՆՏՐԱԾ ԵՂԱՆԱԿՈՎ՝ ՓՈՍՏԱՅԻՆ ԿԱՊԻ ՄԻՋՈՑՈՎ ԿԱՄ ԷԼԵԿՏՐՈՆԱՅԻՆ ԵՂԱՆԱԿՈՎ: ԷԼԵԿՏՐՈՆԱՅԻՆ ԵՂԱՆԱԿՈՎ ՏԵՂԵԿԱՏՎՈՒԹՅԱՆ ՍՏԱՑՈՒՄԸ ԱՄԵՆԱՀԱՐՄԱՐԱՎԵՏՆ Է: ԱՅՆ ՀԱՍԱՆԵԼԻ Է 24/7 ՌԵԺԻՄՈՎ, ԶԵՐԾ Է ԹՂԹԱՅԻՆ ՏԵՂԵԿԱՏՎՈՒԹՅԱՆ ԿՈՐՍՏԻ ՌԻՍԿԵՐԻՑ ԵՎ ԱՊԱՀՈՎՈՒՄ Է ԳԱՂՏՆԻՈՒԹՅՈՒՆ:**
+**ՎԱՐԿԱՅԻՆ** **ՊԱՏՄՈՒԹՅԱՆ** **ԵՎ** **ՎԱՐԿԱՅԻՆ****ԱՄՓՈՓ (****ՍՔՈՐ****)****ԳՆԱՀԱՏԱԿԱՆԻ ՎԵՐԱԲԵՐՅԱԼ ՏԵՂԵԿԱՏՎՈՒԹՅՈՒՆ**
+Սույն փաստաթուղթը ներկայացնում է «Ամերիաբանկ» ՓԲԸ (այսուհետ՝ «Բանկ») կողմից վարկավորման գործընթացում հաճախորդների վարկային պատմության և վարկային ամփոփ (սքոր) գնահատականի, դրա վրա ազդող գործոնների վերաբերյալ ՀՀ օրենսդրությամբ պահանջվող տեղեկատվությունը:
+**Վարկային պատմությունը** հաճախորդի կողմից ստանձնած դրամային պարտավորությունների վերաբերյալ վարկային բյուրոյի ձևավորած/մշակած տեղեկատվությունն է, որը ցույց է տալիս տվյալ հաճախորդի պարտքերը, վճարումները, վճարումների սովորությունները կամ պարտավորությունների կամ դրանց կատարման վերաբերյալ տեղեկատվությունը ու նշված տեղեկատվության դինամիկան/պատմությունը։
+Վարկային պատմության մեջ ներառվում է մասնավորապես հաճախորդի նույնականացման համար անհրժեշտ տեղեկատվությունը, հաճախորդի կողմից ստանձնած յուրաքանչյուր դրամային պարտավորության չափը, տարեկան տոկոսադրույքը, մնացորդը, վճարումների պարբերականությունը և կատարման ժամկետները, վճարումների ուշացումները, այլ անձանց տրված երաշխավորությունները, հաճախորդին փոխկապակցված անձանց պարտավորությունների վերաբերյալ տեղեկատվությունը՝ ապանձնավորված եղանակով, ինչպես նաև վարկային պատմության հարցումների վերաբերյալ տեղեկություններ։
+Որպես կանոն, վարկային պատմությունն օգտագործվում է ֆինանսական կազմակերպությունների կողմից հաճախորդի` դրամական (վարկային) պարտավորություններ ստանձնելու/ունենալու, երրորդ անձի/անձանց պարտավորությունների երաշխավոր լինելու, հաճախորդի կամ Բանկի նախաձեռնությամբ վերջինիս վարկավորման հնարավորությունները դիտարկելու, հաճախորդին վարկավորման առաջարկներ ներկայացնելու նպատակով:
+Հաճախորդի կողմից տրված համաձայնության հիման վրա Բանկը կատարում է հարցում ԱՔՌԱ վարկային բյուրո։ Վարկային պատմության վերաբերյալ տեղեկատվությունն արտացոլվում է վարկային զեկույց փաստաթղթում, որը պարունակում է հաճախորդի վարկային պատմությունը հարցման պահին նախորդող 5 տարիների համար։
+Հաճախորդը կարող է ծանոթանալ իր վարկային պատմությանը <http://www.acra.am/> կայքում։
+**Վարկային ամփոփ (սքոր) գնահատականը** հաճախորդի վարկունակության և վարկարժանության թվային գնահատականն է:
+Բանկը հաճախորդ/ներ/ի վարկավորման նպատակով կիրառում է վարկունակության և վարկարժանության սեփական գնահատման համակարգը, որի վրա ազդող հիմնական գործոնները ներկայացված են ստորև.
+  * **Վարկային պատմություն****․** գործող վարկերի քանակը և գումարը, վարկի ստացման համար դիմելու հաճախականությունը, դրական վարկային պատմությունը (վարկային պատմության մեջ ուշացումների բացակայությունը, վարկերի սպասարկման բարձր որակը) կարող են նպաստել վարկային գնահատականի բարձրացմանը և վարկավորման վերաբերյալ դրական որոշում կայացնելուն, իսկ վատ վարկային պատմությունը (վարկային պատմության մեջ ուշացումների առկայությունը, մարումների ուշացումների տևական լինելը) կարող է հիմք հանդիսանալ վարկային գնահատականը իջեցնելու և նոր վարկային հայտը մերժելու կամ առավել խիստ պայմաններով այն դիտարկելու համար:
+  * **Զբաղվածություն, եկամուտ և աշխատանքային փորձ**. Մշտական զբաղվածություն/աշխատանք և եկամուտ ունենալը կարող է նպաստել վարկային գնահատականի բարձրացմանը և վարկավորման վերաբերյալ դրական որոշում կայացնելուն։ Ոչ կայուն կամ ոչ մշտական զբաղվածություն/աշխատանք կամ եկամուտ ունենալը կարող է հիմք հանդիսանալ վարկային գնահատականը իջեցնելու և նոր վարկային հայտը մերժելու կամ առավել խիստ պայմաններով այն դիտարկելու համար:
+  * **Վարկային ծանրաբեռնվածություն****․** վարկային ծանրաբեռնվածության բարձր մակարդակը, վարկային բեռի մեծ տեսակարար կշիռը եկամուտներում կարող է հիմք հանդիսանալ վարկային գնահատականը իջեցնելու և նոր վարկային հայտը մերժելու կամ առավել խիստ պայմաններով այն դիտարկելու համար, մինչդեռ վարկային ծանրաբեռնվածության ցածր մակարդակը, ինչպես նաև վարկային բեռի փոքր տեսակարար կշիռը եկամուտներում կարող է նպաստել վարկային գնահատականի բարձրացմանը և վարկավորման վերաբերյալ դրական որոշում կայացնելուն:
+  * **ՖԱՅԿՈ Սքոր. Ֆայկո սքորը** սքորինգային համակարգ է, որը վիճակագրական ուսումնասիրության և վերլուծության ենթարկելով հաճախորդի վարկային պատմությունը՝ տրամադրում է վարկային ռիսկի թվային գնահատականը։ Այն կիրառվում է ամբողջ աշխարհում վարկատուների կողմից՝ որպես վարկունակության և ֆինանսական ռիսկերի գնահատման բանալի։ Մանրամասները՝ [acra.am](https://acra.am/%d5%bd%d6%84%d5%b8%d6%80/) կայքում:
+  * **Հաճախորդին բնութագրող այլ տեղեկատվություն**
+
+
+**Վարկային պատմության և վարկային գնահատականի կարևորությունը**
+Վարկային պատմությունը և վարկային գնահատականը կարևոր դեր են խաղում հաճախորդին վարկ տրամադրելու վերաբերյալ որոշման կայացման հարցում՝ թույլ տալով բանկերին և վարկային կազմակերպություններին վարկավորման գործընթացում գնահատելու հաճախորդի վարկային ռիսկի մակարդակը և կանխատեսելու վերջինիս կողմից իր դրամային պարտավորությունների պատշաճ կատարումը ու դրա հավանականությունը։
+**Սխալ կամ թերի վարկային պատմություն**
+Եթե վարկային պատմության մեջ առկա են սխալ կամ թերի տվյալներ, ապա դրանց ուղղման և պարզաբանման նպատակով հաճախորդը կարող է դիմել կա՛մ «ԱՔՌԱ Քրեդիտ Ռեփորթինգ» ՓԲԸ-ին (վարկային բյուրո), կա՛մ ուղղակիորեն դիմել տեղեկատվությունը վարկային բյուրոյին փոխանցած ֆինանսական կազմակերպությանը։
+«ԱՔՌԱ Քրեդիտ Ռեփորթինգ» ՓԲԸ դիմելու դեպքում ընթացակարգը և մանրամասն նկարագիրը ներկայացված է www.[acra.am](https://acra.am/%d5%af%d5%a1%d5%ba-%d6%87-%d5%a1%d5%bb%d5%a1%d5%af%d6%81%d5%b8%d6%82%d5%a9%d5%b5%d5%b8%d6%82%d5%b6/%d5%b0%d5%a1%d5%b3%d5%a1%d5%ad%d5%b8%d6%80%d5%a4%d5%ab-%d5%ab%d6%80%d5%a1%d5%be%d5%b8%d6%82%d5%b6%d6%84%d5%b6%d5%a5%d6%80/) կայքում։
+Եթե սխալ կամ թերի տեղեկատվությունը վարկային բյուրո փոխանցվել է Բանկի կողմից, հաճախորդը կարող է Բանկին դիմում ներկայացնել հետևյալ հաղորդակցման եղանակներից ցանկացածի միջոցով․
+  * Բանկի պաշտոնական էլեկտրոնային հասցեին դիմում ներկայացնելու միջոցով,
+  * Բանկի հետ 010/012 561111 հեռախոսահամարով կապ հաստատելու միջոցով,
+  * Բանկի Ինտերնետ/մոբայլ-բանկինգ համակարգով հաղորդագրություն ուղարկելու միջոցով,
+  * Բանկի ցանկացած մասնաճյուղում գրավոր դիմում ներկայացնելու միջոցով:
+
+
+Հաճախորդի դիմումին Բանկի կողմից ընթացք է տրվում ՀՀ օրենսդրությամբ և/կամ Բանկի ներքին իրավական ակտերով սահմանված կարգով և ժամկետներում:
+**Վարկային պատմության և վարկային գնահատականի բարելավման քայլեր**
+Վարկային պատմությունը և վարկային գնահատականը բարելավելու համար անհրաժեշտ է առաջին իսկ հնարավորության դեպքում վերացնել դրա հիմնական պատճառները, մասնավորապես․
+  * վարկերի հերթական մարումները կատարել սահմանված ժամանակացույցին համապատասխան՝ բացառելով ժամկետանց՝ նույնիսկ մեկ օրվա կտրվածքով պարտավորությունների գոյացումը,
+  * նվազեցնել տրված երաշխավորությունները՝ կրճատելով դրանց քանակը, դրանցով ապահովված պարտավորությունների գումարը, հնարավորության դեպքում ապահովելով նաև երաշխավորությամբ ապահովված ժամկետանց պարտավորությունների մարումը,
+  * թեթևացնել վարկային ծանրաբեռնվածությունը՝ մարելով գործող ժամկետանց պարտավորությունները,
+  * խուսափել հաճախակի նոր վարկերի ստացման դիմում ներկայացնելուց, քանի որ վարկային պատմության հարցումները (բացառությամբ վարկերի մոնիթորինգ իրականացնելու նպատակով հարցումների) կարող են բացասական ազդեցություն ունենալ հաճախորդի վարկային գնահատականի վրա:
+
+
+Վարկային պատմության (այդ թվում` դրա թերի կամ սխալ լինելու) և/կամ Վարկային ամփոփ (սքոր) գնահատականի վերաբերյալ առավել մանրամասն տեղեկատվություն ներկայացված է հետևյալ կայքերի համապատասխան բաժիններում.
+  * [acra.am](https://acra.am/%d5%af%d5%a1%d5%ba-%d6%87-%d5%a1%d5%bb%d5%a1%d5%af%d6%81%d5%b8%d6%82%d5%a9%d5%b5%d5%b8%d6%82%d5%b6/%d5%b0-%d5%bf-%d5%b0/) – Կապ և Աջակցություն – Հաճախ տրվող հարցեր
+  * [abcfinance.am](https://abcfinance.am/news/credit-history.html) – Սկիզբ - Կյանքի իրավիճակներ – Վարկային պատմություն. Հակիրճ ամենակարևորի մասին
+  * [abcfinance.am](https://abcfinance.am/news/news_varkayinscore.html) – Սկիզբ - Նորություններ – Ի՞նչ է ՍՔՈՐԸ և ինչպե՞ս այն բարելավել
+
+
+  * [Վարկ վերցնելիս եղեք տեղեկացված](https://ameriabank.am/personal/loans/more/support/information)
+  * [Ապրանքների ձեռքբերման և ծառայությունների մատուցման ապառիկ ֆինանսավորման տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/Leaflet_consumer_finance_arm.pdf)
+  * [Պայմաններ և կանոններ](https://ameriabank.am/Portals/0/files/Personal/web-info.pdf)
+  * [«Ամերիաբանկ» ՓԲԸ կողմից ֆիզիկական անձանց ապառիկ ֆինանսավորման ծառայության մատուցման հիմնական պայմաններ](https://ameriabank.am/Portals/0/files/basic_conditions_of_installment_financing-service_arm.pdf)
+  
+
+
+**Նախկին պայմաններ**
+  * [Ապրանքների ձեռքբերման և ծառայությունների մատուցման ապառիկ ֆինանսավորման տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-leaflets/Leaflet_consumer_finance_ed2_arm.pdf) (ուժի մեջ է 07.05.25թ.-ից մինչև 24.09.25)
+
+  
+Ձեր Ֆինանսական տեղեկատուն [www.fininfo.am](https://www.fininfo.am/)  
+**ՈՒՇԱԴՐՈՒԹՅՈՒՆ՝** «ՁԵՐ ՖԻՆԱՆՍԱԿԱՆ ՏԵՂԵԿԱՏՈՒՆ» ՖԻԶԻԿԱԿԱՆ ԱՆՁԱՆՑ ԱՌԱՋԱՐԿՎՈՂ ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐԻ ՈՐՈՆՄԱՆ, ՀԱՄԵՄԱՏՄԱՆ և ՁԵԶ ՀԱՄԱՐ ԱՄԵՆԱԱՐԴՅՈՒՆԱՎԵՏ ՏԱՐԲԵՐԱԿԻ ԸՆՏՐՈՒԹՅՈՒՆԸ ՀԵՇՏԱՑՆՈՂ ԷԼԵԿՏՐՈՆԱՅԻՆ ՀԱՄԱԿԱՐԳ Է
+### Օվերդրաֆտ
+![overdraft-icon](https://ameriabank.am/Portals/0/Images/icons/card-loan-icon.png)
+Վճարային քարտերով տրամադրվող օվերդրաֆտը քեզ հնարավորություն է տալիս առանց քարտային հաշվին նախապես գումար մուտքագրելու օգտագործել Բանկի կողմից տրամադրված վարկային միջոցները: 
+[ Իմանալ ավելին ](https://ameriabank.am/personal/loans/consumer-loans/overdraft)
+### Վարկային գիծ
+![credit-line-icon](https://ameriabank.am/Portals/0/Images/icons/credit-line-icon.png)
+Չնախատեսված ծախսերի, չպլանավորած գնումների դեպքում հասանելի միջոցներ ունենալու հարմարավետ տարբերակ է վարկային գիծը: 
+[ Իմանալ ավելին ](https://ameriabank.am/personal/loans/consumer-loans/credit-line)
+### MyPay
+![credit-limit-icon](https://ameriabank.am/Portals/0/Images/icons/credit-limit-icon.png)
+MyPay սահմանաչափը Բանկի կողմից նախապես հաստատված այն գումարի չափն է, որը կարող ես օգտագործել Բանկի հետ համագործակցող խանութ-սրահներում վճարումներ կատարելու համար: 
+[ Իմանալ ավելին ](https://ameriabank.am/personal/more/digital/mypay)
+### Բանկը պատասխանատվություն չի կրում այլ ինտերնետային կայքերի բովանդակության ստույգության և արժանահավատության, այնտեղ տեղադրված գովազդների համար, և ֆինանսական կազմակերպությունը պատասխանատվություն չի կրում այդ ինտերնետային կայքերում տեղադրված տեղեկատվության օգտագործման հնարավոր հետևանքների համար:
+Թարմացված է առ**30.09.2025 10:35**
+Հիմնական
+  * [Բանկի մասին](https://ameriabank.am/about-ameriabank/history)
+  * [Բանկի հիմնական ձեռքբերումները](https://ameriabank.am/about-ameriabank/developments-achievements)
+  * [Հաշվետվություններ](https://ameriabank.am/reports)
+  * [Էական փաստեր](https://ameriabank.am/about-ameriabank/material-information)
+  * [Էթիկայի կանոններ](https://ameriabank.am/about-ameriabank/ethics)
+  * [Բանկի ղեկավարները](https://ameriabank.am/bank-management)
+  * [Կորպորատիվ կառավարում](https://ameriabank.am/corporate-governance)
+  * [Նշանակալից մասնակցություն ունեցող անձինք](https://ameriabank.am/about-ameriabank/significant-shareholders)
+  * [Մասնաճյուղեր և բանկոմատներ](https://ameriabank.am/service-network)
+  * [Բաժնետերեր և ներդրողներ](https://ameriabank.am/about-ameriabank/shareholders-investors)
+  * [Բանկի կառուցվածքը](https://ameriabank.am/about-ameriabank/structure)
+  * [Ամերիա Օգնական](https://ameriabank.am/help-section)
+  * [Հետադարձ կապ](https://ameriabank.am/contact-us)
+
+
+Այլ տեղեկատվություն
+  * [Նորություններ](https://ameriabank.am/media-room)
+  * [Բլոգ](https://ameriabank.am/blog)
+  * [ԿՍՊ (CSR)](https://ameriabank.am/csr)
+  * [Ավելին](https://ameriabank.am/regulations)
+    * [Բանկի կողմից օտարվող գույք](https://ameriabank.am/grav-tenders)
+    * [Գնումներ](https://ameriabank.am/bank-tenders)
+    * [Իրավական ակտեր](https://ameriabank.am/regulations)
+    * [Հիմնական նոստրո հաշիվներ](https://ameriabank.am/nostro-accounts)
+    * [Հաճախորդների իրավունքները](https://ameriabank.am/client-rights)
+    * [Կարծիքի/բողոքի օնլայն հայտ](https://ameriabank.am/online-claim)
+    * [Ապահովագրական ընկերությունների ցանկ](https://ameriabank.am/insurance-companies)
+    * [Համագործակցող գնահատող ընկերությունների ցանկ](https://ameriabank.am/appraisal-companies)
+    * [Օգտակար հղումներ](https://ameriabank.am/useful-links)
+    * [Ֆինանսական անվտանգության խորհուրդներ](https://ameriabank.am/financial-security)
+
+
+Աշխատանք
+  * [Ամերիա թիմ](https://ameriabank.am/career/ameria-team)
+  * [Ինչու մեզ հետ](https://ameriabank.am/career/why-with-us)
+  * [Երիտասարդներին](https://ameriabank.am/career/student)
+  * [Ամերիա սերունդ](https://ameriabank.am/career/generation)
+  * [Աշխատատեղեր](https://recruitment.ameriabank.am/job-list?utm_source=ameriabank&utm_medium=vacancies&utm_campaign=career)
+
+
+![](https://ameriabank.am/portals/0/Icons/address.png?ver=2020-06-12-171740-567)
+ԳԼԽԱՄԱՍԱՅԻՆ ԳՐԱՍԵՆՅԱԿ 
+Վազգեն Սարգսյան 2, Երևան 0010, ՀՀ 
+![](https://ameriabank.am/portals/0/Icons/phone.png?ver=2020-06-12-171740-567)
+հեռախոսահամար`   
+(+37410) 56 11 11 կամ (+37412) 561111  
+
+![](https://ameriabank.am/portals/0/Icons/mail.png?ver=2020-06-12-172209-643)
+info@ameriabank.am
+[![facebook](https://ameriabank.am/portals/0/Icons/facebook.png?ver=2020-06-12-160158-830)](https://www.facebook.com/Ameriabank) [![linkedin](https://ameriabank.am/portals/0/Icons/linkedin.png?ver=2020-06-12-160158-987)](https://www.linkedin.com/company/ameriabank-cjsc/) [![youtubee](https://ameriabank.am/portals/0/Icons/youtubee.png?ver=2020-06-12-160159-080)](https://www.youtube.com/user/AmeriabankCJSC) [![instagram](https://ameriabank.am/portals/0/Icons/instagram.png?ver=2022-02-02-105005-313)](https://instagram.com/ameriabank?utm_medium=copy_link%20) [![telegram](https://ameriabank.am/portals/0/Icons/telegram.png?ver=2022-02-02-104954-837)](https://t.me/ameriabank_cjsc) [![x](https://ameriabank.am/Portals/0/Icons/x-icon.png)](https://x.com/AmeriaBankCJSC) [![tik tok](https://ameriabank.am/Portals/0/Icons/tik-tok.png)](https://www.tiktok.com/@ameriabank.cjsc)
+Ամերիաբանկ ՓԲԸ-ն վերահսկվում է ՀՀ ԿԲ կողմից: 
+© 2007-2026 Ամերիաբանկ. Բոլոր իրավունքները պաշտպանված են : [Terms Of Use](https://ameriabank.am/website-privacy-policy) : [Privacy Statement](https://ameriabank.am/website-privacy-policy)
