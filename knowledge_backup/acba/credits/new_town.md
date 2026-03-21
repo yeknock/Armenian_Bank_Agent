@@ -1,0 +1,33 @@
+SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/constructors/1677160792
+
+[ՆՅՈՒ ԹԱՈւՆ](https://www.acba.am/hy/individuals/loans/mortgage/constructors/1677160792)
+ՆՅՈՒ ԹԱՈւՆ
+![ՆՅՈՒ ԹԱՈւՆ](https://www.acba.am/thumbs/1000x/2023-02/7qsCz9e0ghudUP1yAZkFgy0m7g.jpg)
+![](https://www.acba.am/thumbs/768x300/2023-02/7qsCz9e0ghudUP1yAZkFgy0m7g.jpg)
+Այժմ հերթը քոնն է տեղափոխվել նոր բնակարան 
+![](https://www.acba.am/pics/arrow_down.png)![](https://www.acba.am/pics/arrow_up.png)
+[ Դիմեք օնլայն ](https://www.acba.am/hy/online-applications/Credit-applications/purchase-loans)
+[ Հաշվիչ ](https://www.acba.am/hy/calculators/Creditworthiness-calculator/mortgage-creditworthiness-calculator)
+[ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
+Պայմաններ  
+|  **Կառուցապատող**  |  **«ՆՅՈՒ ԹԱՈւՆ»**  |  
+| --- | --- |  
+|  **Հասցե**  |  ԱՐՄԱՎԻՐ, ՎԱՂԱՐՇԱՊԱՏ, Շահումյան փ., 75/4-6  |  
+|  **Կոնտակտային տվյալներ**  |  
+| **Հեռախոսահամար**  |  (+374) 44 000-807 (+374) 44 000-802  |  
+| **Էլ հասցե**  |  info@centralresidence.am  |  
+| **Կայք**  | -  |  
+| **Կարգավիճակ**  | Կառուցապատման փուլում  |  
+| **Հարկերի քանակ**  | 12  |  
+| **Բնակարանների քանակ**  |  149  |  
+| **Հասանելի բնակարանների քանակ*******  | 149  |  
+| **Շահագործման ամսաթիվ**  | 12/05/2025  |  
+| **Վաճառքի ենթակա բնակարանների կարգավիճակը**  | չվերանորոգված  |  
+| **Բնակարանի նվազագույն ք.մ.**  | 51.6 քմ  |  
+| **Բնակարանի առավելագույն ք.մ.**  | 166.1 քմ  |  
+| **Բնակարանի 1 ք.մ.-ի արժեք**  | 350.000 ՀՀ դրամ  |  
+| **Ավտոտնակի առկայություն**  | Այո  |  
+| **Ավտոտնակի արժեք**  | 3000000 ՀՀ դրամ  |  
+| **Կոնտակտային տվյալներ Բանկից**  |  010-31-88-88 (2141)  |  
+_  
+  

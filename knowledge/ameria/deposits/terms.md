@@ -1,8 +1,6 @@
-SOURCE: https://ameriabank.am/personal/saving/other-services/terms
 
 # Ավանդի ներդրման և սպասարկման կանոններ
 Այն ամենը, ինչ կարևոր է իմանալ 
-![A man with phone ](https://ameriabank.am/Portals/0/Images/internal-pages/business-banner.png)
   * [ Ընդհանուր ](https://ameriabank.am/personal/saving/other-services/terms#Tab1_11760)
   * [ Քաղվածքների տրամադրում ](https://ameriabank.am/personal/saving/other-services/terms#Tab2_11760)
 

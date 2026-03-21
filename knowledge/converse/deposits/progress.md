@@ -1,4 +1,3 @@
-SOURCE: https://conversebank.am/hy/progress/
 
 
 # Պրոգրես
@@ -97,7 +96,6 @@ SOURCE: https://conversebank.am/hy/progress/
 Ձեր հաշվում առկա միջոցների նկատմամբ տոկոսագումարները հաշվարկվում են պարզ տոկոսադրույքի հիման վրա, իսկ տարեկան տոկոսային եկամտաբերությունը ցույց է տալիս, թե որքան եկամուտ կստանայիք դուք` Ձեր կողմից ավանդի հետ կապված պարտադիր վճարներ կատարելու և սահմանված պարբերականությամբ վաստակած տոկոսագումարները ստանալու արդյունքում:  
 Ավանդի տարեկան տոկոսային եկամտաբերության չափի հաշվարկման համար հիմք է ընդունվում ՀՀ ԿԲ ««Բանկային ավանդների տարեկան տոկոսային եկամտաբերության հաշվարկումը» Կանոնակարգ 8/02»-ով սահմանված հետևյալ բանաձևը՝  
 
-![](https://conversebank.am/u_files/image/Photos%202019/Untitled.png)
   
 • A – ավանդի սկզբնական գումար  
 • ո – ավանդի դիմաց դրամական հոսքերի հերթական համար  
@@ -255,19 +253,5 @@ SOURCE: https://conversebank.am/hy/progress/
 
 
 
-Այժմ ներդրեք Պրոգրես ավանդը նաև առցանց ՀԾ Ինտերնետ-Բանկ համակարգի միջոցով՝ հետևելով **[ՈւՂԵՑՈՒՅՑԻ](https://conversebank.am/u_files/file/Documents2019/Deposit%20Userguide_2019.pdf)** քայլերին: 
 Թարմացվել է 08.05.2025թ.
-[**Տեղեկատվական ամփոփագիր**](https://conversebank.am/u_files/file/2025/Progress%20May%202025.pdf)
-[**Ավանդի ներդրման պայմանները մինչ 08.05.2025**](https://conversebank.am/u_files/file/2025/Progress%20Apr%202025.pdf)
-[**Ավանդի ներդրման պայմանները մինչ 01.04.2025**](https://conversebank.am/u_files/file/Ampopagir%202024/Progress%20Nov%202024.pdf)
-[**Ավանդի ներդրման պայմանները մինչ 01.11.2024**](https://conversebank.am/u_files/file/Ampopagir%202024/Progress%20May%202024.pdf)  
   
-[**Ավանդի ներդրման պայմանները մինչ 08.06.2024**](https://conversebank.am/u_files/file/2024/Progress%20Jan%202024.pdf)
-[**Ավանդի ներդրման պայմանները մինչ 14.01.2024**](https://conversebank.am/u_files/file/Avand/Progress%20Nov%202023\(1\).pdf)
-[**Ավանդի ներդրման պայմանները մինչ 04․12․2023**](https://conversebank.am/u_files/file/2023/Progress%20Sep%202023.pdf)
-[**Ավանդի ներդրման պայմանները մինչ 18․09․2023**](https://conversebank.am/u_files/file/Ampopagir%202023/Progress%20Aug%202023.pdf)
-[**Ավանդի ներդրման պայմանները մինչ 23.08.2023**](https://conversebank.am/u_files/file/Ampopagir%202023/%2339/Progress%20Apr%202023.pdf)
-[**Ավանդի ներդրման պայմանները մինչ 08․05․2023**](https://conversebank.am/u_files/file/Ampopagir%202023/Progress%20Feb%202023.pdf)
-[**Ավանդի ներդրման պայմանները մինչ 15․02․2023**](https://conversebank.am/u_files/file/Ampopagir%202023/%23186%20/Progress%20Jan%202023.pdf)
-[**Ավանդի ներդրման պայմանները մինչ 20․01․2023**](https://conversebank.am/u_files/file/Ampopagrer%202022/%D4%B1%D5%BE%D5%A1%D5%B6%D5%A4%D5%B6%D5%A5%D6%80/01_09/Progress%20Aug%202022.pdf)[**  
-**](https://conversebank.am/u_files/file/Ampopagrer%202022/%D4%B1%D5%BE%D5%A1%D5%B6%D5%A4%D5%B6%D5%A5%D6%80/01_09/Progress%20Aug%202022.pdf)

@@ -1,8 +1,6 @@
-SOURCE: https://ameriabank.am/personal/saving/saving/bonds
 
 # Պարտատոմսեր 
 Ամեն ինչ պարտատոմսերի մասին 
-![A guy with green plant](https://ameriabank.am/Portals/0/Images/loans/Investment-loan.png)
 ## **Ի՞նչ է պարտատոմսը**
   
 
@@ -10,16 +8,13 @@ SOURCE: https://ameriabank.am/personal/saving/saving/bonds
 Մենք թողարկում ենք պարտատոմսեր և հանրությունից որոշակի ժամկետով ֆինանսավորում ներգրավում: Դու ևս կարող ես դառնալ պարտատոմսերի սեփականատեր և պարբերաբար տոկոսագումարներ ստանալ արժեկտրոնի տեսքով: Ժամկետի ավարտին մենք կվճարենք պարտատոմսերի անվանական արժեքը:  
 
 ## Առավելություններ
-![insurance icon](https://ameriabank.am/Portals/0/Images/icons/insurance.png)
 ###### Ապահով
 Բանկերի կողմից թողարկված պարտատոմսերում իրականացված ներդրումները երաշխավորված են Ավանդների hատուցումը երաշխավորող hիմնադրամի կողմից ճիշտ այնպես, ինչպես ավանդները: 
-![percent icon](https://ameriabank.am/Portals/0/Images/icons/percent.png)
 ###### Շահավետ
 Անգամ պարտատոմսերը վաճառելու դեպքում ներդրողը ստանում է կուտակված տոկոսագումարները: 
 ## Տեղաբաշխումներ և թողարկումներ 
 Ծանոթացիր բանկի պարտատոմսերի և բաժնետոմսերի հրապարակային առաջարկներին 
 [Իմանալ ավելին ](https://ameriabank.am/investment/services/new-issues-and-placements)
-![man with glasses is smiling](https://ameriabank.am/Portals/0/Images/internal-pages/Ameria-Partner.png)
 ##  [Հարց ու պատասխան](https://ameriabank.am/personal/saving/saving/bonds#)
 ####  Ի՞նչ է բանկի կողմից թողարկված պարտատոմսը: 
 Բանկը թողարկում է պարտատոմսեր` հանրությունից որոշակի ժամկետով դրամական միջոցներ ներգրավելու նպատակով: Մենք պարտատոմսերի սեփականատերերին պարբերաբար վճարում ենք տոկոսագումարներ՝ արժեկտրոնի տեսքով, իսկ ժամկետի ավարտին վճարում ենք պարտատոմսերի անվանական արժեքը:
@@ -111,14 +106,11 @@ SOURCE: https://ameriabank.am/personal/saving/saving/bonds
 **Շուկայական եկամտաբերություն/տոկոսադրույք**
 Այն տոկոսադրույքն է, որի փոփոխությունն ազդում է պարտատոմսի գնի վրա: Տեղաբաշխման ժամկետում շուկայական տոկոսադրույքը հավասար է պարտատոմսի արժեկտրոնային տոկոսադրույքին, ուստի տեղաբաշխման ժամկետում պարտատոմսերը վաճառվում են անվանական արժեքով:
 ### Ավանդ
-![deposit icon](https://ameriabank.am/Portals/0/Images/icons/deposit.png)
 Մենք օգնում ենք քեզ գտնել կարճ ճանապարհներ, որպեսզի դու հասնես քո նպատակներին ավելի արագ, քան երբևէ։ 
 [ Իմանալ ավելին ](https://ameriabank.am/personal/saving/deposits/ameria-deposit)
 ### Խնայողական հաշիվ 
-![student card icon](https://ameriabank.am/Portals/0/Images/icons/Student-card.png)
 Դու կարող ես ներդնել որոշակի գումար՝ դրա նկատմամբ հաշվարկվող հարմար տոկոսադրույքով, ցանկացած ժամանակ ավելացնել կամ նվազեցնել գումարը, ինչպես նաև օգտագործել այն՝ առանց սահմանափակումների: 
 [ Իմանալ ավելին ](https://ameriabank.am/personal/accounts/accounts/saving-account)
 ### Բրոքերային ծառայություններ
-![Brokerage-accounts icon](https://ameriabank.am/Portals/0/Images/icons/Brokerage-accounts.png)
 Բացի՛ր բրոքերային հաշիվ և վաստակե՛ք արժեթղթերի շուկայի միջոցով՝ գնելով համաշխարհային գիգանտ կազմակերպությունների բաժնետոմսեր և պարատատոմսեր։ 
 [ Իմանալ ավելին ](https://ameriabank.am/investment/operations/brokerage)

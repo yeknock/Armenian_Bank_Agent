@@ -1,17 +1,12 @@
-SOURCE: https://ameriabank.am/loans/secured-loans/overdraft
 
 
 # Գրավով ապահովված օվերդրաֆտ 
 Գումար, որը միշտ ձեռքիդ տակ է, որ դու հանգիստ լինես 
 Դիմիր հիմա
-![banner-img](https://ameriabank.am/Portals/0/Images/Cards/gravov-overdraft.png)
-![loan limit icon](https://ameriabank.am/Portals/0/Images/icons/loan-limit-icon.png)
 ###### 1 ‒ 100 մլն ՀՀ դրամ 
 Վարկի գումար
-![time icon](https://ameriabank.am/Portals/0/Images/icons/overdraft-time-icon.png)
 ###### Անժամկետ
 Մարման ժամկետ
-![percentage-icon](https://ameriabank.am/Portals/0/Images/icons/percentage-icon.png)
 ###### ՀՀ դրամ` 17%
 Անվանական տոկոսադրույք*
 *Փաստացի տոկոսադրույք` ՀՀ դրամ - 18.42-22.79%
@@ -22,16 +17,12 @@ SOURCE: https://ameriabank.am/loans/secured-loans/overdraft
 
 ## Շտապի՛ր օգտվել   
 առավելություններից
-  * ![...](https://ameriabank.am/Portals/0/Images/icons/check-mark.png)
 ###### Պարզեցված գործընթաց 
 Ստացի′ր գրավիդ 30-40%-ի չափով գումար երաշխավորված կերպով` **առանց վճարունակության գնահատման:**
-  * ![...](https://ameriabank.am/Portals/0/Images/icons/check-mark.png)
 ###### Գրավիդ մինչև 70%-ի չափով գումար ստանալու հնարավորություն
 Ստացի′ր վարկ` գրավադրվող գույքի արժեքի մինչև 70%-ի չափով, **վճարունակության գնահատմամբ:**
-  * ![...](https://ameriabank.am/Portals/0/Images/icons/check-mark.png)
 ###### Անվճար կանխիկացում
 Կանխիկացրո′ւ սպառողական վարկդ Ամերիաբանկի բանկոմատներում` առանց հավելյալ վճարի: 
-  * ![...](https://ameriabank.am/Portals/0/Images/icons/check-mark.png)
 ###### Անվճար տրամադրում վարկն այլ բանկից տեղափոխելիս
 Տեղափոխի′ր գրավով սպառողական վարկդ Ամերիաբանկ` առանց տրամադրման վճարի: 
 
@@ -39,65 +30,39 @@ SOURCE: https://ameriabank.am/loans/secured-loans/overdraft
 ## Համեմատիր գրավով ապահովված սպառողական վարկերը
 ԲՈԼՈՐ ՃԱՆԱՊԱՐՀՆԵՐԸ ՏԱՆՈՒՄ ԵՆ ԴԵՊԻ ԱՄԵՐԻԱ: ԸՆՏՐԻՐ ԱՄԵՆԱԿԱՐՃԸ
 ##### Սպառողական վարկ
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 16.84-20.23 փաստացի տոկոսադրույք
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 36 ‒ 120 ամիս մարման ժամկետ
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 3 ‒ 50 մլն ֏ վարկի գումար
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 Մեծ, պլանավորված, մեկանգամյա գնումների համար
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 Կանխիկ վճարումների համար 
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 Ամսական ֆիքսված մարումներ 
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 Անվճար կանխիկացում 
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 Տոկոսի հաշվարկ ստացած գումարի նկատմամբ
 Դիմիր հիմա
 ##### Օվերդրաֆտ 
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 18,42 ‒ 22,79% փաստացի տոկոսադրույք
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 Անժամկետ մարում 
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 1 մլն ‒ 100 մլն ֏ վարկի գումար
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 Չնախատեսված ծախսերի համար 
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 Կանխիկ և անկանխիկ վճարումների համար 
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 Անվճար կանխիկացում 
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 Տոկոսի հաշվարկ ծախսված գումարի նկատմամբ 
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 Վերականգնվող վարկատեսակ 
 Դիմիր հիմա
 ##### Վարկային գիծ 
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 18,42 ‒ 22,79% փաստացի տոկոսադրույք
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 Անժամկետ մարում 
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 1 մլն ‒ 100 մլն ֏ վարկի գումար
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 Չնախատեսված ծախսերի համար 
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 Անկանխիկ վճարումների համար 
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 Կանխիկացում` միջնորդավճարով 
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 Տոկոսի հաշվարկ ծախսված գումարի նկատմամբ 
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 0% տոկոսադրույք 51 օրում մարելու դեպքում 
-![icon](https://ameriabank.am/Portals/0/Icons/Redesign/green-icon-check.png)
 Վերականգնվող վարկատեսակ 
 Դիմիր հիմա
 ## Դեռ Ամերիաբանկի հաճախորդ չե՞ս
 Պատվիրի′ր անվճար քարտ, իսկ մենք անվճար կառաքենք այն
 [Պատվիրել օնլայն](https://join.myameria.am/?ref=7A46E509-7CD8-41F7-96C4-5EE4E7F3CBDA)
-![...](https://ameriabank.am/Portals/0/Images/New-home/cta-debit-card.png)
 ##  Պայմաններ և սակագներ 
   * [ Հարց ու պատասխան ](https://ameriabank.am/loans/secured-loans/overdraft#Tab1_50658)
   * [ Օվերդրաֆտ՝ ապահովությամբ ](https://ameriabank.am/loans/secured-loans/overdraft#Tab2_50658)
@@ -322,10 +287,7 @@ SOURCE: https://ameriabank.am/loans/secured-loans/overdraft
 
 **Օվերդրաֆտ՝ ապահովությամբ**  
 
-  * [Ապահովությամբ օվերդրաֆտի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/leaflets/Overdraft_secured.pdf)
-  * [Ֆիզիկական անձանց վարկավորման պայմաններ /Քարտով օվերդրաֆտներ](https://ameriabank.am/Portals/0/files/Personal/Loans/secured_overdraft_arm.pdf)  
 
-  * [Պայմաններ և կանոններ](https://ameriabank.am/Portals/0/files/Personal/web-info.pdf)
   * [«Ֆինանսներ բոլորի համար» abcfinance.am ինտերնետային կայք](http://www.abcfinance.am/)
   * [Վարկ վերցնելիս եղիր տեղեկացված](https://ameriabank.am/personal/loans/more/support/information)
   * [ Ձեր Ֆինանսական տեղեկատուն՝ www.fininfo.am](http://www.fininfo.am/)   
@@ -346,8 +308,3 @@ SOURCE: https://ameriabank.am/loans/secured-loans/overdraft
 |  9. Վարկի մարման օրվա փոփոխություն  |  10,000 ՀՀ դրամ  |  
 |  10. Սույն փաստաթղթով չսահմանված և գրավի առարկային առնչվող այլ համաձայնության տրամադրում  |  10,000 ՀՀ դրամ (ներառյալ ԱԱՀ)  |  
 |  11. Սույն փաստաթղթով չսահմանված վարկի ցանկացած այլ պայմանի վերանայում/փոփոխություն  |  Վարկի մնացորդի 0,1%-ի չափով` նվազագույնը 10,000 ՀՀ դրամ  |  
-  * [Ապահովությամբ օվերդրաֆտի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-leaflets/Overdraft_secured_01.10.2024_arm.pdf)(ուժի մեջ է 01.10.25-ից մինչև 28.02.25)
-  * [Ապահովությամբ օվերդրաֆտի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-leaflets/Overdraft_unsecured_01.02.24_arm.pdf) (ուժի մեջ է 01.02.24-ից մինչև 02.06.24)
-  * [Ֆիզիկական անձանց վարկավորման պայմաններ ապահովությամբ /Քարտով օվերդրաֆտներ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/secured_overdraft_ed65_arm.pdf) (ուժի մեջ է 01.10.25-ից մինչև 28.02.25)
-  * [Ֆիզիկական անձանց վարկավորման պայմաններ ապահովությամբ /Քարտով օվերդրաֆտներ](https://ameriabank.am/Portals/0/files/Personal/Loans/secured_overdraft_ed61_arm.pdf) (ուժի մեջ է 03.06.24-ից մինչև 29.07.24)
-  * [Ֆիզիկական անձանց վարկավորման պայմաններ ապահովությամբ /Քարտով օվերդրաֆտներ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/secured_overdraft_ed60_arm.pdf) (ուժի մեջ է 01.02.24-ից մինչև 02.06.24)

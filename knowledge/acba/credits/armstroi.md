@@ -1,4 +1,3 @@
-SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/constructors/1677159043
 
 
 Պայմաններ  

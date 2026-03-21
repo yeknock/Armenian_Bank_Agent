@@ -1,4 +1,3 @@
-SOURCE: https://conversebank.am/hy/students/
 
 # Ուսանողական վարկեր
   * [Հիփոթեքային վարկեր](https://conversebank.am/hy/house/)

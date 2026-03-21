@@ -1,9 +1,7 @@
-SOURCE: https://ameriabank.am/personal/loans/mortgage/special-offers/for-the-usa-citizens
 
 
 # ԱՄՆ քաղաքացիների, մշտական բնակիչների, ռեզիդենտների համար
 Մենք ուզում ենք, որ Հայաստանը քեզ շատ մոտ լինի 
-![banner-img](https://ameriabank.am/Portals/0/Images/internal-pages/Accounts-for-non-residents-banner.png)
 Այս առաջարկը ԱՄՆ քաղաքացիների, մշտական բնակիչների, ռեզիդենտների համար է: 
 Մենք առաջարկում ենք [հաշվի օնլայն բացում](https://ameriabank.am/personal/accounts/accounts-management/accounts-for-non-residents), որի դեպքում դու կստանաս նաև անվճար Օնլայն/Մոբայլ բանկինգ՝ հաշիվներդ հեռավար կառավարելու համար, ինչպես նաև անշարժ գույքի վարկեր, մասնավորապես՝
   * գույքի ձեռքբերում [առաջնային](https://estate.ameriabank.am/home) և [երկրորդային](https://ameriabank.am/personal/loans/mortgage/secondary-market) շուկայից,

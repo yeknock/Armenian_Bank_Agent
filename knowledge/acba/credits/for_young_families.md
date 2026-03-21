@@ -1,11 +1,7 @@
-SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/for-young-families
 
 
 Մատչելի Բնակարան երիտասարդ ընտանիքներին
-![Hipotekayin varker](https://www.acba.am/thumbs/1000x/2015-01/eePwZCzEWyjwY9jvjykec5YuAK.jpg)
-![](https://www.acba.am/thumbs/768x300/2015-01/eePwZCzEWyjwY9jvjykec5YuAK.jpg)
 **Գտե՛ք Ձեր երազանքների բնակարանը մեզ հետ միասին:**
-![](https://www.acba.am/pics/arrow_down.png)![](https://www.acba.am/pics/arrow_up.png)
 [ Հաշվիչ ](https://www.acba.am/hy/calculators/loan-calculator/Affordable-housing-calculator)
 [ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Այցեքարտ
@@ -18,7 +14,6 @@ SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/for-young-families
 Տարեկան տոկոսադրույք
 [Մանրամասն »](https://www.acba.am/#prodFeatureInvisibleContent_516)
 Տարեկան տոկոսադրույք
-![](https://www.acba.am/pics/white_close_btn.png)
 **Առաջնային շուկայից** (անմիջապես կառուցապատողից) ձեռքբերելու դեպքում.   
 **7.5%** , որից սուբսիդավորում չի նախատեսվում  
 **Երկրորդային շուկայից** ձեռքբերելու դեպքում՝ **7.5-8.5%**.  
@@ -26,13 +21,11 @@ SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/for-young-families
 Առավելագույն գումար
 [Մանրամասն »](https://www.acba.am/#prodFeatureInvisibleContent_518)
 Առավելագույն գումար
-![](https://www.acba.am/pics/white_close_btn.png)
 27,750,000 ՀՀ դրամ՝ առաջնային շուկայից (անմիջապես կառուցապատողից) անշարժ գույքի ձեռքբերման դեպքում  
 22,500,000 ՀՀ դրամ՝ երկրորդային շուկայից անշարժ գույքի ձեռքբերման դեպքում 
 Ապահովվածություն
 [Մանրամասն »](https://www.acba.am/#prodFeatureInvisibleContent_520)
 Ապահովվածություն
-![](https://www.acba.am/pics/white_close_btn.png)
 Ձեռք բերվող բնակելի անշարժ գույք, անհրաժեշտության դեպքում` նաև վարկառուին (համավարկառուին) պատկանող այլ բնակելի անշարժ գույք և/կամ երաշխավորությաուն (ներ): 
 Առավելություններ
 Տրամադրման պայմաններ
@@ -90,11 +83,8 @@ SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/for-young-families
   
 **Տեղեկացեք մանրամասն.**
 **  
-**Հնարավոր լրացուցիչ վճարումների չափի մասին՝[Վարկային սակագներ](https://www.acba.am/files/loans-tariffs.pdf):****
 [Վարկային սակագների նախկին պայմաններ](https://www.acba.am/hy/1565846920)
 Պետական աջակցության ծրագրերն են՝
-  1. [Մարզում հիփոթեքի աջակցության ծրագիր](https://www.acba.am/files/dramakan-ajakcutyun.pdf)
-  2. [Հիփոթեքի մարման աջակցության ծրագիր](https://www.acba.am/files/dramakan-ajakcutyun-mayr-gumar.pdf)
 
 
   * Դիմողի, գնվող/գրավադրվող անշարժ գույքի համասեփականատերերի անձը հաստատող փաստաթուղթ,
@@ -139,11 +129,9 @@ SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/for-young-families
 *մարման չափը կարող է տարբերվել` կախված տվյալ ամսվա օրերի քանակից
   
   
-ՈՒՇԱԴՐՈՒԹՅՈՒՆ՝ ՎԱՐԿԻ ՏՈԿՈՍԱԳՈՒՄԱՐՆԵՐԸ ՀԱՇՎԱՐԿՎՈՒՄ ԵՆ ԱՆՎԱՆԱԿԱՆ ՏՈԿՈՍԱԴՐՈՒՅՔԻ ՀԻՄԱՆ ՎՐԱ, ԻՍԿ ՏԱՐԵԿԱՆ ՓԱՍՏԱՑԻ ՏՈԿՈՍԱԴՐՈՒՅՔԸ ՑՈՒՅՑ Է ՏԱԼԻՍ, ԹԵ ՈՐՔԱՆ ԿԱՐԺԵՆԱ ՎԱՐԿԸ ՁԵԶ ՀԱՄԱՐ ՏՈԿՈՍԱԳՈՒՄԱՐՆԵՐԸ ԵՎ ՎԱՐԿԻ ՏՐԱՄԱԴՐՄԱՆ և ՍՊԱՍԱՐԿՄԱՆ ԳԾՈՎ ԲՈԼՈՐ ՊԱՐՏԱԴԻՐ ՎՃԱՐՆԵՐԸ ՍԱՀՄԱՆՎԱԾ ԺԱՄԿԵՏՆԵՐՈՒՄ ԵՎ ՉԱՓԵՐՈՎ ԿԱՏԱՐԵԼՈՒ ԴԵՊՔՈՒՄ: ՓԱՍՏԱՑԻ ՏՈԿՈՍԱԴՐՈՒՅՔԻ ՀԱՇՎԱՐԿԸ ԿԱՐՈՂ ԵՔ ԳՏՆԵԼ [ԱՅՍՏԵՂ](https://www.acba.am/uploaded/tarekan-pastaci-hashvark.pdf)։՝
 **  
 Տեղեկացեք****մանրամասն****.**
   
-Վարկառուի կողմից իր պարտավորությունները ժամանակին չկատարելու դեպքում յուրաքանչյուր ժամկետանց օրվա համար հաշվարկվում է տուժանք 0.13%-ի չափով ([կիրառվող տույժեր](http://www.acba.am/uploaded/tuyjer.pdf))։
 Վարկի մարումներն իրականացվում են հետևյալ հերթականությամբ (ժամկետանց պարտավորությունները կատարելու դեպքում)`
   * Տույժ/տուգանք
   * Տոկոսագումար
@@ -158,9 +146,6 @@ SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/for-young-families
 **Նաիրի ինշուրանս** (հասցե՝ ՀՀ, 0010, ք. Երևան, Վազգեն Սարգսյան 10 շ., թիվ 110 տարածք, հեռ՝ (374) 60 50 00 60)
 [   
   
-](https://www.acba.am/uploaded/tuyjer_8.pdf)[Բանկի հետ համագործակցող որակավորված անկախ գնահատող ընկերություններ](https://www.acba.am/uploaded/ankakh-gnahatogh-arm.pdf)
-[Մատչելի բնակարան երիտասարդների վարկի տեղեկատվական ամփոփագիր](https://www.acba.am/uploaded/eritasardnerin-ampopagir.pdf)
-[](http://www.acba.am/uploaded/eritasardnerin-ampopagir.pdf)
 «Երիտասարդ ընտանիքին` մատչելի բնակարան» ծրագրի շրջանակներում տրամադրվում են անշարժ գույքի գնման հիփոթեքային վարկեր՝ ՀՀ տարածքում գտնվող բնակելի անշարժ գույքի ձեռքբերման և բնակության նպատակով:
   * Վարկի գումարը տրամադրվում է անկանխիկ
   * Վարկ տրամադրելու դրական որոշման գործոններն են հաճախորդի վարկունակության գնահատումը,
@@ -231,5 +216,4 @@ SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/for-young-families
 
 
 ****  
-Վարկային պատմության կարևորության և սքորի կիրառության վերաբերյալ կարող եք ծանոթանալ[ այստեղ](https://www.acba.am/files/acba%20credit%20score.pdf)**  
   

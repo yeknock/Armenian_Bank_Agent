@@ -1,26 +1,19 @@
-SOURCE: https://ameriabank.am/personal/loans/car-loan/primary
 
 
 # Ավտովարկ առաջնային շուկայից
 Քո նոր մեքենայի ղեկին 
 [Դիմիր օնլայն](https://mycar.am/apply-now)
-![A guy with toy car](https://ameriabank.am/Portals/0/Images/car-loan/Car-loans_primary.png)
-![loan amount icon](https://ameriabank.am/Portals/0/Images/icons/loan-limit-icon.png)
 ###### 3 - 100 մլն ՀՀ դրամ 
 Վարկի գումար
-![loan term icon](https://ameriabank.am/Portals/0/Images/icons/overdraft-time-icon.png)
 ###### 84 ամիս 
 Մարման ժամկետ
-![percentage-icon](https://ameriabank.am/Portals/0/Images/icons/percentage-icon.png)
 ###### 14.9% 
 Անվանական տոկոսադրույքներ
-![check-mark icon](https://ameriabank.am/Portals/0/Images/icons/check-mark.png)
 ###### սկսած 5 %-ից
 Նվազագույն կանխավճար
 ## **Ավտովարկ առաջնային շուկայից**
 Գտի'ր քեզ անհրաժեշտ ավտոմեքենան և վայելիր քո ուղևորությունները: Ընտրիր քո նոր մեքենան ավտոսրահից, իսկ մենք կօգնենք ֆինանսավորման հարցերում: Այս վարկատեսակի միջոցով կարող ես մեքենա ձեռք բերել առաջնային շուկայից, ինչպես նաև մեզ մոտ տեղափոխել այլ բանկում կամ վարկային կազմակերպությունում ունեցած առաջնային շուկայից տրանսպորտային միջոցի ձեռքբերման նպատակով վարկերը: 
 #### ԱՌԱՎԵԼՈՒԹՅՈՒՆՆԵՐ
-* * *
 Loan calculator
 ## Ավտովարկի հաշվիչ
 Արժեքների մուտքագրումը սահմանափակված է՝ ըստ Բանկի պայմանների
@@ -43,7 +36,6 @@ Loan calculator
 ## Գտի՛ր քո մեքենան առաջնային շուկայից 
 Ընտրի՛ր քո ավտոմեքենան, իմացիր՝ որքան գումարի վարկ կարող ես ստանալ, լրացրու վարկային հայտն անմիջապես ավտոսրահում և ստացիր պատասխանը 5 րոպեում 
 [Փնտրիր հիմա](https://mycar.am/home)
-![A guy with phone applying for online car loan](https://ameriabank.am/Portals/0/Images/car-loan/car-cta-2.png)
 ##  Պայմաններ և սակագներ
   * [ Պայմաններ ](https://ameriabank.am/personal/loans/car-loan/primary#Tab1_17145)
   * [ Սակագներ ](https://ameriabank.am/personal/loans/car-loan/primary#Tab2_17145)
@@ -232,8 +224,6 @@ Loan calculator
 
 
   * [Առաջնային շուկայից տրանսպորտային միջոցի ձեռքբերման վարկի տեղեկատվական ամփոփագիր](https://ameriabank.am/personal/loans/more/support/guides)
-  * [Առաջնային շուկայից տրանսպորտային միջոցի ձեռքբերման սպառողական վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/car-loan/Car_Loans_primary_arm.pdf)
-  * [Լողացող (Ճշգրտվող) տոկոսադրույքի սահմանման, հաշվարկման և փոփոխման կարգի մասին](https://ameriabank.am/userfiles/file/Retail/Floating_Agreement_arm.pdf)
   * [«Ֆինանսներ բոլորի համար» abcfinance.am ինտերնետային կայք](http://www.abcfinance.am/)
   * [Համագործակցող ավտոսրահների ցանկին ծանոթացիր այստեղ](https://automarket.ameriabank.am/dealers?pageNumber=1&pageSize=12)
   * [Ձեր Ֆինանսական տեղեկատուն՝ www.fininfo.am](http://www.fininfo.am/)   
@@ -242,26 +232,16 @@ Loan calculator
 "ՁԵՐ ՖԻՆԱՆՍԱԿԱՆ ՏԵՂԵԿԱՏՈՒՆ" ՖԻԶԻԿԱԿԱՆ ԱՆՁԱՆՑ ԱՌԱՋԱՐԿՎՈՂ ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐԻ ՈՐՈՆՄԱՆ, ՀԱՄԵՄԱՏՄԱՆ և ՁԵԶ ՀԱՄԱՐ ԱՄԵՆԱԱՐԴՅՈՒՆԱՎԵՏ ՏԱՐԲԵՐԱԿԻ ԸՆՏՐՈՒԹՅՈՒՆԸ ՀԵՇՏԱՑՆՈՂ ԷԼԵԿՏՐՈՆԱՅԻՆ ՀԱՄԱԿԱՐԳ Է:**
 
 
-  * [Առաջնային շուկայից տրանսպորտային միջոցի ձեռքբերման սպառողական վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/Car_Loans_primary_ed65_arm.pdf) (ուժի մեջ է 01.02.26-ից մինչև 15.03.26)
-  * [Առաջնային շուկայից տրանսպորտային միջոցի ձեռքբերման սպառողական վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/Car_Loans_primary_ed64_arm.pdf) (ուժի մեջ է 20.10.25-ից մինչև 31.01.26)
-  * [Առաջնային շուկայից տրանսպորտային միջոցի ձեռքբերման սպառողական վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/Car_Loans_primary_ed63_arm.pdf) (ուժի մեջ է 03.07.25-ից մինչև 19.10.25)
-  * [Առաջնային շուկայից տրանսպորտային միջոցի ձեռքբերման սպառողական վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/Car_Loans_primary_ed62_arm.pdf) (ուժի մեջ է 24.02.25թ-ից մինչև 02.07.25)
-  * [Առաջնային շուկայից տրանսպորտային միջոցի ձեռքբերման սպառողական վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/Car_Loans_primary_ed61_arm.pdf) (ուժի մեջ է 20.11.24թ-ից մինչև 23.02.25)
-  * [Առաջնային շուկայից տրանսպորտային միջոցի ձեռքբերման սպառողական վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/car-loan/previous/Car_Loans_primary_ed60_arm.pdf) (ուժի մեջ է 14.06.24թ-ից մինչև 19.11.24)
-  * [Առաջնային շուկայից տրանսպորտային միջոցի ձեռքբերման սպառողական վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/car-loan/previous/Car_Loans_primary_ed59_arm.pdf) (ուժի մեջ է 14.02.24թ-ից մինչև 13.06.24)
 
 
 [**Վարկ վերցնելիս եղի՛ր տեղեկացված**](https://ameriabank.am/personal/loans/more/support/information)
 ### Ավտովարկի օնլայն հայտ
-![calculator icon](https://ameriabank.am/Portals/0/Images/icons/calculator.png)
 Իմացի՛ր, թե որքան ավտովարկ կարող ես ստանալ 
 [ Դիմիր հիմա ](https://mycar.am/apply-now)
 ### Ավտովարկ՝ առանց բանկ այցելելու
-![Car-icon](https://ameriabank.am/Portals/0/Images/icons/Car-icon.png)
 Այս վարկատեսակի միջոցով կարող ես առանց բանկ այցելելու մեքենա ձեռք բերել առաջնային շուկայից: 
 [ Իմանալ ավելին ](https://ameriabank.am/personal/loans/car-loan/without-bank-visit)
 ### Ավտովարկ երկրորդային շուկայից 
-![Car-icon](https://ameriabank.am/Portals/0/Images/icons/secondary-car-icon.png)
 Այս վարկատեսակի միջոցով կարող ես մեքենա ձեռք բերել երկրորդային շուկայից, ինչպես նաև մեզ մոտ տեղափոխել այլ բանկում կամ վարկային կազմակերպությունում ունեցած երկրորդային շուկայից տրանսպորտային միջոցի ձեռքբերման նպատակով վարկերը: 
 [ Իմանալ ավելին ](https://ameriabank.am/personal/loans/car-loan/secondary-market)
 Թարմացված է առ **16.03.2026 08:00**  

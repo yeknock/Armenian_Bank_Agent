@@ -1,16 +1,11 @@
-SOURCE: https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finance
 
 # Օնլայն ապառիկ
 Գնիˊր, ինչ ուզում ես, ընդամենը 5 րոպեում 
-![ ](https://ameriabank.am/Portals/0/Images/consumer-loan/consumer-finance.png)
-![loan limit icon](https://ameriabank.am/Portals/0/Images/icons/loan-limit-icon.png)
 ###### 50,000-1,000,000 դրամ
 Ֆինանսավորման գումար
-![time icon](https://ameriabank.am/Portals/0/Images/icons/percentage-icon.png)
 ###### 18.5%
 Անվանական տոկոսադրույք  
 Փաստացի տոկոսադրույք ` 20%-21%
-![percentage-icon](https://ameriabank.am/Portals/0/Images/icons/overdraft-time-icon.png)
 ###### 12-36 ամիս
 Ֆինանսավորման ժամկետ
 ## Օնլայն ապառիկ  
@@ -18,95 +13,75 @@ SOURCE: https://ameriabank.am/personal/loans/consumer-loan/online-consumer-finan
 Օնլայն ապառիկով կարող ես գնել էլեկտրոնիկա, կենցաղային տեխնիկա, կահույք և քո առօրյա կյանքի համար անհրաժեշտ բազմաթիվ ապրանքներ մեր գործընկեր առցանց խանութներից՝ առանց տնից դուրս գալու։  
 
 #### ԱՌԱՎԵԼՈՒԹՅՈՒՆՆԵՐ
-* * *
-![...](https://ameriabank.am/Portals/0/Images/consumer-finance/guide-cover.png)
 ## Գործընկերները
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/domus.png)
 ###### DOMUS 
 _ԴՈՄՈՒՍ ՓԲԸ_
 Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Domus-ից:
 [Գնիր օնլայն ](https://domus.am/%20)
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/duson.png)
 ###### DUSON
 _ՊՐՈՄԱՍ ՍՊԸ_
 Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Duson-ից:
 [Գնիր օնլայն ](https://duson.am/%20)
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/tornado_electronics.png)
 ###### Tornado Electronics 
 _Հովհաննիսյան Գրիգոր Աղասու Ա/Ձ_
 Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Tornado Electronics-ից:
 [Գնիր օնլայն ](https://tornadoelectronics.am/%20%20)
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/allsell.png)
 ###### Allcell 
 _«Նռանե» ՍՊԸ_
 Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Allcell-ից:
 [Գնիր օնլայն ](https://allsell.am/%20)
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/jur_am.png)
 ###### Jur.am 
 _«ԷՎՐԻ ԴԵՅ» ՓԲԸ_
 Օնլայն ապառիկով Jur.am-ից կարող ես գնել ջրի դիսպենսերներ, սուրճի մեքենաներ և ֆիլտրացիոն լուծումներ։
 [Գնիր օնլայն ](https://jur.am/hy/eshop/water-dispensers-and-accessories/dispensers)
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/mtech.png)
 ###### MTECH
 _«ՄՏԵԽ» ՍՊԸ_
 Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Mtech-ից:
 [Գնիր օնլայն ](https://mtech.am/hy%20)
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/eldorado.png)
 ###### Eldorado 
 _«ԷԼ ՄԱՐԿԵՏ» ՍՊԸ_
 Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Eldorado խանութների ցանցից:
 [Գնիր օնլայն ](https://eldorado.am/%20)
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/pixel.png)
 ###### Pixels 
 _«ՊԻԿՍԵԼ» ՍՊԸ_
 Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Pixel-ից:
 [Գնիր օնլայն ](https://www.pixel.am/%20)
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/yerevan-mobile.png)
 ###### Yerevan Mobile 
 _«ՎԱԳՆԵՐ» ՍՊԸ_
 Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Yerevan Mobile-ից:
 [Գնիր օնլայն ](https://www.yerevanmobile.am/am/%20)
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/eurobaza.png)
 ###### Eurobaza 
 _«ՅՈՒՆԻՎԵՐՍԱԼ ՊՐՈՋԵՔՏ» ՍՊԸ_
 Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Eurobaza-ից:
 [Գնիր օնլայն ](https://eurobaza.am/%20)
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/red_store.png)
 ###### REDstore 
 _«Նոութբուք Սթոր» ՍՊԸ_
 Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, REDstore-ից:
 [Գնիր օնլայն ](https://redstore.am/%20)
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/vesta.png)
 ###### Vesta
 _«Փրիթի-Ուեյ» ՍՊԸ_
 Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Vesta խանութների ցանցից:
 [Գնիր օնլայն ](https://vesta.am/)
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/v_and_v.png)
 ###### V&V Electronics
 _«ՎԻ ԸՆԴ ՎԻ ԷԼԵԿՏՐՈՆԻԿՍ» ՍՊԸ_
 Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, V&V Electronics խանութների ցանցից:
 [Գնիր օնլայն ](https://v-v.am/)
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/ucom.png)
 ###### Ucom
 _«Յուքոմ» ՓԲԸ_
 Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես Յուքոմից:
 [Գնիր օնլայն ](https://www.ucom.am/)
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/ispace.png)
 ###### iSpace
 _«ԷՅ ԷՍ ԲԻ ՍԻ» ՍՊԸ_
 Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, iSpace խանութների ցանցից:
 [Գնիր օնլայն ](https://ispace.am/)
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/vega4.png)
 ###### Vega
 _«Վեգա Ուորլդ» ՍՊԸ_
 Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Վեգա խանութների ցանցից:
 [Գնիր օնլայն ](https://vega.am/am)
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/zigzag-logo.png)
 ###### Zigzag
 _«Զիգզագ» ՍՊԸ_
 Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, Զիգզագ խանութների ցանցից:
 [Գնիր օնլայն ](https://www.zigzag.am/)
-  * ![product](https://ameriabank.am/Portals/0/Images/online-consumer/vlv-center.png)
 ###### VLV Centre
 _«ՎԻԷԼՎԻ ՍԵՆԹՐ» ՍՊԸ_
 Օնլայն ապառիկով կարող ես գնել, ինչ ուզում ես, ՎիԷլՎի խանութների ցանցից:
@@ -197,11 +172,7 @@ UPay – մինչև 35,000 ՀՀ դրամը` 200 դրամ, 35,001 ՀՀ դրամի
 
 
   * [Վարկ վերցնելիս եղեք տեղեկացված](https://ameriabank.am/personal/loans/more/support/information)
-  * [Ապրանքների ձեռքբերման և ծառայությունների մատուցման ապառիկ ֆինանսավորման տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/Leaflet_consumer_finance_arm.pdf)
-  * [Պայմաններ և կանոններ](https://ameriabank.am/Portals/0/files/Personal/web-info.pdf)
-  * [«Ամերիաբանկ» ՓԲԸ կողմից ֆիզիկական անձանց ապառիկ ֆինանսավորման ծառայության մատուցման հիմնական պայմաններ](https://ameriabank.am/Portals/0/files/basic_conditions_of_installment_financing-service_arm.pdf)
   
 
 
 **Նախկին պայմաններ**
-  * [Ապրանքների ձեռքբերման և ծառայությունների մատուցման ապառիկ ֆինանսավորման տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-leaflets/Leaflet_consumer_finance_ed2_arm.pdf) (ուժի մեջ է 07.05.25թ.-ից մինչև 24.09.25)

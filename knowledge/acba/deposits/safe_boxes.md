@@ -1,11 +1,7 @@
-SOURCE: https://www.acba.am/hy/individuals/save-and-invest/safe-boxes
 
 [Պահատուփեր](https://www.acba.am/hy/individuals/save-and-invest/safe-boxes)
 Պահատուփեր
-![Պահատուփեր](https://www.acba.am/thumbs/1000x/2019-07/rAj0pSNv4Efn1uZVlKHjWD3qSG.jpg)
-![](https://www.acba.am/thumbs/768x300/2019-07/rAj0pSNv4Efn1uZVlKHjWD3qSG.jpg)
 Ակբա բանկի անհատական պահատեղերում արժեքների պահատվության ծառայությունը երաշխավորում է ձեր թանկարժեք իրերի բացարձակ անվտանգությունը։ 
-![](https://www.acba.am/pics/arrow_down.png)![](https://www.acba.am/pics/arrow_up.png)
 [ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Առավելություններ
 Պահատուփերի տրամադրման և օգտագործման պայմաններ
@@ -41,7 +37,6 @@ SOURCE: https://www.acba.am/hy/individuals/save-and-invest/safe-boxes
 |  **1****տարի**  |  **28000**  |  **36000**  |  **65000**  |  **75000**  |  **85000**  |  
   
   
-«Արմենիա» մասնաճյուղի անհատական պահատուփերի ներքին չափսերին կարող եք ծանոթանալ [այստեղ](https://www.acba.am/files/pahatup-armenia.pdf)։
   * Ծառայությունը մատուցվում է Բանկի «Արմենիա», «Նոր Նորք», «Շիրակ» մասնաճյուղերում,
   * Պահատվության ծառայությունից կարող են օգտվել ֆիզիկական անձինք,
   * Անհրաժեշտ փաստաթղթերն են՝ անձը հաստատող փաստաթուղթը,

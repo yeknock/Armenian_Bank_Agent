@@ -1,4 +1,3 @@
-SOURCE: https://conversebank.am/hy/credithistory2/
 
 
 # "Կերտիր քո վարկային պատմությունը"
@@ -362,4 +361,3 @@ SMS – Converse / USSD -[ https://conversebank.am/hy/sms-converse-ussd/](http:/
 • զանգահարել (+374 10) 511 211 հեռախոսահամարով  
 WhatsApp՝ +374 95 511 211  
 Skype՝ conversebank-callcenter
-[Տեղեկատվական ամփոփագիր ](https://conversebank.am/u_files/file/2024%20Mob/Create_Your_credit_history_Dec_2024.pdf) Թարմացվել է՝ 09.12.2024  

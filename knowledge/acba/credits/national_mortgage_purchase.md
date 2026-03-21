@@ -1,11 +1,7 @@
-SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/national-mortgage-purchase
 
 
 Ազգային հիփոթեքային վարկեր գնման նպատակով
-![Ազգային հիփոթեքային վարկեր գնման նպատակով](https://www.acba.am/thumbs/1000x/2015-05/CYZzqQlQ10cz75zfgO9caovpbm.jpg)
-![](https://www.acba.am/thumbs/768x300/2015-05/CYZzqQlQ10cz75zfgO9caovpbm.jpg)
 «ԱԶԳԱՅԻՆ ՀԻՓՈԹԵՔԱՅԻՆ ԸՆԿԵՐՈՒԹՅՈՒՆ» ՎՎԿ ՓԲԸ վերաֆինանսավորմամբ տրամադրվում են Անշարժ գույքի գնման հիփոթեքային վարկեր՝ ՀՀ տարածքում գտնվող բնակելի անշարժ գույքի գնման նպատակով: 
-![](https://www.acba.am/pics/arrow_down.png)![](https://www.acba.am/pics/arrow_up.png)
 [ Հաշվիչ ](https://www.acba.am/hy/calculators/loan-calculator/National-mortgage-calculator)
 [ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Այցեքարտ
@@ -18,13 +14,11 @@ SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/national-mortgage-purc
 Տարեկան տոկոսադրույք
 [Մանրամասն »](https://www.acba.am/#prodFeatureInvisibleContent_540)
 Տարեկան տոկոսադրույք
-![](https://www.acba.am/pics/white_close_btn.png)
 • Ոչ էներգաարդյունավետ վարկեր` 13.3–14.5%  
 • Էներգաարդյունավետ վարկեր 12.8–14.0% 
 Ապահովվածություն
 [Մանրամասն »](https://www.acba.am/#prodFeatureInvisibleContent_544)
 Ապահովվածություն
-![](https://www.acba.am/pics/white_close_btn.png)
 Ձեռքբերվող բնակելի անշարժ գույքի գրավ, անհրաժեշտության դեպքում` նաև վարկառուին (համավարկառուին) պատկանող այլ բնակելի անշարժ գույքի գրավ և/կամ երաշխավորություն(ներ): 
 Առավելագույն գումար
 35,000,000 ՀՀ դրամ
@@ -67,12 +61,9 @@ SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/national-mortgage-purc
   
 **Տեղեկացեք մանրամասն.**  
   
-Հնարավոր լրացուցիչ վճարումների չափի մասին՝ [Վարկային սակագներ](https://www.acba.am/files/loans-tariffs.pdf):
 [  
 Վարկային սակագների նախկին պայմաններ](https://www.acba.am/hy/1565846920)
 Պետական աջակցության ծրագրերն են՝
-  1. [Մարզում հիփոթեքի աջակցության ծրագիր](https://www.acba.am/files/dramakan-ajakcutyun.pdf)
-  2. [Հիփոթեքի մարման աջակցության ծրագիր](https://www.acba.am/files/dramakan-ajakcutyun-mayr-gumar.pdf)
 
 
 **Անհրաժեշտ****փաստաթղթերն****են****.**
@@ -111,9 +102,7 @@ SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/national-mortgage-purc
 
 
 *մարման չափը կարող է տարբերվել` կախված տվյալ ամսվա օրերի քանակից
-ՈՒՇԱԴՐՈՒԹՅՈՒՆ՝ ՎԱՐԿԻ ՏՈԿՈՍԱԳՈՒՄԱՐՆԵՐԸ ՀԱՇՎԱՐԿՎՈՒՄ ԵՆ ԱՆՎԱՆԱԿԱՆ ՏՈԿՈՍԱԴՐՈՒՅՔԻ ՀԻՄԱՆ ՎՐԱ, ԻՍԿ ՏԱՐԵԿԱՆ ՓԱՍՏԱՑԻ ՏՈԿՈՍԱԴՐՈՒՅՔԸ ՑՈՒՅՑ Է ՏԱԼԻՍ, ԹԵ ՈՐՔԱՆ ԿԱՐԺԵՆԱ ՎԱՐԿԸ ՁԵԶ ՀԱՄԱՐ ՏՈԿՈՍԱԳՈՒՄԱՐՆԵՐԸ ԵՎ ՎԱՐԿԻ ՏՐԱՄԱԴՐՄԱՆ և ՍՊԱՍԱՐԿՄԱՆ ԳԾՈՎ ԲՈԼՈՐ ՊԱՐՏԱԴԻՐ ՎՃԱՐՆԵՐԸ ՍԱՀՄԱՆՎԱԾ ԺԱՄԿԵՏՆԵՐՈՒՄ ԵՎ ՉԱՓԵՐՈՎ ԿԱՏԱՐԵԼՈՒ ԴԵՊՔՈՒՄ: ՓԱՍՏԱՑԻ ՏՈԿՈՍԱԴՐՈՒՅՔԻ ՀԱՇՎԱՐԿԸ ԿԱՐՈՂ ԵՔ ԳՏՆԵԼ [ԱՅՍՏԵՂ](https://www.acba.am/uploaded/tarekan-pastaci-hashvark.pdf)։
 **Տեղեկացեք մանրամասն․**
-Վարկառուի կողմից իր պարտավորությունները ժամանակին չկատարելու դեպքում յուրաքանչյուր ժամկետանց օրվա համար հաշվարկվում է տուժանք 0.13%-ի չափով ([կիրառվող տույժեր](http://www.acba.am/uploaded/tuyjer.pdf))
 Վարկի մարումներն իրականացվում են հետևյալ հերթականությամբ (ժամկետանց պարտավորությունները կատարելու դեպքում)`
   * Տույժ/տուգանք
   * Տոկոսագումար
@@ -127,8 +116,6 @@ SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/national-mortgage-purc
 
 
 [  
-](https://www.acba.am/uploaded/ankakh-gnahatogh-ynkerutyunner_1.pdf)[Բանկի հետ համագործակցող որակավորված անկախ գնահատող ընկերություններ](https://www.acba.am/uploaded/ankakh-gnahatogh-arm.pdf)
-[Ազգային հիփոթեքային վարկի տեղեկատվական ամփոփագիր](https://www.acba.am/uploaded/azgayin-gnum-ampopagir16-03.pdf)
 Անշարժ գույքի գնման հիփոթեքային վարկերը տրամադրվում են 18 տարին լրացած ռեզիդենտ ֆիզիկական այն անձանց, ովքեր վարկի գործողության ողջ ընթացքում չեն բոլորի կենսաթոշակային տարիքը + 4 տարի: Համավարկառու կարող են հանդես գալ միայն դիմողի ամուսինը, դիմողի և նրա ամուսնու ծնողները, քույրերը և եղբայրները: Համավարկառուն պետք է հանդիսանա ռեզիդենտ ՀՀ քաղաքացի: Համավարկառուները վարկային պարտավորությունների շրջանակներում կրում են վարկառուի միևնույն պատասխանատվությունները:
   * Վարկի գումարը տրամադրվում է անկանխիկ
   * Վարկ տրամադրելու դրական որոշման գործոններն են հաճախորդի վարկունակության գնահատումը,
@@ -199,5 +186,4 @@ SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/national-mortgage-purc
 
 
 **  
-Վարկային պատմության կարևորության և սքորի կիրառության վերաբերյալ կարող եք ծանոթանալ[ այստեղ](https://www.acba.am/files/acba%20credit%20score.pdf)**
 **

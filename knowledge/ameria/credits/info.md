@@ -1,8 +1,6 @@
-SOURCE: https://ameriabank.am/personal/loans/more/support/information
 
 
 # Վարկ վերցնելիս եղե՛ք տեղեկացված 
-![A guy with binoculars](https://ameriabank.am/Portals/0/Images/micro/help-micro.png)
   * [ Ընդհանուր ](https://ameriabank.am/personal/loans/more/support/information#Tab1_10255)
   * [ Գույք ](https://ameriabank.am/personal/loans/more/support/information#Tab2_10255)
   * [ Վարկեր ](https://ameriabank.am/personal/loans/more/support/information#Tab3_10255)

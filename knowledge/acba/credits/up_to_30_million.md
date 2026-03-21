@@ -1,11 +1,7 @@
-SOURCE: https://www.acba.am/hy/individuals/loans/collateral-loans/up-to-30-million
 
 [Սպառողական վարկեր գրավով մինչև 50 մլն ՀՀ դրամ](https://www.acba.am/hy/individuals/loans/collateral-loans/up-to-30-million)
 Սպառողական վարկեր գրավով մինչև 50 մլն ՀՀ դրամ
-![Sparoxakan vark minchev 30mln dram , gravov varker](https://www.acba.am/thumbs/1000x/2016-11/sSDrQpZfpjoRa5pFwvHyAOT7aP.jpg)
-![](https://www.acba.am/thumbs/768x300/2016-11/sSDrQpZfpjoRa5pFwvHyAOT7aP.jpg)
 Օգտվեք Ակբա բանկի սպառողական վարկերից և այսօր արդեն իրականություն դարձրեք Ձեր նպատակները: 
-![](https://www.acba.am/pics/arrow_down.png)![](https://www.acba.am/pics/arrow_up.png)
 [ Լրացնել հայտը ](https://www.acba.am/hy/online-applications/Credit-applications/1412720835)
 [ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Այցեքարտ
@@ -22,7 +18,6 @@ SOURCE: https://www.acba.am/hy/individuals/loans/collateral-loans/up-to-30-milli
 Ապահովվածություն
 [Մանրամասն »](https://www.acba.am/#prodFeatureInvisibleContent_505)
 Ապահովվածություն
-![](https://www.acba.am/pics/white_close_btn.png)
 անշարժ գույք, տրանսպորտային միջոց (ավտոմեքենա), գյուղատնտեսական տեխնիկա, սարքավորում, դրամական միջոցներ, ապրանքանյութական այլ արժեքներ, ինչպես նաև անհրաժեշտության դեպքում երաշխավորություններ 
 Առավելություններ
 Տրամադրման պայմաններ
@@ -50,7 +45,6 @@ SOURCE: https://www.acba.am/hy/individuals/loans/collateral-loans/up-to-30-milli
 
 
 Տեղեկացեք մանրամասն. 
-Հնարավոր լրացուցիչ վճարումների չափի մասին՝ [Վարկային սակագներ](https://www.acba.am/files/loans-tariffs.pdf):
   
 [Վարկային սակագների նախկին պայմաններ](https://www.acba.am/hy/1565846920)
 #    
@@ -90,11 +84,9 @@ SOURCE: https://www.acba.am/hy/individuals/loans/collateral-loans/up-to-30-milli
 
 *մարման չափը կարող է տարբերվել` կախված տվյալ ամսվա օրերի քանակից
   
-ՈՒՇԱԴՐՈՒԹՅՈՒՆ՝ ՎԱՐԿԻ ՏՈԿՈՍԱԳՈՒՄԱՐՆԵՐԸ ՀԱՇՎԱՐԿՎՈՒՄ ԵՆ ԱՆՎԱՆԱԿԱՆ ՏՈԿՈՍԱԴՐՈՒՅՔԻ ՀԻՄԱՆ ՎՐԱ, ԻՍԿ ՏԱՐԵԿԱՆ ՓԱՍՏԱՑԻ ՏՈԿՈՍԱԴՐՈՒՅՔԸ ՑՈՒՅՑ Է ՏԱԼԻՍ, ԹԵ ՈՐՔԱՆ ԿԱՐԺԵՆԱ ՎԱՐԿԸ ՁԵԶ ՀԱՄԱՐ ՏՈԿՈՍԱԳՈՒՄԱՐՆԵՐԸ ԵՎ ՎԱՐԿԻ ՏՐԱՄԱԴՐՄԱՆ և ՍՊԱՍԱՐԿՄԱՆ ԳԾՈՎ ԲՈԼՈՐ ՊԱՐՏԱԴԻՐ ՎՃԱՐՆԵՐԸ ՍԱՀՄԱՆՎԱԾ ԺԱՄԿԵՏՆԵՐՈՒՄ ԵՎ ՉԱՓԵՐՈՎ ԿԱՏԱՐԵԼՈՒ ԴԵՊՔՈՒՄ: ՓԱՍՏԱՑԻ ՏՈԿՈՍԱԴՐՈՒՅՔԻ ՀԱՇՎԱՐԿԸ ԿԱՐՈՂ ԵՔ ԳՏՆԵԼ [ԱՅՍՏԵՂ](https://www.acba.am/uploaded/tarekan-pastaci-hashvark.pdf)։
 **  
 Տեղեկացեք****մանրամասն****.**
 _  
-_ Վարկառուի կողմից իր պարտավորությունները ժամանակին չկատարելու դեպքում յուրաքանչյուր ժամկետանց օրվա համար հաշվարկվում է տուժանք 0.13%-ի չափով ([կիրառվող տույժեր](http://www.acba.am/uploaded/tuyjer.pdf))
 Վարկի մարումներն իրականացվում են հետևյալ հերթականությամբ (ժամկետանց պարտավորությունները կատարելու դեպքում)`
   * Տույժ/տուգանք,
   * Տոկոսագումար,
@@ -103,7 +95,6 @@ _ Վարկառուի կողմից իր պարտավորությունները ժ
 
 [  
 Բանկի հետ համագործակցող որակավորված անկախ գնահատող ընկերություններ  
-](https://www.acba.am/uploaded/ankakh-gnahatogh-arm.pdf) _  
 _
   * Վարկերը տրամադրվում են ֆիզիկական անձանց՝ սպառողական նպատակներով օգտագործելու համար,
   * Վարկի գումարը տրամադրվում է անկանխիկ,

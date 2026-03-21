@@ -1,4 +1,3 @@
-SOURCE: https://ameriabank.am/personal/loans/car-loan/without-bank-visit
 
 # Օնլայն ավտովարկ առաջնային շուկայից
 Մեկ օրվա ընթացքում քո նոր մեքենայի ղեկին
@@ -11,7 +10,6 @@ SOURCE: https://ameriabank.am/personal/loans/car-loan/without-bank-visit
 ###### սկսած 5 %-ից
 Նվազագույն կանխավճար
 #### ԱՌԱՎԵԼՈՒԹՅՈՒՆՆԵՐ
-* * *
 Loan calculator
 ## Ավտովարկի հաշվիչ
 Արժեքների մուտքագրումը սահմանափակված է՝ ըստ Բանկի պայմանների

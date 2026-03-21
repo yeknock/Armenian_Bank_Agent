@@ -1,4 +1,3 @@
-SOURCE: https://conversebank.am/hy/orakan/
 
 
 # Օրական
@@ -65,7 +64,6 @@ SOURCE: https://conversebank.am/hy/orakan/
 **Ավանդի տարեկան տոկոսային եկամտաբերության չափ**
 **Ձեր հաշվում առկա միջոցների նկատմամբ տոկոսագումարները հաշվարկվում են պարզ տոկոսադրույքի հիման վրա, իսկ տարեկան տոկոսային եկամտաբերությունը ցույց է տալիս, թե որքան եկամուտ կստանայիք դուք` Ձեր կողմից ավանդի հետ կապված պարտադիր վճարներ կատարելու և սահմանված պարբերականությամբ վաստակած տոկոսագումարները ստանալու արդյունքում:**
 **Ավանդի տարեկան տոկոսային եկամտաբերության չափի հաշվարկման համար հիմք է ընդունվում ՀՀ ԿԲ ""Բանկային ավանդների տարեկան տոկոսային եկամտաբերության հաշվարկումը" Կանոնակարգ 8/02"-ով սահմանված հետևյալ բանաձևը՝**
-![](https://conversebank.am/u_files/image/Photos%202019/Untitled.png)
 որտեղ`
   * **A** - ավանդի սկզբնական գումար
   * **ո** - ավանդի դիմաց դրամական հոսքերի հերթական համար
@@ -219,17 +217,6 @@ SOURCE: https://conversebank.am/hy/orakan/
   * Skype ՝ conversebank-callcenter
 
 
-[**Տեղեկատվական ամփոփագիր**](https://conversebank.am/u_files/file/2025/Orakan%20May%202025.pdf)
-[**Ավանդի ներդրման պայմանները մինչ 08.05.2025**](https://conversebank.am/u_files/file/Ampopagir%202024/Orakan%20May%202024\(1\).pdf)
-[**Ավանդի ներդրման պայմանները մինչ 08.06.2024**](https://conversebank.am/u_files/file/2024/Orakan%20Jan%202024.pdf)
-[**Ավանդի ներդրման պայմանները մինչ 14.01.2024**](https://conversebank.am/u_files/file/Avand/Orakan%20Nov%202023\(1\).pdf)
-[**Ավանդի ներդրման պայմանները մինչ 04․12․2023**](https://conversebank.am/u_files/file/2023/Orakan%20Sep%202023.pdf)  
-[**Ավանդի ներդրման պայմանները մինչ 18․09․2023**](https://conversebank.am/u_files/file/Ampopagir%202023/Orakan%20Aug%202023.pdf)  
-[**Ավանդի ներդրման պայմանները մինչ 14.08.2023**](https://conversebank.am/u_files/file/Ampopagir%202023/%2339/Orakan%20Apr%202023.pdf)[**  
-**](https://conversebank.am/u_files/file/Ampopagir%202023/%2339/Orakan%20Apr%202023.pdf)[**Ավանդի ներդրման պայմանները մինչ 08.05.2023**](https://conversebank.am/u_files/file/Ampopagir%202023/%235%20%D5%A1%D5%BE%D5%A1%D5%B6%D5%A4/Orakan%20Feb%202023.pdf)**  
-**[**Ավանդի ներդրման պայմանները մինչ 15․02․2023**](https://conversebank.am/u_files/file/Ampopagrer%202022/%D4%B1%D5%BE%D5%A1%D5%B6%D5%A4%D5%B6%D5%A5%D6%80/01_09/Orakan%20Aug%202022.pdf)  
-[**Ավանդի ներդրման պայմանները մինչ 01.09.2022**](https://conversebank.am/u_files/file/Ampopagrer2021/Orakan%20Dec%202021\(1\).pdf)[**  
-**](https://conversebank.am/u_files/file/Ampopagrer2021/Orakan%20Dec%202021\(1\).pdf)
 Թարմացվել է 08.05.2025թ.
 **Ուշադրություն  
 **  

@@ -1,4 +1,3 @@
-SOURCE: https://conversebank.am/hy/energyefficientrenovation/
 
 # Էներգաարդյունավետ վերանորոգման ֆինանսավորում պետական աջակցության ծրագրի շրջանակում
   * [Ծրագրային հիփոթեքային վարկեր](https://conversebank.am/hy/armenian-resident/)
@@ -125,7 +124,6 @@ OTI - Վարկի տրամադրման պահին տվյալ վարկի և վար
 |  **Ընդհանուր տոկոսագումար**  |  1,310,738.53  |  
 |  **Մարումների հանրագումար**  |  8,310,738.53  |  
 **Վարկի տոկոսագումարը հաշվարկվում է անվանական տոկոսադրույքի հիման վրա, որը կիրառվում է նվազող մնացորդի նկատմամբ, իսկ տարեկան փաստացի տոկոսադրույքը ցույց է տալիս, թե որքան կարժենա վարկը Ձեզ համար տոկոսագումարները և վարկի տրամադրման ու սպասարկման գծով բոլոր պարտադիր վճարները սահմանված ժամկետներում և չափերով կատարելու դեպքում:  
-Տարեկան փաստացի տոկոսադրույքի հաշվարկման կարգը կարող եք գտնել հետևյալ **[**հասցեում**](https://conversebank.am/u_files/file/Ampopagrer%202019/Effective%20Aug%20calculation%20\(2\).pdf)**:  
 **
 **Գրավի գնահատում  
 **  
@@ -310,14 +308,4 @@ WhatsApp՝ +374 95 511211
 Skype՝ conversebank-callcenter
 Թարմացվել է 02․12․2024
 [**Տեղեկատվական ամփոփագիր  
-**](https://conversebank.am/u_files/file/2024%20Mob/Energy%20efficient%20renovation%20Dec%202024.pdf)
-[**Պայմանները մինչ 02.12.2024**](https://conversebank.am/u_files/file/2024%20Mob/Energy%20efficient%20renovation%20Aug%202024.pdf)
-[**Պայմանները մինչ 28.08.2024**](https://conversebank.am/u_files/file/Ampopagir%202024/Energy%20efficient%20renovation%20Jul%202024.pdf)
-[**Պայմանները մինչ 02.07.2024**](https://conversebank.am/u_files/file/2024%20Mob/Energy%20efficient%20renovation%20Apr%202024.pdf)
 [**Պայմանները մինչ 14.04.2024  
-**](https://conversebank.am/u_files/file/2024%20Mob/Energy%20efficient%20renovation%20Apr%202024.pdf)
-[**Պայմանները մինչ 14.01.2024**](https://conversebank.am/u_files/file/23LT/Energy%20efficient%20renovation%20Sep%202023.pdf)
-[**Պայմանները մինչ 07․09․2023**](https://conversebank.am/u_files/file/Ampopagir%202023/8_03/Energy%20efficient%20renovation%20Jun%202023.pdf)
-[**Պայմանները մինչ 01․07․2023**](https://conversebank.am/u_files/file/Ampopagir%202023/%2348/Energy%20efficient%20renovation%20Apr%202023.pdf)
-[**Պայմանները մինչ 10.04.2023**](https://conversebank.am/u_files/file/Ampopagir%202023/%23186%20/Energy%20efficient%20renovation%20Jan%202023.pdf)
-[**Պայմանները մինչ 20.01.2023**](https://conversebank.am/u_files/file/Ampopagrer%202022/%D5%8E%D5%A1%D6%80%D5%AF%D5%A5%D6%80/27%E2%80%A412/Energy%20efficient%20renovation%20Dec%202022.pdf)

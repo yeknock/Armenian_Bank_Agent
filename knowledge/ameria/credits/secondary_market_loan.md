@@ -1,19 +1,13 @@
-SOURCE: https://ameriabank.am/personal/loans/mortgage/secondary-market
 
 
 # Հիփոթեքային վարկ երկրորդային շուկայից
 Քո հարմարավետության համար ստեղծված ևս մեկ ուղի 
-![A boy and girl apply for Ameriabank mortgage loan from secondory market ](https://ameriabank.am/Portals/0/Images/mortgage/secondary-mortgage.png)
-![loan-limit-icon](https://ameriabank.am/Portals/0/Images/icons/loan-limit-icon.png)
 ###### 3 - 150 մլն ՀՀ դրամ
 Վարկի գումար
-![loan term icon](https://ameriabank.am/Portals/0/Images/icons/overdraft-time-icon.png)
 ###### 60 – 360 ամիս
 Մարման ժամկետ
-![percentage-icon](https://ameriabank.am/Portals/0/Images/icons/percentage-icon.png)
 ###### 14.97-17.21%
 Փաստացի տոկոսադրույք
-![check-mark icon](https://ameriabank.am/Portals/0/Images/icons/check-mark.png)
 ###### 5 %
 Նվազագույն կանխավճար
 ## **Հիփոթեքային վարկ երկրորդային շուկայից**
@@ -22,7 +16,6 @@ SOURCE: https://ameriabank.am/personal/loans/mortgage/secondary-market
 Քո նոր բնակարանն ավելի մոտ է մեզ հետ: Եթե արդեն գտել ես քո նոր տունը երկրորդային շուկայից և ֆինանսավորման տարբերակներ ես փնտրում, մեր առաջարկը քեզ համար է: Դու կարող ես նաև տեղափոխել մեկ այլ բանկում քո ունեցած վարկը մեզ մոտ:   
 
 #### ԱՌԱՎԵԼՈՒԹՅՈՒՆՆԵՐ
-* * *
 Mortgage calculator
 ## Հիփոթեքային հաշվիչ
 Արժեքների մուտքագրումը սահմանափակված է՝ ըստ Բանկի պայմանների
@@ -46,7 +39,6 @@ Mortgage calculator
 Ընտրիˊր քո նոր բնակարանը` ըստ տարածքի, ամսական վճարման չափի   
 և այլ չափանիշների, ու ներկայացրոˊւ վարկային հայտն օնլայն: 
 [Դիմիր օնլայն](https://myhome.am)
-![Smiling girl](https://ameriabank.am/Portals/0/Images/mortgage/mortgage-loan-2.png)
 ##  Պայմաններ և սակագներ
   * [ Սակագներ ](https://ameriabank.am/personal/loans/mortgage/secondary-market#Tab1_10195)
   * [ Վարկի սպասարկման սակագներ ](https://ameriabank.am/personal/loans/mortgage/secondary-market#Tab2_10195)
@@ -119,7 +111,6 @@ Mortgage calculator
 |  5.5. Լրացուցիչ ապահովում  |  5.5.1. Որպես լրացուցիչ ապահովում Բանկը կարող է պահանջել նաև ֆիզիկական և/կամ իրավաբանական անձանց երաշխավորություն  |   |   |  
 |  6. Գրավադրվող գույքի ապահովագրություն  |  6.1. Գրավադրվող գույքի ապահովագրություն  |  6.1.1.Գրավադրվող անշարժ գույքը Բանկի կողմից ապահովագրվում է հետևյալ դեպքերում.  |   |   |  
 |  6.1.1.1 անշարժ գույքի սեփականության իրավունքի գրանցման և /կամ վերագնահատման պահին դրա շուկայական արժեքը գերազանցում է 100 /մեկ հարյուր/ մլն ՀՀ դրամը,  |   |   |  
-|  _[6.1.1.2. գրավադրվող անշարժ գույքի հասցեն ներառված է Բանկի ինտերնետային կայքում հրապարակված գույքերի ցանկում։](https://ameriabank.am/Portals/0/files/Other/insured-properties.pdf)_  |   |   |  
 |  6.1.2. Բանկի կողմից ապահովագրությունն իրականացվում է յուրաքանչյուր տարի` վերոնշյալ պայմաններից որևէ մեկի առկայության դեպքում`վարկի մնացորդի չափով և վարկի ամբողջ ժամկետի ընթացքում (այս դեպքում նախատեսված տոկոսադրույքի հաշվարկում ներառվում են բոլոր հնարավոր, այդ թվում՝ սահմանված դեպքերում նախատեսվող ապահովագրությունից բխող հնարավոր ծախսերը)։  |   |   |  
 |  7. Պահանջվող փաստաթղթեր  |  7.1. Պահանջվող փաստաթղթեր  |  **7.1.1. Վարկային հայտը լրացնելիս պահանջվող փաստաթղթեր.**  |   |   |  
 |  • Վարկի հայտ-դիմում  |   |   |  
@@ -277,18 +268,9 @@ Mortgage calculator
 
 
   * [Անշարժ գույքի ձեռքբերման, վերանորոգման և կառուցապատման վարկերի տեղեկատվական ամփոփագրեր](https://ameriabank.am/personal/loans/more/support/guides)
-  * [Երկրորդային շուկայից բնակելի նշանակության անշարժ գույքի ձեռքբերման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/mortage_personal_purchase_Secondary_arm.pdf)
   * [«Ֆինանսներ բոլորի համար» abcfinance.am ինտերնետային կայք](http://www.abcfinance.am/)
   * [**Ձեր Ֆինանսական տեղեկատուն` www.fininfo.am**](http://www.fininfo.am/)   
 ՈՒՇԱԴՐՈՒԹՅՈՒՆ` «ՁԵՐ ՖԻՆԱՆՍԱԿԱՆ ՏԵՂԵԿԱՏՈՒՆ» ՖԻԶԻԿԱԿԱՆ ԱՆՁԱՆՑ ԱՌԱՋԱՐԿՎՈՂ ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐԻ ՈՐՈՆՄԱՆ, ՀԱՄԵՄԱՏՄԱՆ և ՁԵԶ ՀԱՄԱՐ ԱՄԵՆԱԱՐԴՅՈՒՆԱՎԵՏ ՏԱՐԲԵՐԱԿԻ ԸՆՏՐՈՒԹՅՈՒՆԸ ՀԵՇՏԱՑՆՈՂ ԷԼԵԿՏՐՈՆԱՅԻՆ ՀԱՄԱԿԱՐԳ Է:
-  * [**Լողացող (Ճշգրտվող) տոկոսադրույքի սահմանման, հաշվարկման և փոփոխման կարգի մասին**](https://ameriabank.am/userfiles/file/Retail/Floating_Agreement_arm.pdf)
 
 
-  * [Երկրորդային շուկայից բնակելի նշանակության անշարժ գույքի ձեռքբերման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortage_personal_purchase_Secondary_ed67_arm.pdf) (ուժի մեջ է 
-  * [Երկրորդային շուկայից բնակելի նշանակության անշարժ գույքի ձեռքբերման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortage_personal_purchase_Secondary_ed66_arm.pdf) (ուժի մեջ է 02.09.25թ-ից մինչև 05.10.25)
-  * [Երկրորդային շուկայից բնակելի նշանակության անշարժ գույքի ձեռքբերման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortage_personal_purchase_Secondary_ed65_arm.pdf) (ուժի մեջ է 04.06.25թ-ից մինչև 01.09.25)
-  * [Երկրորդային շուկայից բնակելի նշանակության անշարժ գույքի ձեռքբերման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortage_personal_purchase_Secondary_ed64_arm.pdf) (ուժի մեջ է 25.11.24թ-ից մինչև 03.06.25)
-  * [Երկրորդային շուկայից բնակելի նշանակության անշարժ գույքի ձեռքբերման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortage_personal_purchase_Secondary_ed63_arm.pdf) (ուժի մեջ է 26.06.24թ-ից մինչև 24.11.24)
-  * [Երկրորդային շուկայից բնակելի նշանակության անշարժ գույքի ձեռքբերման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortage_personal_purchase_Secondary_ed62_arm.pdf) (ուժի մեջ է 03.05.24թ-ից մինչև 25.06.24)
-  * [Երկրորդային շուկայից բնակելի նշանակության անշարժ գույքի ձեռքբերման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/mortage_personal_purchase_Secondary_ed61_arm.pdf) (ուժի մեջ է 01.02.24թ-ից մինչև 02.05.24)
 

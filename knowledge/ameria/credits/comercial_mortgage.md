@@ -1,21 +1,15 @@
-SOURCE: https://ameriabank.am/personal/loans/mortgage/commercial-mortgage
 
 # Առևտրային գույքի ձեռքբերման վարկ
 Մեծ բիզնեսը սկսվում է փոքր քայլերից 
-![A woman holding yellow key](https://ameriabank.am/Portals/0/Images/internal-pages/Commercial-mortgage.png)
-![loan limit icon](https://ameriabank.am/Portals/0/Images/icons/loan-limit-icon.png)
 ###### 3 - 150 մլն ՀՀ դրամ 
 Վարկի գումար
-![time icon](https://ameriabank.am/Portals/0/Images/icons/overdraft-time-icon.png)
 ###### 36-360 ամիս 
 Մարման ժամկետ
-![percentage-icon](https://ameriabank.am/Portals/0/Images/icons/percentage-icon.png)
 ###### 13.84-16.03% 
 Փաստացի տոկոսադրույք
 ## Առևտրային գույքի ձեռքբերման վարկ 
 Առևտրային գործունեություն ծավալելու կարևորագույն բաղադրիչներից է գործունեության վայրը: Գտի՛ր քեզ անհրաժեշտ գույքը, և մենք կօգնենք քեզ ձեռք բերել այն: Դու կարող ես օգտվել այս վարկատեսակից, եթե անգամ չես նախատեսում անձամբ զբաղվել առևտրային գործունեությամբ և ձեռք ես բերում այն վարձակալության տրամադրելու կամ ներդրում կատարելու նպատակով: Դու կարող ես տեղափոխել մեզ մոտ քո՝ այլ բանկում գործող վարկը: 
 #### ԱՌԱՎԵԼՈՒԹՅՈՒՆՆԵՐ
-* * *
 ##  Պայմաններ և սակագներ
   * [ Սակագներ ](https://ameriabank.am/personal/loans/mortgage/commercial-mortgage#Tab1_10276)
   * [ Վարկի սպասարկման սակագներ ](https://ameriabank.am/personal/loans/mortgage/commercial-mortgage#Tab2_10276)
@@ -79,7 +73,6 @@ SOURCE: https://ameriabank.am/personal/loans/mortgage/commercial-mortgage
 |  5.5. Լրացուցիչ ապահովում  |  **5.5.1.** Որպես լրացուցիչ ապահովում Բանկը կարող է պահանջել նաև ֆիզիկական և/կամ իրավաբանական անձանց երաշխավորություն:  |  
 |  6. Գրավադրվող գույքի ապահովագրություն  |  6.1. Գրավադրվող գույքի ապահովագրություն  |  6.1.1.Գրավադրվող անշարժ գույքը Բանկի կողմից ապահովագրվում է.  |  
 |  6.1.1.1.եթե անշարժ գույքի սեփականության իրավունքի գրանցման և /կամ վերագնահատման պահին դրա շուկայական արժեքը գերազանցում է 100 /մեկ հարյուր/ մլն ՀՀ դրամը,  |  
-|  _[6.1.1.2. գրավադրվող անշարժ գույքի հասցեն ներառված է Բանկի ինտերնետային կայքում հրապարակված գույքերի ցանկում։](https://ameriabank.am/Portals/0/files/Other/insured-properties.pdf)_  |  
 |  6.1.2. Բանկի կողմից ապահովագրությունն իրականացվում է յուրաքանչյուր տարի` վերոնշյալ պայմաններից որևէ մեկի առկայության դեպքում`վարկի մնացորդի չափով և վարկի ամբողջ ժամկետի ընթացքում (այս դեպքում նախատեսված տոկոսադրույքի հաշվարկում ներառվում են բոլոր հնարավոր, այդ թվում՝ սահմանված դեպքերում նախատեսվող ապահովագրությունից բխող հնարավոր ծախսերը)։  |  
 |  7. Վարկի պայմանների կատարման ժամկետ  |  7.1. Վարկի պայմանների կատարման ժամկետ  |  **7.1.1.** Վարկի վերջին փուլը տրամադրելուց հետո 6 ամիս, եթե այլ պայման նախատեսված չէ վարկը հաստատող իրավասու մարմնի կողմից:  |  
 |  8. Պահանջվող փաստաթղթեր  |  **8.1.** Պահանջվող փաստաթղթեր  |  **8.1.1. Վարկային հայտը լրացնելիս պահանջվող փաստաթղթեր.**  |  
@@ -243,30 +236,22 @@ SOURCE: https://ameriabank.am/personal/loans/mortgage/commercial-mortgage
   * [abcfinance.am](https://abcfinance.am/news/news_varkayinscore.html) – Սկիզբ - Նորություններ – Ի՞նչ է ՍՔՈՐԸ և ինչպե՞ս այն բարելավել
 
 
-  * [Առևտրային նշանակության անշարժ գույքի ձեռքբերման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/mortgage_commercial_purchase_arm.pdf)
   * [Անշարժ գույքի ձեռքբերման, վերանորոգման և կառուցապատման վարկերի տեղեկատվական ամփոփագրեր](https://ameriabank.am/personal/loans/more/support/guides)
-  * [Լողացող (Ճշգրտվող) տոկոսադրույքի սահմանման, հաշվարկման և փոփոխման կարգի մասին](https://ameriabank.am/userfiles/file/Retail/Floating_Agreement_arm.pdf)
   * [«Ֆինանսներ բոլորի համար» abcfinance.am ինտերնետային կայք](http://www.abcfinance.am/)
   * [Ձեր Ֆինանսական տեղեկատուն` www.fininfo.am](http://www.fininfo.am/)
 
 
 **ՈՒՇԱԴՐՈՒԹՅՈՒՆ** ` ՁԵՐ ՖԻՆԱՆՍԱԿԱՆ ՏԵՂԵԿԱՏՈՒՆ» ՖԻԶԻԿԱԿԱՆ ԱՆՁԱՆՑ ԱՌԱՋԱՐԿՎՈՂ ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐԻ ՈՐՈՆՄԱՆ, ՀԱՄԵՄԱՏՄԱՆ և ՁԵԶ ՀԱՄԱՐ ԱՄԵՆԱԱՐԴՅՈՒՆԱՎԵՏ ՏԱՐԲԵՐԱԿԻ ԸՆՏՐՈՒԹՅՈՒՆԸ ՀԵՇՏԱՑՆՈՂ ԷԼԵԿՏՐՈՆԱՅԻՆ ՀԱՄԱԿԱՐԳ Է:
-  * [Առևտրային նշանակության անշարժ գույքի ձեռքբերման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortgage_commercial_purchase_ed62_arm.pdf) (ուժի մեջ է 20.11.25թ-ից մինչև 03.02.26)
-  * [Առևտրային նշանակության անշարժ գույքի ձեռքբերման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortgage_commercial_purchase_ed61_arm.pdf) (ուժի մեջ է 04.06.25թ-ից մինչև 04.10.25)
-  * [Առևտրային նշանակության անշարժ գույքի ձեռքբերման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortgage_commercial_purchase_ed60_arm.pdf) (ուժի մեջ է 25.11.24թ-ից մինչև 03.06.25)
 
 
 [**Վարկ վերցնելիս եղի՛ր տեղեկացված**](https://ameriabank.am/personal/loans/more/support/information)
 ### Վարկային հաշվիչ
-![loan calculator icon](https://ameriabank.am/Portals/0/Images/icons/calculator.png)
 Ի՞նչ գումարի վարկ կարող ես ստանալ և որքա՞ն ես վճարելու ամսական: ստացիր այս հարցերի պատասխանները վարկային հաշվիչների միջոցով 
 [ Իմանալ ավելին ](https://myhome.am/loan-calculator)
 ### Օնլայն հիփոթեք
-![online mortgage icon](https://ameriabank.am/Portals/0/Images/icons/online-mortgage.png)
 Ներկայացրոˊւ օնլայն հայտը, վարկի հաստատումը ստանալու դեպքում տրամադրիˊր անհրաժեշտ ողջ տեղեկատվությունը և օնլայն ստորագրիˊր պայմանագրերը: 
 [ Իմանալ ավելին ](https://ameriabank.am/personal/loans/mortgage/online)
 ### Կառուցապատման վարկ
-![Construction loan icon](https://ameriabank.am/Portals/0/Images/icons/Construction-loan.png)
 Այս վարկատեսակից կարող ես օգտվել ոչ միայն բնակության նպատակով տուն կառուցելու, այլև վարձակալության տրամադրելու, ներդրում կատարելու կամ առևտրային գործունեություն ծավալելու համար: 
 [ Իմանալ ավելին ](https://ameriabank.am/personal/loans/mortgage/construction-mortgage)
 Թարմացված է առ 04.02.26 13:50  

@@ -1,25 +1,18 @@
-SOURCE: https://ameriabank.am/personal/loans/car-loan/online-secondary-market
 
 
 # Օնլայն ավտովարկ երկրորդային շուկայից նոր մեքենա ձեռք բերելու համար 
 Վայելիˊր քո նոր ուղևորությունը մեզ հետ 
-![A guy holding a green car and smiling ](https://ameriabank.am/Portals/0/Images/car-loan/unused.png)
-![loan amount icon](https://ameriabank.am/Portals/0/Images/icons/loan-limit-icon.png)
 ###### 3 մլն - 50 մլն ՀՀ դրամ 
 Վարկի գումար
-![loan term icon](https://ameriabank.am/Portals/0/Images/icons/overdraft-time-icon.png)
 ###### 84 ամիս 
 Մարման ժամկետ
-![percentage-icon](https://ameriabank.am/Portals/0/Images/icons/percentage-icon.png)
 ###### 14.4% 
 Անվանական տոկոսադրույքներ
-![check-mark icon](https://ameriabank.am/Portals/0/Images/icons/check-mark.png)
 ###### սկսած 10 %-ից
 Նվազագույն կանխավճար
 ## **Ավտովարկ երկրորդային շուկայից**
 Ընտրի ՛ր քո ավտոմեքենան [**MyCar.am**](https://mycar.am/home)-ից, իմացի ՛ր՝ որքան գումարի վարկ կարող ես ստանալ, լրացրու ՛ վարկային հայտն և ստացի ՛ր պատասխանը 5 րոպեում: Այս վարկատեսակի միջոցով առանց բանկ այցելելու կարող ես նոր (չօգտագործված) մեքենա ձեռք բերել երկրորդային շուկայից: 
 #### ԱՌԱՎԵԼՈՒԹՅՈՒՆՆԵՐ
-* * *
 Loan calculator
 ## Ավտովարկի հաշվիչ
 Արժեքների մուտքագրումը սահմանափակված է՝ ըստ Բանկի պայմանների
@@ -213,29 +206,19 @@ Loan calculator
 
   * [Առանց Բանկ այցելության երկրորդային շուկայից (նոր) չօգտագործված տրանսպորտային միջոցի ձեռքբերման սպառողական վարկի տեղեկատվական ամփոփագիր](https://ameriabank.am/personal/loans/more/support/guides)  
 
-  * [Առանց Բանկ այցելության երկրորդային շուկայից նոր (չօգտագործված) տրանսպորտային միջոցի ձեռքբերման սպառողական վարկ](https://ameriabank.am/Portals/0/files/Personal/Loans/car-loan/Car_Loans_secondary_unused_online_arm.pdf) PDF  
 
 
 **ՈՒՇԱԴՐՈՒԹՅՈՒՆ** "ՁԵՐ ՖԻՆԱՆՍԱԿԱՆ ՏԵՂԵԿԱՏՈՒՆ" ՖԻԶԻԿԱԿԱՆ ԱՆՁԱՆՑ ԱՌԱՋԱՐԿՎՈՂ ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐԻ ՈՐՈՆՄԱՆ, ՀԱՄԵՄԱՏՄԱՆ և ՁԵԶ ՀԱՄԱՐ ԱՄԵՆԱԱՐԴՅՈՒՆԱՎԵՏ ՏԱՐԲԵՐԱԿԻ ԸՆՏՐՈՒԹՅՈՒՆԸ ՀԵՇՏԱՑՆՈՂ ԷԼԵԿՏՐՈՆԱՅԻՆ ՀԱՄԱԿԱՐԳ Է:
-  * [Առանց Բանկ այցելության երկրորդային շուկայից նոր (չօգտագործված) տրանսպորտային միջոցի ձեռքբերման սպառողական վարկ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/Car_Loans_secondary_unused_online_ed65_arm.pdf)(ուժի մեջ է 01.02.26-ից մինչև 15.03.26)
-  * [Առանց Բանկ այցելության երկրորդային շուկայից նոր (չօգտագործված) տրանսպորտային միջոցի ձեռքբերման սպառողական վարկ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/Car_Loans_secondary_unused_online_ed64_arm.pdf)(ուժի մեջ է 20.10.25-ից մինչև 31.01.26)
-  * [Առանց Բանկ այցելության երկրորդային շուկայից նոր (չօգտագործված) տրանսպորտային միջոցի ձեռքբերման սպառողական վարկ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/Car_Loans_secondary_unused_online_ed63_arm.pdf) (ուժի մեջ է 03.07.25թ-ից մինչև 19.10.25)
-  * [Առանց Բանկ այցելության երկրորդային շուկայից նոր (չօգտագործված) տրանսպորտային միջոցի ձեռքբերման սպառողական վարկ PDF](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/Car_Loans_secondary_unused_online_ed62_arm.pdf) (ուժի մեջ է 24.02.25թ-ից մինչև 02.07.25)
-  * [Առանց Բանկ այցելության երկրորդային շուկայից նոր (չօգտագործված) տրանսպորտային միջոցի ձեռքբերման սպառողական վարկ PDF](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/Car_Loans_secondary_unused_online_ed61_arm.pdf) (ուժի մեջ է 20.11.24թ-ից մինչև 23.02.25)
-  * [Առանց Բանկ այցելության երկրորդային շուկայից նոր (չօգտագործված) տրանսպորտային միջոցի ձեռքբերման սպառողական վարկ](https://ameriabank.am/Portals/0/files/Personal/Loans/car-loan/previous/Car_Loans_secondary_unused_online_ed60_arm.pdf) PDF  (ուժի մեջ է 14.06.24թ-ից մինչև 19.11.24)
 
 
 [**Վարկ վերցնելիս եղի՛ր տեղեկացված**](https://ameriabank.am/personal/loans/more/support/information)
 ### Ավտովարկի օնլայն հայտ
-![calculator icon](https://ameriabank.am/Portals/0/Images/icons/calculator.png)
 Իմացի՛ր, թե որքան ավտովարկ կարող ես ստանալ 
 [ Դիմիր հիմա ](https://automarket.ameriabank.am/apply-now)
 ### Ավտովարկ՝ առանց բանկ այցելելու
-![Car-icon](https://ameriabank.am/Portals/0/Images/icons/Car-icon.png)
 Այս վարկատեսակի միջոցով կարող ես առանց բանկ այցելելու մեքենա ձեռք բերել առաջնային շուկայից: 
 [ Իմանալ ավելին ](https://ameriabank.am/personal/loans/car-loan/without-bank-visit)
 ### Ավտովարկ առաջնային շուկայից 
-![primary-car-icon](https://ameriabank.am/Portals/0/Images/icons/primary-car-icon.png)
 Այս վարկատեսակի միջոցով կարող ես մեքենա ձեռք բերել առաջնային շուկայից, ինչպես նաև մեզ մոտ տեղաոխել այլ բանկում կամ վարկային կազմակերպությունում ունեցած առաջնային շուկայից տրանսպորտային միջոցի ձեռքբերման նպատակով վարկերը: 
 [ Իմանալ ավելին ](https://ameriabank.am/personal/loans/car-loan/primary)
 Թարմացված է առ **16.03.2026 08:00**  

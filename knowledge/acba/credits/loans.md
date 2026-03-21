@@ -1,4 +1,3 @@
-SOURCE: https://www.acba.am/hy/individuals/loans
 
 Ստանալ վարկ
 [ Առանց գրավի սպառողական վարկեր ](https://www.acba.am/hy/individuals/loans/consumer-credits)

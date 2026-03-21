@@ -1,4 +1,3 @@
-SOURCE: https://conversebank.am/hy/mobil/
 
 
 # Ավտոմեքենայի ձեռքբերման ֆինանսավորում
@@ -251,20 +250,7 @@ Skype՝ conversebank-callcenter
 
 Թարմացվել է 24.06.2025թ.
 [**Արդյունավետ տոկոսադրույքի հաշվարկման կարգը և օրինակը /համաձայն "Սպառողական կրեդիտավորման մասին" ՀՀ օրենքի/  
-**](https://conversebank.am/u_files/file/Loans/Effective%20APR%20calculation.pdf)
-[**Տեղեկատվական ամփոփագիր**](https://conversebank.am/u_files/file/2025/Mobil%20Jun%202025.pdf)
-[**Վարկի տրամադրման պայմանները մինչ 24․06․2025**](https://conversebank.am/u_files/file/2025/Mobil%20Apr%202025.pdf)
-[**Վարկի տրամադրման պայմանները մինչ 16․04․2025**](https://conversebank.am/u_files/file/2025/Mobil%20Mar%202025.pdf)[**  
   
-**](https://conversebank.am/u_files/file/2025/Mobil%20Mar%202025.pdf)
 [**Վարկի տրամադրման պայմանները մինչ 20․03․2025  
-**](https://conversebank.am/u_files/file/Ampopagir/Mobil%20Apr%202024.pdf)[**  
   
-**](https://conversebank.am/u_files/file/Ampopagir/Mobil%20Apr%202024.pdf)[**Վարկի տրամադրման պայմանները մինչ 13․05․2024**](https://conversebank.am/u_files/file/2024/Mobil%20Jan%202024.pdf)
-[**Վարկի տրամադրման պայմանները մինչ 14․01․2024**](https://conversebank.am/u_files/file/Ampopagir%202023/8_03/Mobil%20Jun%202023.pdf)
-[**Վարկի տրամադրման պայմանները մինչ 01.07.2023**](https://conversebank.am/u_files/file/Ampopagir%202023/%23186%20/Mobil%20Jan%202023.pdf)
-[**Վարկի տրամադրման պայմանները մինչ 20․01․2023**](https://conversebank.am/u_files/file/Ampopagrer%202022/%D5%8E%D5%A1%D6%80%D5%AF%D5%A5%D6%80/27%E2%80%A412/Mobil%20Dec%202022.pdf)
-[**Վարկի տրամադրման պայմանները մինչ 27․12․2022**](https://conversebank.am/u_files/file/Ampopagrer2021/Mobil%20Aug%202021.pdf)
-[**Վարկի տրամադրման պայմանները մինչ 26.08.2021**](https://conversebank.am/u_files/file/Ampopagrer%202020/Mobil%20Feb%202020.pdf)
 [**Ֆինանսներ բոլորի համար**](https://www.fininfo.am/finhelper/index.php)
-[![](https://conversebank.am/u_files/image/Logos/abcfinance%20small.png)](https://www.fininfo.am/finhelper/index.php)

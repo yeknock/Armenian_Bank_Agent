@@ -1,21 +1,15 @@
-SOURCE: https://ameriabank.am/personal/loans/other-loans/investment-loan
 
 # Ներդրումային վարկ 
 քո ՄԵԾ ապագայի համար
 Դիմիր հիմա
-![banner-img](https://ameriabank.am/Portals/0/Images/secured-loans/nerdumayin-vark.png)
-![loan limit icon](https://ameriabank.am/Portals/0/Images/icons/loan-limit-icon.png)
 ###### 3 - 150 մլն ՀՀ դրամ
 Վարկի գումար
-![loan term icon](https://ameriabank.am/Portals/0/Images/icons/overdraft-time-icon.png)
 ###### Մինչև 240 ամիս
 Մարման ժամկետ
-![loan percentage icon](https://ameriabank.am/Portals/0/Images/icons/percentage-icon.png)
 ###### Անվանական տոկոսադրույք*
 • **ՀՀ դրամ** 14%   
 • **ԱՄՆ դոլար** 11%-11,5%  
 • **Եվրո** 9% 
-![check mark icon](https://ameriabank.am/Portals/0/Images/icons/check-mark.png)
 ###### Գրավի առարկա
 Անշարժ և շարժական գույք, դրամական միջոցներ, ոսկով մետաղական հաշիվներ, Ամերիաբանկի պարտատոմսեր կամ բանկի համար ընդունելի այլ գրավ 
 *Փաստացի տոկոսադրույք  
@@ -27,26 +21,19 @@ SOURCE: https://ameriabank.am/personal/loans/other-loans/investment-loan
 Ներդրումային վարկը Հայաստանում 1-ին վարկատեսակն է, որով դու կարող ես գնել անշարժ կամ շարժական գույք արտերկրում և դրանով լրացուցիչ եկամուտներ ստանալ: Վարկը կարող ես ստանալ նաև որպես ֆիզիկական անձ ՀՀ-ի և արտերկրի ընկերություններում բաժնեմաս գնելու կամ այլ կերպ բիզնեսում ներդրում կատարելու համար: 
 ## Առավելություններ
 **ՀՀ դրամ, ԱՄՆ դոլար, եվրո**) 
-* * *
 _*Ձեռքբերվող անշարժ գույքը չի կարող դառնալ հիմնական բնակության վայր_
-![...](https://ameriabank.am/Portals/0/Images/secured-loans/investment-advantages.png)
 ## Գնի′ր անշարժ գույք արտերկրում
 ներդրումային վարկ քո ՄԵԾ ապագայի համար
 Դիմիր հիմա
-![illustration of Dubai building](https://ameriabank.am/Portals/0/Images/secured-loans/dubai-investment-cta.png)
 ## Վարկի նպատակները
 ###### Անշարժ գույք արտերկրում
 Նոր
-![Phone with MyAmeria screan to access for MyPay](https://ameriabank.am/Portals/0/Images/secured-loans/investment-loan-buying-house.png)
 ###### Բաժնեմաս արտերկրի ընկերություններում
 Նոր
-![How to activate MyPay on MyAmeria mobile banking ](https://ameriabank.am/Portals/0/Images/secured-loans/investment-loan-share.png)
 ###### Բաժնեմաս ՀՀ ընկերություններում
-![How to pay with MyPay QR](https://ameriabank.am/Portals/0/Images/secured-loans/investment-loan-business.png)
 ## Դեռ Ամերիաբանկի հաճախորդ չե՞ս
 Պատվիրի′ր անվճար քարտ, իսկ մենք անվճար կառաքենք այն
 [Պատվիրել օնլայն](https://join.myameria.am/?ref=7A46E509-7CD8-41F7-96C4-5EE4E7F3CBDA)
-![...](https://ameriabank.am/Portals/0/Images/New-home/cta-debit-card.png)
 ##  Պայմաններ և սակագներ
   * [ Հարց ու պատասխան ](https://ameriabank.am/personal/loans/other-loans/investment-loan#Tab1_11525)
   * [ Սակագներ ](https://ameriabank.am/personal/loans/other-loans/investment-loan#Tab2_11525)
@@ -293,15 +280,10 @@ _*Ձեռքբերվող անշարժ գույքը չի կարող դառնալ հ
 
 
   * [Ներդրումային վարկի տեղեկատվական ամփոփագիր](https://ameriabank.am/personal/loans/more/support/guides)
-  * [Ներդրումային վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/Investment_loan_arm.pdf)
   * [«Ֆինանսներ բոլորի համար» abcfinance.am ինտերնետային կայք](http://www.abcfinance.am/)
   * [Ձեր Ֆինանսական տեղեկատուն՝ www.fininfo.am](http://www.fininfo.am/)  
 ՈՒՇԱԴՐՈՒԹՅՈՒՆ՝ «ՁԵՐ ՖԻՆԱՆՍԱԿԱՆ ՏԵՂԵԿԱՏՈՒՆ» ՖԻԶԻԿԱԿԱՆ ԱՆՁԱՆՑ ԱՌԱՋԱՐԿՎՈՂ ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐԻ ՈՐՈՆՄԱՆ, ՀԱՄԵՄԱՏՄԱՆ և ՁԵԶ ՀԱՄԱՐ ԱՄԵՆԱԱՐԴՅՈՒՆԱՎԵՏ ՏԱՐԲԵՐԱԿԻ ԸՆՏՐՈՒԹՅՈՒՆԸ ՀԵՇՏԱՑՆՈՂ ԷԼԵԿՏՐՈՆԱՅԻՆ ՀԱՄԱԿԱՐԳ Է:
-  * [Լողացող (Ճշգրտվող) տոկոսադրույքի սահմանման, հաշվարկման և փոփոխման կարգի մասին](https://ameriabank.am/userfiles/file/Retail/Floating_Agreement_arm.pdf)
 
 
-  * [Ներդրումային վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/Investment_loan_ed62_arm.pdf) (ուժի մեջ է 19.05.25-ից մինչև 03.02.26)
-  * [Ներդրումային վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/Investment_loan_ed61_arm.pdf) (ուժի մեջ է 16.09.24-ից մինչև 18.05.25)
 
 
-  * [Ներդրումային վարկի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-leaflets/Investment_loan_16.09.24_arm.pdf) (ուժի մեջ է 16.09.24-ից մինչև18.05.25)

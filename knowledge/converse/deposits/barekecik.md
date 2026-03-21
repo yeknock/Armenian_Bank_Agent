@@ -1,4 +1,3 @@
-SOURCE: https://conversebank.am/hy/barekecik/
 
 # Բարեկեցիկ ապագա
   * [Պրոգրես](https://conversebank.am/hy/progress/)
@@ -225,10 +224,6 @@ SOURCE: https://conversebank.am/hy/barekecik/
   * Skype ՝ conversebank-callcenter
 
 
-[**Ավանդի ներդրման պայմանները մինչ 01.11.2022**](https://conversebank.am/u_files/file/Ampopagrer%202022/%D4%BF%D5%AB%D6%80%D5%A1%D5%BC%D5%A5%D5%AC%D5%AB%20%D5%A5%D5%B6%2001_09/%D4%BF%D4%B2%D4%BC%D5%8F/Bareketsik%20apaga%20Sep%202022.pdf)
-[**Ավանդի ներդրման պայմանները մինչ 31.08.2022**](https://conversebank.am/u_files/file/Ampopagrer%202022/%D4%B1%D5%BE%D5%A1%D5%B6%D5%A4%D5%B6%D5%A5%D6%80/Bareketsik%20apaga%20May%202022\(2\).pdf)
-[**Ավանդի ներդրման պայմանները մինչ 28.05.2022**](https://conversebank.am/u_files/file/Ampopagrer%202022/Bareketsik%20apaga%20Mar%202022.pdf)
-[**Ավանդի ներդրման պայմանները մինչ 10.03.2022**](https://conversebank.am/u_files/file/Ampopagrer2021/Bareketsik%20apaga%20Dec%202021\(1\).pdf)
 Թարմացվել է 1.03.2023թ.08:50
 **[Ավանդի ներդրման պայմանները մինչ 13․12․2021](https://conversebank.am/hy/barekecik/#)**  
 |  **Կուտակման ժամկետի համար**  |  

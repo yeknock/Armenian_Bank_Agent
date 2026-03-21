@@ -1,11 +1,7 @@
-SOURCE: https://www.acba.am/hy/individuals/loans/credit-lines/credit-lines-with-deposit-pledge/credit-line-with-deposit-pledge
 
 
 Ավանդի գրավով վարկային գիծ
-![Ավանդի գրավով վարկային գիծ](https://www.acba.am/thumbs/1000x/2023-02/cJg8VUP3C7ZVzTT85PF6KbxXIn.jpg)
-![](https://www.acba.am/thumbs/768x300/2023-02/cJg8VUP3C7ZVzTT85PF6KbxXIn.jpg)
 Եթե ունեք գումարի կարիք, մի դադարեցրեք Ձեր ավանդային պայմանագիրը: Օգտվեք ավանդի գրավով վարկային գծից: 
-![](https://www.acba.am/pics/arrow_down.png)![](https://www.acba.am/pics/arrow_up.png)
 [ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Այցեքարտ
 Արժույթ
@@ -13,13 +9,11 @@ SOURCE: https://www.acba.am/hy/individuals/loans/credit-lines/credit-lines-with-
 Առավելագույն գումար
 [Մանրամասն »](https://www.acba.am/#prodFeatureInvisibleContent_2664)
 Առավելագույն գումար
-![](https://www.acba.am/pics/white_close_btn.png)
 - գրավադրվող գումարի 80% կամ 95%, եթե գրավադրվող դրամական միջոցների և վարկային գծի արժույթները նույնն են,  
 - գրավադրվող գումարի 75%, եթե գրավադրվող դրամական միջոցների և վարկային գծի արժույթները տարբեր են: 
 Նվազագույն գումար
 [Մանրամասն »](https://www.acba.am/#prodFeatureInvisibleContent_2670)
 Նվազագույն գումար
-![](https://www.acba.am/pics/white_close_btn.png)
 Սահմանված չէ, բացառությամբ հետևյալ քարտատեսակների`  
 · American Express Blue - 180,000 ՀՀ դրամ   
 · Visa Signature - 500,000 ՀՀ դրամ   
@@ -29,7 +23,6 @@ SOURCE: https://www.acba.am/hy/individuals/loans/credit-lines/credit-lines-with-
 Տարեկան տոկոսադրույք
 [Մանրամասն »](https://www.acba.am/#prodFeatureInvisibleContent_2677)
 Տարեկան տոկոսադրույք
-![](https://www.acba.am/pics/white_close_btn.png)
 Մասնաճյուղում դիմելու դեպքում՝ 15%  
   
 acba digital համակարգով դիմելու դեպքում՝ 14% 
@@ -92,7 +85,6 @@ MasterCard Gold  |  առանց սահմանափակման  | Գործարքի ձ
 
 Միաժամանակ վարկային գծի չափը չի կարող գերազանցել վճարային քարտերով վարկային գծերի առավելագույն սահմանաչափերը:
   
-Քարտերի տրամադրման և սպասարկման սակագներին կարող եք ծանոթանալ հետևյալ հղմամբ՝ [քարտային սակագներ](https://www.acba.am/files/card-tariffs.pdf):
 Քարտերը կարող եք նաև պատվիրել առցանց **[այստեղ](https://www.acba.am/hy/online-applications):**
 Վարկային գիծը հնարավոր է ձևակերպել [**acba digital**](https://onelink.to/ypyeyt)-ով կամ մասնաճյուղում՝ ներկայացնելով անձը հաստատող փաստաթուղթ:
   * Վարկային գծի տրամադրման որոշումը կայացվում է և վարկային գիծը ձևակերպվում է դիմելու պահին,
@@ -101,12 +93,9 @@ MasterCard Gold  |  առանց սահմանափակման  | Գործարքի ձ
 
 **Վարկային գծի հաշվարկման օրինակ**
 60 ամիս տևողությամբ, 14% տարեկան տոկոսադրույքով, 1,000,000 ՀՀ դրամ VISA Classic քարտով վարկային գծի դեպքում տարեկան փաստացի տոկոսադրույքը կկազմի 11․19%: Օրական տոկոսագումարը կկազմի Վարկային գծի օգտագործված գումար × Տոկոսադրույք ÷ 365 = (1,000,000×14%÷365) =383.5 ՀՀ դրամ:
-[ԱՅՍՏԵՂ](https://www.acba.am/uploaded/tarekan-pastaci-hashvark.pdf)։
   
 
 **Տեղեկացեք մանրամասն.**
-Քարտերի տրամադրման և սպասարկման սակագներին ըստ քարտատեսակների՝ [Քարտային սակագներ](https://www.acba.am/files/card-tariffs.pdf):
-Վարկառուի կողմից իր պարտավորությունները ժամանակին չկատարելու դեպքում յուրաքանչյուր ժամկետանց օրվա համար հաշվարկվում է տուժանք 0.13%-ի չափով ([կիրառվող տույժեր](http://www.acba.am/uploaded/tuyjer.pdf))
 Վարկային գծի մարումներն իրականացվում են հետևյալ հերթականությամբ (ժամկետանց պարտավորությունները կատարելու դեպքում)`
   * Տույժ/տուգանք,
   * Տոկոսագումար,
@@ -165,7 +154,6 @@ _Բանկը կարող է միակողմանիորեն փոփոխել պայմա
 
 **  
 Ֆինանսական****օգնական  
-![](https://www.acba.am/uploaded/fininfo.png)  
 **
 [www.fininfo.am](http://www.fininfo.am/)
   

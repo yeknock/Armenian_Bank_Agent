@@ -1,12 +1,8 @@
-SOURCE: https://www.acba.am/hy/individuals/loans/credit-lines/credit-lines-with-deposit-pledge/non-revolving
 
 Ավանդի գրավով Չվերականգնվող քարտային վարկային գիծ
-![Ավանդի գրավով Չվերականգնվող քարտային վարկային գիծ](https://www.acba.am/thumbs/1000x/2023-02/2m724X9Yq0zwxwUE95PQpDuBhQ.jpg)
-![](https://www.acba.am/thumbs/768x300/2023-02/2m724X9Yq0zwxwUE95PQpDuBhQ.jpg)
 **Դիմումների ընդունումը դադարեցված է 13.02.2026թ.-ից։**  
   
 Եթե ունեք գումարի կարիք, մի շտապեք դադարեցնել Ձեր ավանդային պայմանագիրը: Օգտվեք ավանդի գրավով Չվերականգնվող քարտային վարկային գծից: 
-![](https://www.acba.am/pics/arrow_down.png)![](https://www.acba.am/pics/arrow_up.png)
 [ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Այցեքարտ
 Արժույթ
@@ -14,7 +10,6 @@ SOURCE: https://www.acba.am/hy/individuals/loans/credit-lines/credit-lines-with-
 Առավելագույն գումար
 [Մանրամասն »](https://www.acba.am/#prodFeatureInvisibleContent_2675)
 Առավելագույն գումար
-![](https://www.acba.am/pics/white_close_btn.png)
 - գրավադրվող գումարի 95%, եթե գրավադրվող դրամական միջոցների և վարկային գծի արժույթները նույնն են,  
 - գրավադրվող գումարի 90%, եթե գրավադրվող դրամական միջոցներն արտարժութային են և վարկային գիծը ՀՀ դրամ արժույթով 
 Տևողություն
@@ -73,12 +68,9 @@ SOURCE: https://www.acba.am/hy/individuals/loans/credit-lines/credit-lines-with-
   * Օրական տոկոսագումարը կկազմի Վարկի գումար(մնացորդ) × Վարկի տոկոսադրույք ÷ 365 = (700,000×14%÷365) = 268.49 ՀՀ դրամ:
 
 
-[ԱՅՍՏԵՂ](https://www.acba.am/uploaded/tarekan-pastaci-hashvark.pdf):
   
 
 **Տեղեկացեք մանրամասն`**
-Քարտերի տրամադրման և սպասարկման սակագներին ըստ քարտատեսակների՝ **[Քարտային սակագներ](https://www.acba.am/files/card-tariffs.pdf) :**
-Վարկառուի կողմից իր պարտավորությունները ժամանակին չկատարելու դեպքում յուրաքանչյուր ժամկետանց օրվա համար հաշվարկվում է տուժանք 0.13%-ի չափով ([կիրառվող տույժեր](http://www.acba.am/uploaded/tuyjer.pdf))
 Վարկային գծի մարումներն իրականացվում են հետևյալ հերթականությամբ (ժամկետանց պարտավորությունները կատարելու դեպքում)`
   * Տույժ/տուգանք,
   * Տոկոսագումար,

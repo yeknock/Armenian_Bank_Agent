@@ -1,17 +1,12 @@
-SOURCE: https://ameriabank.am/personal/loans/consumer-loans/consumer-loans
 
 # Սպառողական վարկ
 Քո յուրաքանչյուր նպատակ իրականություն է դառնում 
 [Դիմիր օնլայն](https://customer.ameriabank.am/signin)
-![banner-img](https://ameriabank.am/Portals/0/Images/New-home/consumer-loans-top.png)
 ## Քանի միլիոն էլ ուզես, 15-17%-ով
 Ստացիր անգրավ վարկ մինչև ապրիլի 15-ը, գնիր նվերներ, մեկնիր ճամփորդության, կատարիր մեծ գնումներ, կարճ ասած` ինչ ուզես, մինչև 20 մլն դրամով
 [ Իմանալ ավելին ](https://ameriabank.am/campagins/consumer-loans-womens-month)
-![iphone](https://ameriabank.am/Portals/0/Images/campaigns/march-8/MARCH8_374X270.png)
-![...](https://ameriabank.am/Portals/0/Images/icons/loan-limit-icon.png)
 ###### 100 հազար - 20 մլն ՀՀ դրամ 1
 Վարկի գումար
-![...](https://ameriabank.am/Portals/0/Images/icons/overdraft-time-icon.png)
 ###### 60 ամիս 2
 Մարման ժամկետ
 1Սքորինգ համակարգով տրամադրվող վարկերի դեպքում։   
@@ -22,16 +17,12 @@ SOURCE: https://ameriabank.am/personal/loans/consumer-loans/consumer-loans
 Չնախատեսված անձնական և ընտանեկան ծախսերի դեպքում սպառողական վարկավորումը քեզ անհրաժեշտ լուծումն է: Այս վարկատեսակը քեզ հարմար է, եթե ստացած գումարը նախատեսում ես ծախսել կանխիկ տարբերակով` ամսական կատարելով ֆիքսված մարումներ:   
 
 #### ԱՌԱՎԵԼՈՒԹՅՈՒՆՆԵՐ
-* * *
 ## Առավելություններ
-![time icon](https://ameriabank.am/Portals/0/Images/icons/overdraft-time-icon.png)
 ###### Հայտի պատասխան 1 րոպեում
 Օնլայն վարկային հայտ ներկայացնելու դեպքում հայտի պատասխանը կստանաս անմիջապես՝ մինչև 1 րոպեի ընթացքում:
-![online loan icon](https://ameriabank.am/Portals/0/Images/icons/overdraft-online-icon.png)
 ###### Վարկի տրամադրում՝ առանց Բանկ այցելելու
 Եթե ունես Ամերիաբանկի ակտիվ քարտ, կարող ես վարկը ստանալ Ամերիաբանկի հաշվին՝ առանց Բանկ այցելելու1:
 1Բանկի պայմաններին և սահմանված կարգին բավարարելու դեպքում:
-![myameria online/mobile banking icon](https://ameriabank.am/Portals/0/Images/icons/online-loan-icon.png)
 ###### Հաշվի կառավարում՝ առանց Բանկ այցելելու
 Կարող ես կառավարել հաշիվներդ Օնլայն/Մոբայլ բանկինգի, ինչպես նաև հեռախոսային բանկինգի միջոցով. կատարի՛ր փոխանցումներ, վճարումներ, մարի՛ր վարկերդ, ստուգի՛ր հաշիվդ և շատ ավելին:
 [Իմանալ ավելին](https://ameriabank.am/personal/accounts/accounts-management/myameria)
@@ -61,7 +52,6 @@ Loan calculator
 ##### 100 հազար - 20 մլն ՀՀ դրամ
 Վարկի գումար
 [Դիմել հիմա](https://customer.ameriabank.am/signin)
-![3D bank card illustration](https://ameriabank.am//Portals/0/Images/loans/loan-card.png)
 ##  Հարց ու պատասխան 
 Սպառողական վարկը կարելի է օգտագործել կենցաղային և էլեկտրոնային տեխնիկա գնելու, միջոցառումներ իրականացնելու և այլ ընթացիկ ծախսեր հոգալու համար։ Եթե Ձեզ անհրաժեշտ է ոչ մեծ գումար, ապա սպառողական վարկն ամենաճիշտ լուծումն է:
 Վարկը մարելու համար կարող ես ընտրել քեզ հարմար երեք տարբերակներից մեկը` 
@@ -204,9 +194,6 @@ Loan calculator
   * [abcfinance.am](https://abcfinance.am/news/news_varkayinscore.html) – Սկիզբ - Նորություններ – Ի՞նչ է ՍՔՈՐԸ և ինչպե՞ս այն բարելավել
 
 
-  * [Գույքով չապահովված սպառողական վարկի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/Consumer_loan_unsecured.pdf)
-  * [Գույքով չապահովված սպառողական վարկերի պայմանները](https://ameriabank.am/Portals/0/files/Personal/Loans/Consumer_unsecured_arm.pdf)
-  * [Պայմաններ և կանոններ](https://ameriabank.am/Portals/0/files/Personal/web-info.pdf)  
 
   * [«Ֆինանսներ բոլորի համար» abcfinance.am ինտերնետային կայք](http://www.abcfinance.am/)
   * [Վարկ վերցնելիս եղիր տեղեկացված](https://ameriabank.am/personal/loans/more/support/information)  
@@ -222,29 +209,17 @@ Loan calculator
 |  Օվերդրաֆտի/վարկային գծի հաշվի/քարտի փոփոխություն  |  50,000 ՀՀ դրամ  |  
 |  Սույն փաստաթղթով չսահմանված վարկի ցանկացած այլ պայմանի վերանայում/փոփոխություն  |  Վարկի մնացորդի 0,1%-ի չափով` նվազագույնը 10,000 ՀՀ դրամ  |  
 |  Վարկի մարման օրվա փոփոխություն  |  10,000 ՀՀ դրամ  |  
-  * [Գույքով չապահովված սպառողական վարկերի պայմանները](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/Consumer_unsecured_ed64_arm.pdf) (ուժի մեջ է 01.10.24-ից մինչև 24.10.24)
-  * [Գույքով չապահովված սպառողական վարկերի պայմանները](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/Consumer_unsecured_ed63_arm.pdf) (ուժի մեջ է 02.09.24-ից մինչև 30.09.24)
-  * [Գույքով չապահովված սպառողական վարկերի պայմանները](https://ameriabank.am/Portals/0/files/Personal/Loans/Consumer_unsecured_ed62_arm.pdf) (ուժի մեջ է 30.07.24-ից մինչև 01.09.24)
-  * [Գույքով չապահովված սպառողական վարկերի պայմանները](https://ameriabank.am/Portals/0/files/Personal/Loans/Consumer_unsecured_ed61_arm.pdf) (ուժի մեջ է 03.06.24-ից մինչև 29.07.24)
-  * [Գույքով չապահովված սպառողական վարկերի պայմանները](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/Consumer_unsecured_ed60_arm.pdf) (ուժի մեջ է 01.02.24-ից մինչև 02.06.24)  
   
 
-  * [Գույքով չապահովված սպառողական վարկի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-leaflets/Consumer_loan_unsecured_24.10.2024_arm.pdf) (ուժի մեջ է 24.10.24-ից մինչև 13.07.25)
-  * [Գույքով չապահովված սպառողական վարկի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-leaflets/Consumer_loan_unsecured_01.10.2024_arm.pdf) (ուժի մեջ է 01.10.24-ից մինչև 23.10.24)
-  * [Գույքով չապահովված սպառողական վարկի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-leaflets/Consumer_loan_unsecured_02.09.2024_arm.pdf) (ուժի մեջ է 02.09.24-ից մինչև 30.09.24)
-  * [Գույքով չապահովված սպառողական վարկի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-leaflets/Consumer_loan_unsecured_03.06.2024_arm.pdf) (ուժի մեջ է 03.06.24-ից մինչև 01.09.24)
 
 
 ### Վարկային գիծ
-![...](https://ameriabank.am/Portals/0/Images/icons/credit-line-icon.png)
 Չնախատեսված ծախսերի, չպլանավորած գնումների դեպքում հասանելի միջոցներ ունենալու հարմարավետ տարբերակ է վարկային գիծը: 
 [ Իմանալ ավելին ](https://ameriabank.am/personal/loans/consumer-loans/credit-line)
 ### Օվերդրաֆտ
-![...](https://ameriabank.am/Portals/0/Images/icons/card-loan-icon.png)
 Վճարային քարտերով տրամադրվող օվերդրաֆտը քեզ հնարավորություն է տալիս առանց քարտային հաշվին նախապես գումար մուտքագրելու օգտագործել Բանկի կողմից տրամադրված վարկային միջոցները: 
 [ Իմանալ ավելին ](https://ameriabank.am/personal/loans/consumer-loans/overdraft)
 ### Ապառիկ ֆինանսավորում 
-![...](https://ameriabank.am/Portals/0/Images/icons/credit-limit-icon.png)
 Մենք առաջարկում ենք կենցաղային և համակարգչային տեխնիկան, կահույքը, արևային համակարգերը և քո առօրյա կյանքի համար անհրաժեշտ բազմաթիվ այլ ապրանքներն ու ծառայությունները ապառիկ ձեռք բերելու արագ տարբերակ: 
 [ Իմանալ ավելին ](https://ameriabank.am/personal/loans/consumer-loans/consumer-finance)
 Թարմացված է առ **28.07.2025 14:36**  

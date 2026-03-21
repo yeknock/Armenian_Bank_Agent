@@ -1,19 +1,13 @@
-SOURCE: https://ameriabank.am/personal/saving/deposits/cumulative-deposit
 
 # Ամերիա Կուտակային ավանդ 
 Փոքր քայլերով դեպի մեծ նպատակներ 
 [Ներդնել ավանդ](https://ameria.me/3whKBAL) [Դառնալ հաճախորդ ](https://join.myameria.am/?ref=A1EC7C99-4711-4D7D-9733-EE51C8C7D120)
-![A girl with small plant](https://ameriabank.am/Portals/0/Images/deposit/kutakayin-avand-banner.png)
-![icon](https://ameriabank.am/Portals/0/Images/icons/green/salary.png)
 ##### 50,000 դրամ
 Նվազագույն գումար 
-![icon](https://ameriabank.am/Portals/0/Images/icons/green/time.png)
 ##### 91-1825 օր
 Ժամկետ
-![icon](https://ameriabank.am/Portals/0/Images/icons/green/discount.png)
 ##### Մինչև 9,3% 
 Տոկոսադրույք
-![icon](https://ameriabank.am/Portals/0/Images/icons/green/bonus%20.png)
 ##### ֏, $
 Արժույթներ
 ## Ամերիա Կուտակային ավանդի մասին
@@ -43,7 +37,6 @@ RUB
 7.5%
 Ավելացման հնարավորություն
 Հաճախորդն իրավունք ունի ավելացնելու ավանդի գումարն առավելագույնը 50 մլն ՀՀ դրամի կամ 100.000 ԱՄՆ դոլարի չափով` անկախ ներգրավման պահին ավանդի գումարի մեծությունից` բացառությամբ ավանդի հայտ-պայմանագրի գործողության վերջին 3 ամիսների։
-![plus](https://ameriabank.am/Portals/0/Images/icons/plus.svg) Ավելացնել 
 ԵԼՆԵԼՈՎ ՁԵՐ ԸՆՏՐԱԾ ՀՆԱՐԱՎՈՐՈՒԹՅՈՒՆՆԵՐԻՑ` ԱՎԱՆԴԻ ՏԱՐԵԿԱՆ ԱՆՎԱՆԱԿԱՆ ՏՈԿՈՍԱԳՈՒՄԱՐԸ ԱՌԱՆՑ ՀԱՐԿԵՐԻ
 69,300
 Ընդամենը վճարվող գումար (ներառյալ ավանդի մայր գումարը)
@@ -55,7 +48,6 @@ RUB
 ## Պատրա՞ստ ես ավանդ ներդնել 
 Ներկայացրո՛ւ հայտը MyAmeria Օնլայն/Մոբայլ բանկինգի միջոցով: 
 [Դիմիր հիմա](https://ameria.me/3whKBAL)
-![...](https://ameriabank.am/Portals/0/Images/mobile-CTA.png)
 ##  Պայմաններ և սակագներ 
   * [ Ավանդատեսակները և տոկոսներ ](https://ameriabank.am/personal/saving/deposits/cumulative-deposit#Tab1_53744)
   * [ Հարց ու պատասխան ](https://ameriabank.am/personal/saving/deposits/cumulative-deposit#Tab2_53744)
@@ -127,34 +119,9 @@ Partner հաճախորդների կողմից ավանդի ներդրման դե
 Վարկային քարտով պարտավորությունները ժամանակին չմարելու դեպքում Բանկն իրավունք ունի անակցեպտ գանձել պարտավորության գումարը Ավանդի գումարից:
 Վարկային գիծ/ավանդ հարաբերակցության մեջ ավանդի գումարը ներառվում է ժամկետի սկզբում վճարված տոկոսագումարը նվազեցնելուց հետո:
   * [Հարց ու պատասխան](https://ameriabank.am/en/personal/saving/other-services/support)
-  * [Ամերիաբանկ ՓԲԸ Ավանդի պայմանները ֆիզիկական անձանց համար](https://ameriabank.am/Portals/0/files/Personal/deposit/Deposit_Terms_PP_arm.pdf) PDF
-  * [«Ամերիաբանկ» ՓԲԸ Ֆիզիկական անձանց ավանդների և խնայողական հաշվի սակագներ](https://ameriabank.am/Portals/0/files/Personal/deposit/green/Deposit_saving_terms_for_pp_15.09.2025_arm.pdf) (Ուժի մեջ է՝ 15․09․2025-ից)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/green/leaflet_deposit_amd_15.09.2025_arm.pdf) (AMD) (Ուժի մեջ է՝ 15․09․2025-ից)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/green/leaflet_deposit_eur_15.09.2025_arm.pdf) (EUR) (Ուժի մեջ է՝ 15․09․2025-ից)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/green/leaflet_deposit_usd_15.09.2025_arm.pdf) (USD) (Ուժի մեջ է՝ 15․09․2025-ից)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/green/leaflet_deposit_rub_15.09.2025_arm.pdf) (RUB) (Ուժի մեջ է՝ 15․09․2025-ից)
-  * [«Ամերիաբանկ» ՓԲԸ Ֆիզիկական անձանց ավանդների և խնայողական հաշվի սակագներ](https://ameriabank.am/Portals/0/files/Personal/Deposit_saving_terms_for_pp_arm.pdf)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/leaflet/leaflet_deposit_amd_arm.pdf) (AMD)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/leaflet/leaflet_deposit_eur_arm.pdf) (EUR)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/leaflet/leaflet_deposit_usd_arm.pdf) (USD)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/leaflet/leaflet_deposit_rub_arm.pdf) (RUB)
-  * [Ամերիաբանկ ՓԲԸ-ի ֆիզիկական անձանց ավանդների և խնայողական հաշիվների նկարագրությունը և տոկոսադրույքները](https://ameriabank.am/Portals/0/files/Personal/Deposit_saving_terms_for_pp_old_arm.pdf) PDF 2024 թ. (Պայմանները գործում են մինչև 29.10.2024 ներդրված ավանդների համար)
-  * [Ամերիաբանկ ՓԲԸ-ի սակագները ֆիզիկական անձանց համար PDF](https://ameriabank.am/Portals/0/files/Personal/Individual_standard_tariffs.pdf)
-  * [Ֆիզիկական անձանց բանկային ծառայությունների մատուցման ընդհանուր դրույթներ և դրույթներ](https://ameriabank.am/userfiles/file/Terms_and_Conditions_PP_arm_29_09_2017.pdf) PDF
-  * [Ծանուցում Ավանդների Երաշխավորման Պայմանների և Պայմանների մասին](https://ameriabank.am/userfiles/file/Hatucum_arm.pdf) PDF
   * [«Ֆինանսական օգնական» համակարգ abcfinance.am կայքում, որն առաջարկում է «Ֆինանսներ բոլորի համար»](https://abcfinance.am/)
 
 
-  * [«Ամերիաբանկ» ՓԲԸ Ֆիզիկական անձանց ավանդների և խնայողական հաշվի սակագներ](https://ameriabank.am/Portals/0/files/Personal/deposit/previous/Deposit_saving_terms_for_pp_ed3_arm.pdf) (ուժի մեջ է 10.08.25-ից մինչև 14.09.25)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/previous/leaflet_deposit_amd_ed1_arm.pdf) (AMD) (ուժի մեջ է 10.08.25-ից մինչև 14.09.25)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/previous/leaflet_deposit_eur_ed1_arm.pdf) (EUR) (ուժի մեջ է 10.08.25-ից մինչև 14.09.25)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/previous/leaflet_deposit_usd_ed1_arm.pdf) (USD) (ուժի մեջ է 10.08.25-ից մինչև 14.09.25)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/leaflet/leaflet_deposit_rub_arm.pdf) (RUB) (ուժի մեջ է 10.08.25-ից մինչև 14.09.25)
-  * [«Ամերիաբանկ» ՓԲԸ ստանդարտ սակագներ ֆիզիկական անձ հաճախորդների համար](https://ameriabank.am/Portals/0/files/Personal/deposit/previous/leaflet_deposit_rub_ed1_arm.pdf) (ուժի մեջ է 14.08.25-ից մինչև 14.09.25)
-  * [Ամերիաբանկ ՓԲԸ Ավանդի դրույթներ և պայմաններ ֆիզիկական անձանց համար](https://ameriabank.am/Portals/0/files/Personal/deposit/previous/Deposit_Terms_PP_ed5_arm.pdf) (07.06.23-ից մինչև 28.10.24)
-  * [Ամերիաբանկ ՓԲԸ ավանդների և խնայողական հաշիվների նկարագրությունը և տոկոսադրույքները անհատների համար](https://ameriabank.am/Portals/0/files/Personal/deposit/previous/Deposit_saving_terms_for_pp_ed13_arm.pdf) (05.12.23-ից մինչև 28.10.24թ.)
-  * [«Ամերիաբանկ» ՓԲԸ Ֆիզիկական անձանց ավանդների և խնայողական հաշվի սակագներ](https://ameriabank.am/Portals/0/files/Personal/deposit/previous/Deposit_saving_terms_for_pp_ed2_arm.pdf) (28.04.25-ից մինչև 09.08.25)
-  * [«Ամերիաբանկ» ՓԲԸ Ֆիզիկական անձանց ավանդների և խնայողական հաշվի սակագներ](https://ameriabank.am/Portals/0/files/Personal/deposit/previous/leaflet_deposit_ed1_pp.pdf) (29.10.24-ից մինչև 27.04.25)
 
 
 **Ամփոփագրերին ավելի մանրամասն կարող ես ծանոթանալ** **[այստեղ](https://ameriabank.am/personal/saving/deposits/ameria-deposit/information-guide)** :
@@ -164,13 +131,10 @@ Partner հաճախորդների կողմից ավանդի ներդրման դե
 
 ՈՒՇԱԴՐՈՒԹՅՈՒՆ՝ «ՁԵՐ ՖԻՆԱՆՍԱԿԱՆ ՏԵՂԵԿԱՏՈՒՆ» ՖԻԶԻԿԱԿԱՆ ԱՆՁԱՆՑ ԱՌԱՋԱՐԿՎՈՂ ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐԻ ՈՐՈՆՄԱՆ, ՀԱՄԵՄԱՏՄԱՆ և ՁԵԶ ՀԱՄԱՐ ԱՄԵՆԱԱՐԴՅՈՒՆԱՎԵՏ ՏԱՐԲԵՐԱԿԻ ԸՆՏՐՈՒԹՅՈՒՆԸ ՀԵՇՏԱՑՆՈՂ ԷԼԵԿՏՐՈՆԱՅԻՆ ՀԱՄԱԿԱՐԳ Է
 ## Խնայողության այլ տարբերակներ
-[ ![product](https://ameriabank.am/Portals/0/Images/deposit/deposit-illustration.png) ](https://ameriabank.am/personal/saving/deposits/ameria-deposit)
 ###### [Ամերիա ավանդ  ](https://ameriabank.am/personal/saving/deposits/ameria-deposit)
 Սա ժամկետային ավանդատեսակ է, որի պայմանագրի գործողության ժամկետում դու չես կարող ավելացնել կամ նվազեցնել ավանդի գումարը կամ փոխարկել ավանդը մեկ արժույթից մեկ այլ արժույթի։ 
 [Իմանալ ավելին](https://ameriabank.am/personal/saving/deposits/ameria-deposit)
-[ ![product](https://ameriabank.am/Portals/0/Images/deposit/saving-illustrations.png) ](https://ameriabank.am/personal/accounts/accounts/saving-account)
 ###### [Խնայողական հաշիվ ](https://ameriabank.am/personal/accounts/accounts/saving-account)
 Դու կարող ես ներդնել որոշակի գումար՝ դրա նկատմամբ հաշվարկվող հարմար տոկոսադրույքով, ցանկացած ժամանակ ավելացնել կամ նվազեցնել գումարը, ինչպես նաև օգտագործել այն՝ առանց սահմանափակումների:
 [Իմանալ ավելին](https://ameriabank.am/personal/accounts/accounts/saving-account)
-[ ![product](https://ameriabank.am/Portals/0/Images/deposit/bonds-illustration.png) ](https://ameriabank.am/personal/saving/saving/bonds)
 ###### [Պարտատոմս ](https://ameriabank.am/personal/saving/saving/bonds)

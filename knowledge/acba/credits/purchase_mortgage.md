@@ -1,15 +1,8 @@
-SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/purchase-mortgage
 
 
-[Անշարժ գույքի գնման հիփոթեքային վարկ](https://www.acba.am/hy/individuals/loans/mortgage/purchase-mortgage)
-Անշարժ գույքի գնման հիփոթեքային վարկ
-![Hipotekayin vark ansharj guyqi hamar](https://www.acba.am/thumbs/1000x/2021-11/EzSoGJ6WjeZCOiSTBsCNMA0sqB.png)
-![](https://www.acba.am/thumbs/768x300/2021-11/EzSoGJ6WjeZCOiSTBsCNMA0sqB.png)
+
 Ակբա բանկը տրամադրում է Հիփոթեքային վարկեր կայուն եկամուտ ունեցող ֆիզիկական անձանց: Վարկերը տրամադրվում են անշարժ գույքի (բնակարան, բնակելի տուն, առանձնատուն, այլ) գնման նպատակով: 
-![](https://www.acba.am/pics/arrow_down.png)![](https://www.acba.am/pics/arrow_up.png)
-[ Լրացնել հայտը ](https://www.acba.am/hy/online-applications/Credit-applications/purchase-loans)
-[ Հաշվիչ ](https://www.acba.am/hy/calculators/loan-calculator/purchase-mortgage-calculator)
-[ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
+
 Այցեքարտ
 Արժույթ
 ՀՀ դրամ և արտարժույթ
@@ -20,7 +13,6 @@ SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/purchase-mortgage
 Տարեկան տոկոսադրույք
 [Մանրամասն »](https://www.acba.am/#prodFeatureInvisibleContent_531)
 Տարեկան տոկոսադրույք
-![](https://www.acba.am/pics/white_close_btn.png)
 **Տարեկան հաստատուն տոկոսադրույք.**  
   
 ՀՀ դրամ՝ 13.75-14.5%, ԱՄՆ դոլար` 10.5-11.5%, Եվրո 9-10%  
@@ -39,7 +31,6 @@ SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/purchase-mortgage
 Ապահովվածություն
 [Մանրամասն »](https://www.acba.am/#prodFeatureInvisibleContent_535)
 Ապահովվածություն
-![](https://www.acba.am/pics/white_close_btn.png)
 գնվող անշարժ գույք, անհրաժեշտության դեպքում նաև այլ անշարժ գույք, շարժական գույք, դրամական միջոցներ, երաշխավորություններ և այլն: 
 Առավելություններ
 Տրամադրման պայմաններ
@@ -103,12 +94,8 @@ SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/purchase-mortgage
 
 
 **Տեղեկացեք մանրամասն.**
-**[Հիփոթեքային վարկերի լողացող տոկոսադրույքի փոփոխվող բաղադրիչ](https://www.acba.am/files/loghacogh-tokosadruyq.pdf)  
-Հնարավոր լրացուցիչ վճարումների չափի մասին՝ [Վարկային սակագներ](https://www.acba.am/files/loans-tariffs.pdf)։**
 [Վարկային սակագների նախկին պայմաններ](https://www.acba.am/hy/1565846920)
 Պետական աջակցության ծրագրերն են՝
-  1. [Մարզում հիփոթեքի աջակցության ծրագիր](https://www.acba.am/files/dramakan-ajakcutyun.pdf)
-  2. [Հիփոթեքի մարման աջակցության ծրագիր](https://www.acba.am/files/dramakan-ajakcutyun-mayr-gumar.pdf)
 
 
 **Ինչպես ստանալ անշարժ գույքի գնման հիփոթեքային վարկի վճարված տոկոսագումարների փոխհատուցում եկամտային հարկից**
@@ -215,13 +202,11 @@ SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/purchase-mortgage
   
 Արտարժութային վարկերի դեպքում տարեկան փաստացի տոկոսադրույքի հաշվարկի համար հիմք է հանդիսանում վարկի տրամադրման օրվա դրությամբ ՀՀ ԿԲ պաշտոնական կայքէջում հրապարակված փոխարժեքը, ընդ որում տարեկան փաստացի տոկոսադրույքը կարող է փոփոխվել՝ կախված Հայաստանի Հանրապետության կենտրոնական բանկի պաշտոնական կայքէջում հրապարակված փոխարժեքի մեծության փոփոխությունից:
   
-ՈՒՇԱԴՐՈՒԹՅՈՒՆ՝ ՎԱՐԿԻ ՏՈԿՈՍԱԳՈՒՄԱՐՆԵՐԸ ՀԱՇՎԱՐԿՎՈՒՄ ԵՆ ԱՆՎԱՆԱԿԱՆ ՏՈԿՈՍԱԴՐՈՒՅՔԻ ՀԻՄԱՆ ՎՐԱ, ԻՍԿ ՏԱՐԵԿԱՆ ՓԱՍՏԱՑԻ ՏՈԿՈՍԱԴՐՈՒՅՔԸ ՑՈՒՅՑ Է ՏԱԼԻՍ, ԹԵ ՈՐՔԱՆ ԿԱՐԺԵՆԱ ՎԱՐԿԸ ՁԵԶ ՀԱՄԱՐ ՏՈԿՈՍԱԳՈՒՄԱՐՆԵՐԸ ԵՎ ՎԱՐԿԻ ՏՐԱՄԱԴՐՄԱՆ և ՍՊԱՍԱՐԿՄԱՆ ԳԾՈՎ ԲՈԼՈՐ ՊԱՐՏԱԴԻՐ ՎՃԱՐՆԵՐԸ ՍԱՀՄԱՆՎԱԾ ԺԱՄԿԵՏՆԵՐՈՒՄ ԵՎ ՉԱՓԵՐՈՎ ԿԱՏԱՐԵԼՈՒ ԴԵՊՔՈՒՄ: ՓԱՍՏԱՑԻ ՏՈԿՈՍԱԴՐՈՒՅՔԻ ՀԱՇՎԱՐԿԸ ԿԱՐՈՂ ԵՔ ԳՏՆԵԼ [ԱՅՍՏԵՂ](https://www.acba.am/uploaded/tarekan-pastaci-hashvark.pdf)։
   
 **Տեղեկացեք մանրամասն.  
   
 **
 [Հիփոթեքային վարկի հաշվիչ](https://www.acba.am/hy/calculators/loan-calculator/purchase-mortgage-calculator)
-Վարկառուի կողմից իր պարտավորությունները ժամանակին չկատարելու դեպքում յուրաքանչյուր ժամկետանց օրվա համար հաշվարկվում է տուժանք 0.13%-ի չափով ([կիրառվող տույժեր](http://www.acba.am/uploaded/tuyjer.pdf))
 Վարկի մարումներն իրականացվում են հետևյալ հերթականությամբ (ժամկետանց պարտավորությունները կատարելու դեպքում)
   * Տույժ/տուգանք
   * Տոկոսագումար
@@ -234,8 +219,6 @@ SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/purchase-mortgage
 **Նաիրի ինշուրանս**(հասցե՝ ՀՀ, 0010, ք. Երևան, Վազգեն Սարգսյան 10 շ., թիվ 110 տարածք, հեռ՝ (374) 60 50 00 60)
   
   
-**[Բանկի հետ համագործակցող որակավորված անկախ գնահատող ընկերություններ](https://www.acba.am/uploaded/ankakh-gnahatogh-arm.pdf)**
-**[Անշարժ գույքի ձեռքբերման (գնման) հիփոթեքային վարկի տեղեկատվական ամփոփագիր](https://www.acba.am/uploaded/loan-info-mortgage.pdf)**
 Անշարժ գույքի գնման հիփոթեքային վարկերը տրամադրվում են 18 տարին լրացած ռեզիդենտ կամ ոչ ռեզիդենտ ֆիզիկական այն անձանց, ովքեր վարկի գործողության ողջ ընթացքում չեն բոլորի կենսաթոշակային տարիքը + 4 տարի:
 Անշարժ գույքի գնման հիփոթեքային վարկերը տրամադրվում են առաջնային կամ երկրորդային շուկայից բնակելի կամ այլ անշարժ գույքի ձեռքբերման նպատակով:
   * Վարկի գումարը տրամադրվում է անկանխիկ

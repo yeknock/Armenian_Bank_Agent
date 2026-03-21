@@ -1,8 +1,6 @@
-SOURCE: https://ameriabank.am/personal/saving/other-services/support#C1
 
 # Հաճախակի տրվող հարցեր
 Իմացի՛ր ավելին ավանդների մասին 
-![A guy in a green shirt ](https://ameriabank.am/Portals/0/Images/internal-pages/help-banner.png)
   * [ ](https://ameriabank.am/personal/saving/other-services/support#Tab1_11753)
   * [ ](https://ameriabank.am/personal/saving/other-services/support#Tab2_11753)
   * [ ](https://ameriabank.am/personal/saving/other-services/support#Tab3_11753)
@@ -29,7 +27,6 @@ SOURCE: https://ameriabank.am/personal/saving/other-services/support#C1
 
 Տարեկան տոկոսային եկամտաբերությունը հաշվարկվում է հետևյալ բանաձևով.
 ԲԱՆԱՁԵՎ
-![https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/1269887/536881_663467.png](https://lh4.googleusercontent.com/inVFtG6GGAMC_t9BFGywVwMF-pQtlnfNMlrVbQn4o7Z0RQsRkjNCSKilwX2wfuw0TBRUkqmwuPYERWfpgbw3__qpFhrsBMlozX4q0Fbud5iI0Tyc_d1vCWKgVbt2p7kg-VnjGmY)
 Որտեղ`
 i - մանրամասն սահմանված էֆեկտիվ տոկոսադրույքն է (ՄՍԷՏ),
 Kn - դրամական միջոցների n հոսքերը Բանկի տեսանկյունից,

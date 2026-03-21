@@ -1,13 +1,9 @@
-SOURCE: https://ameriabank.am/personal/loans/car-loans
 
 # Ավտովարկեր
 Ստացեք ձեր նոր մեքենան մեկ օրում
 [Ստուգեք ձեր վարկունակությունը](https://mycar.am/apply-now/)
-![A guy with green toy car](https://ameriabank.am/Portals/0/Images/car-loan/Car-loans_primary.png)
 ## Իջեցրու նոր մեքենայիդ արժեքը 
 Ստացիր ավտովարկ 0% կանխավճարով 
-[Գրանցվիր հիմա](https://mycar.am/specialOffers) [Իմանալ ավելին](https://ameriabank.am/Portals/0/files/Personal/Loans/car-loan/car-loan-terms-march-arm.pdf)
-![mycar march 8 campaign](https://ameriabank.am/Portals/0/Images/mortgage/mortgage-campaigns/car-mirror-arm.png)
 ### Ավտովարկ՝ առանց բանկ այցելելու 
 Ընտրի՛ր քո ավտոմեքենան mycar.am-ից, իմացի՛ր՝ որքան գումարի վարկ կարող ես ստանալ, լրացրու՛ վարկային հայտն և ստացի՛ր պատասխանը 5 րոպեում: 
 ##### 14.4% 
@@ -19,7 +15,6 @@ SOURCE: https://ameriabank.am/personal/loans/car-loans
 ##### սկսած 5%-ից
 Կանխավճար
 [Ստուգիր վարկունակությունդ](https://mycar.am/apply-now) [Իմանալ ավելին](https://ameriabank.am/personal/loans/car-loan/without-bank-visit)
-![blue-car-illustration](https://ameriabank.am/Portals/0/Images/car-loan/blue-car-illustration.png)
 ### Ավտովարկ առաջնային շուկայից 
 Գտի'ր քեզ անհրաժեշտ ավտոմեքենան և վայելիր քո ուղևորությունները: Ընտրիր քո նոր մեքենան ավտոսրահից, իսկ մենք կօգնենք ֆինանսավորման հարցերում: 
 ##### 14.9% 
@@ -31,7 +26,6 @@ SOURCE: https://ameriabank.am/personal/loans/car-loans
 ##### սկսած 5%-ից
 Կանխավճար
 [Իմանալ ավելին](https://ameriabank.am/personal/loans/car-loan/primary)
-![car-key-illustration](https://ameriabank.am/Portals/0/Images/car-loan/yellow-car-illustration.png)
 ### Ավտովարկ երկրորդային շուկայից 
 Այս վարկատեսակի միջոցով կարող ես մեքենա ձեռք բերել երկրորդային շուկայից, ինչպես նաև մեզ մոտ տեղափոխել այլ բանկում կամ վարկային կազմակերպությունում ունեցած երկրորդային շուկայից տրանսպորտային միջոցի ձեռքբերման նպատակով վարկերը: 
 ##### 15.9% 
@@ -43,7 +37,6 @@ SOURCE: https://ameriabank.am/personal/loans/car-loans
 ##### սկսած 15%-ից
 Կանխավճար
 [Իմանալ ավելին](https://ameriabank.am/personal/loans/car-loan/secondary-market)
-![green-car-illustration](https://ameriabank.am/Portals/0/Images/car-loan/green-car-illustration.png)
 ### Ավտովարկ` երկրորդային շուկայից նոր ավտոմեքենա ձեռք բերելու համար 
 Այսուհետ նոր (չօգտագործված) ավտոմեքենա կարող ես ընտրել ոչ միայն առաջնային, այլև մեզ հետ համագործակցող երկրորդային շուկայի ավտոսրահներից: Գտիˊր քեզ անհրաժեշտ նոր մեքենան, դիմիˊր մեզ ֆինանսավորման համար և վայելիˊր քո ուղևորությունները: 
 ##### 14.9% 
@@ -55,7 +48,6 @@ SOURCE: https://ameriabank.am/personal/loans/car-loans
 ##### սկսած 10%-ից
 Կանխավճար
 [Իմանալ ավելին](https://ameriabank.am/%D5%A1%D5%B6%D5%B0%D5%A1%D5%BF%D5%B6%D5%A5%D6%80%D5%AB%D5%B6/%D5%BE%D5%A1%D6%80%D5%AF%D5%A5%D6%80/%D5%A1%D5%BE%D5%BF%D5%B8%D5%BE%D5%A1%D6%80%D5%AF%D5%A5%D6%80/%D5%A1%D5%BE%D5%BF%D5%B8%D5%BE%D5%A1%D6%80%D5%AF%D5%A5%D6%80%D5%AF%D6%80%D5%B8%D6%80%D5%A4%D5%A1%D5%B5%D5%AB%D5%B6%D5%B7%D5%B8%D6%82%D5%AF%D5%A1%D5%B5%D5%AB%D6%81%D5%B6%D5%B8%D6%80%D5%B4%D5%A5%D6%84%D5%A5%D5%B6%D5%A1%D5%B1%D5%A5%D5%BC%D6%84%D5%A2%D5%A5%D6%80%D5%A5%D5%AC%D5%B8%D6%82%D5%B0%D5%A1%D5%B4%D5%A1%D6%80)
-![green-car-illustration](https://ameriabank.am/Portals/0/Images/car-loan/car-key-illustration.png)
 ### Օնլայն ավտովարկ երկրորդային շուկայից նոր մեքենա ձեռք բերելու համար 
 Ընտրի՛ր քո ավտոմեքենան mycar.am-ից, իմացի՛ր՝ որքան գումարի վարկ կարող ես ստանալ, լրացրու՛ վարկային հայտն և ստացի՛ր պատասխանը 5 րոպեում: 
 ##### 14.4% 
@@ -67,10 +59,8 @@ SOURCE: https://ameriabank.am/personal/loans/car-loans
 ##### սկսած 10%-ից
 Կանխավճար
 [Ստուգիր վարկունակությունդ](https://mycar.am/apply-now) [Իմանալ ավելին](https://ameriabank.am/%D5%A1%D5%B6%D5%B0%D5%A1%D5%BF%D5%B6%D5%A5%D6%80%D5%AB%D5%B6/%D5%BE%D5%A1%D6%80%D5%AF%D5%A5%D6%80/%D5%A1%D5%BE%D5%BF%D5%B8%D5%BE%D5%A1%D6%80%D5%AF%D5%A5%D6%80/%D6%85%D5%B6%D5%AC%D5%A1%D5%B5%D5%B6%D5%A1%D5%BE%D5%BF%D5%B8%D5%BE%D5%A1%D6%80%D5%AF%D5%A5%D6%80%D5%AF%D6%80%D5%B8%D6%80%D5%A4%D5%A1%D5%B5%D5%AB%D5%B6%D5%B7%D5%B8%D6%82%D5%AF%D5%A1%D5%B5%D5%AB%D6%81%D5%B6%D5%B8%D6%80%D5%B4%D5%A5%D6%84%D5%A5%D5%B6%D5%A1%D5%B1%D5%A5%D5%BC%D6%84%D5%A2%D5%A5%D6%80%D5%A5%D5%AC%D5%B8%D6%82%D5%B0%D5%A1%D5%B4%D5%A1%D6%80)
-![green-car-illustration](https://ameriabank.am/Portals/0/Images/car-loan/blue-car-illustration.png)
 ## Ինչպե՞ս օգտվել օնլայն ավտովարկից
 Ընտրի՛ր քո ավտոմեքենան և իմացիր՝ որքան գումարի վարկ կարող ես ստանալ
-![A girl with notebook applying for online car loan by mycar.am](https://ameriabank.am/Portals/0/Images/car-loan/girl-with-notebook.png)
 1
 ###### Ընտրի՛ր մեքենան
 Ընտրիր քո նոր ավտոմեքենան՝ ըստ ամսական վճարման չափի, ավտոմեքենայի մակնիշի և այլ չափանիշների:
@@ -82,15 +72,12 @@ SOURCE: https://ameriabank.am/personal/loans/car-loans
 Քո վարկը հաստատվե՞ց: Ստորագրիր անհրաժեշտ փաստաթղթերը, կատարիր կանխավճարը և վերցրու քո նոր ավտոմեքենան հենց նույն օրը:
 [Ստուգիր վարկունակությունդ](https://mycar.am/apply-now)
 ### Սպառողական վարկ
-![Scoring loan or online loan icon](https://ameriabank.am/Portals/0/Images/icons/card-loan-icon.png)
 Չնախատեսված անձնական և ընտանեկան ծախսերի դեպքում սպառողական վարկավորումը քեզ անհրաժեշտ լուծումն է: Այս վարկատեսակը քեզ հարմար է, եթե ստացած գումարը նախատեսում ես ծախսել կանխիկ տարբերակով` ամսական կատարելով ֆիքսված մարումներ: 
 [ Իմանալ ավելին ](https://ameriabank.am/personal/loans/consumer-loans/consumer-loans)
 ### Վարկի մարում
-![payment icon](https://ameriabank.am/Portals/0/Images/icons/Payment-icon.png)
 Կատարի'ր վարկերի մարումները Ամերիաբանկի օնլայն հայտի միջոցով: 
 [ Իմանալ ավելին ](https://payments.ameriabank.am/LoanRepayment/hy/Contract)
 ### Վարկունակության ստուգում
-![...](https://ameriabank.am/Portals/0/Images/icons/Car-icon.png)
 Պարզապես լրացրո´ւ մի քանի տվյալ և անմիջապես իմացի´ր, թե որքան գումարի վարկ կարող ես ստանալ: 
 [ Իմանալ ավելին ](https://mycar.am/apply-now)
 Թարմացված է առ**23.02.2026 14:53**

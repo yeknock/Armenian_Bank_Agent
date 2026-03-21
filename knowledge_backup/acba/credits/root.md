@@ -1,0 +1,32 @@
+SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/constructors/1676545229
+
+[ՌՈՒԹ ՔՈՆՍՏՐԱԿՏ](https://www.acba.am/hy/individuals/loans/mortgage/constructors/1676545229)
+ՌՈՒԹ ՔՈՆՍՏՐԱԿՏ
+![ՌՈՒԹ ՔՈՆՍՏՐԱԿՏ](https://www.acba.am/thumbs/1000x/2023-02/abQuOZfdH8bXuA4E0BwHBM2YVY.JPG)
+![](https://www.acba.am/thumbs/768x300/2023-02/abQuOZfdH8bXuA4E0BwHBM2YVY.JPG)
+Այժմ հերթը քոնն է տեղափոխվելու նոր բնակարան 
+![](https://www.acba.am/pics/arrow_down.png)![](https://www.acba.am/pics/arrow_up.png)
+[ Դիմեք օնլայն ](https://www.acba.am/hy/online-applications/Credit-applications/purchase-loans)
+[ Հաշվիչ ](https://www.acba.am/hy/calculators/Creditworthiness-calculator/mortgage-creditworthiness-calculator)
+[ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
+Պայմաններ  
+|  **Կառուցապատող**  |  **«ՌՈՒԹ ՔՈՆՍՏՐԱԿՏ» ՍՊԸ**  |  
+| --- | --- |  
+|  **Հասցե**  |  Մարզ Կոտայք, համայնք Աբովյան գյուղ Առինջ Պ. Սևակի թաղամասի 4-րդ փողոց 2/1  |  
+|  **Կոնտակտային տվյալներ**  |  
+| **Հեռախոսահամար**  | 041 221 205  |  
+| **Էլ հասցե**  | root.construct.armenia@gmail.com  |  
+| **Կայք**  | -  |  
+| **Կարգավիճակ**  | Կառուցապատման փուլում  |  
+| **Հարկերի քանակ**  | 14  |  
+| **Բնակարանների քանակ**  |  106  |  
+| **Հասանելի բնակարանների քանակ*******  | 86  |  
+| **Շահագործման ամսաթիվ**  | 01.04.2025թ.  |  
+| **Վաճառքի ենթակա բնակարանների կարգավիճակը**  | չվերանորոգված  |  
+| **Բնակարանի նվազագույն ք.մ.**  | 50 քմ  |  
+| **Բնակարանի առավելագույն ք.մ.**  | 150.0 քմ  |  
+| **Բնակարանի 1 ք.մ.-ի արժեք**  | 490.000 - 540.000 ՀՀ դրամ  |  
+| **Ավտոտնակի առկայություն**  | 29  |  
+| **Ավտոտնակի արժեք**  | 280.000 ՀՀ դրամ  |  
+| **Կոնտակտային տվյալներ Բանկից**  |  010-31-88-88 (3044)  010-31-88-88 (3011)  |  
+_  

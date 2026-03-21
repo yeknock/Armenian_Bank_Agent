@@ -1,4 +1,3 @@
-SOURCE: https://conversebank.am/hy/car/
 
 
   * [Ավտոմեքենայի ձեռքբերման ֆինանսավորում](https://conversebank.am/hy/mobil/)

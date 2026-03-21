@@ -1,4 +1,3 @@
-SOURCE: https://ameriabank.am/hipotekayin-hashvich
 
 # Հիփոթեքային հաշվիչ
 Մուտքագրիˊր հիփոթեքային վարկիդ վերաբերյալ բոլոր տվյալներն ու մի քանի րոպեում հաշվիˊր, թե որքան գումար ես վճարելու ամեն ամիս: Ի դեպ, կարող ես դիմել հիփոթեքի համար օնլայն` Myhome.am հարթակի միջոցով:
@@ -23,17 +22,13 @@ SOURCE: https://ameriabank.am/hipotekayin-hashvich
 Ընտրիˊր քո նոր բնակարանը` ըստ տարածքի, ամսական վճարման չափի   
 և այլ չափանիշների, ու ներկայացրոˊւ վարկային հայտն օնլայն: 
 [Դիմիր օնլայն](https://estate.ameriabank.am/home?signin=true)
-![Smiling girl](https://ameriabank.am/Portals/0/Images/mortgage/mortgage-loan-2.png)
 ## Այլ հաշվիչներ
 ### Վարկային հաշվիչ
-![payment icon](https://ameriabank.am/Portals/0/Images/icons/Payment-icon.png)
 Մուտքագրիˊր վարկի վերաբերյալ բոլոր տվյալներն ու մի քանի րոպեում հաշվիˊր, թե որքան գումար ես վճարելու ամեն ամիս: 
 [ Հաշվիր հիմա ](https://ameriabank.am/varkayin-hashvich)
 ### Ավանդի հաշվիչ
-![calculator icon](https://ameriabank.am/Portals/0/Images/icons/calculator.png)
 Մոտավոր պատկերացում կազմի´ր, թե որքան կկազմի ավանդիդ վճարվելիք տոկոսագումարը: 
 [ Հաշվիր հիմա ](https://ameriabank.am/avandi-hashvich)
 ### Հիփոթեկի վարկունակության հաշվիչ
-![check mark icon](https://ameriabank.am/Portals/0/Images/icons/premium.png)
 Որքան հիփոթեքային վարկ կարող ես ստանալ՝ հիմք ընդունելով քո աշխատավարձը, այլ եկամուտներն ու ֆինանսական վիճակը: 
 [ Հաշվիր հիմա ](https://myhome.am/calculators/borrowing-calculator)

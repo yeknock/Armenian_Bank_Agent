@@ -1,0 +1,33 @@
+SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/constructors/tsaghkadzor-sports-complex
+
+
+[ԾԱՂԿԱՁՈՐ ՍՊՈՐՏԱՅԻՆ ՀԱՄԱԼԻՐ](https://www.acba.am/hy/individuals/loans/mortgage/constructors/tsaghkadzor-sports-complex)
+ԾԱՂԿԱՁՈՐ ՍՊՈՐՏԱՅԻՆ ՀԱՄԱԼԻՐ
+![ԾԱՂԿԱՁՈՐ ՍՊՈՐՏԱՅԻՆ ՀԱՄԱԼԻՐ](https://www.acba.am/thumbs/1000x/2025-11/XOLqkZvB2McCKcinDX6cySvwKK.jpg)
+![](https://www.acba.am/thumbs/768x300/2025-11/XOLqkZvB2McCKcinDX6cySvwKK.jpg)
+Այժմ հերթը քոնն է տեղափոխվելու նոր բնակարան 
+![](https://www.acba.am/pics/arrow_down.png)![](https://www.acba.am/pics/arrow_up.png)
+[ Լրացնել հայտը ](https://www.acba.am/hy/online-applications/Credit-applications/purchase-loans)
+[ Հաշվիչ ](https://www.acba.am/hy/calculators/Creditworthiness-calculator/mortgage-creditworthiness-calculator)
+[ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
+Պայմաններ  
+|  **Կառուցապատող**  |  «Ծաղկաձոր սպորտային համալիր» ՍՊԸ  |  
+| --- | --- |  
+|  **Հասցե**  |  Ծաղկաձոր ք․, Գլխավոր մարզահամալիր, թաղամաս 81, մասնաշենք 3  |  
+|  **Կոնտակտային տվյալներ**  |  
+| **Հեռախոսահամար**  |  099-405-222  |  
+| **Էլ հասցե**  |  officesalesbaza@gmail.com  |  
+| **Կայք**  | <https://www.instagram.com/bazaresidence>  |  
+| **Կարգավիճակ**  | Կառուցապատման փուլում  |  
+| **Հարկերի քանակ**  |  8  |  
+| **Բնակարանների քանակ**  |  248  |  
+| **Հասանելի բնակարանների քանակ*******  |  130  |  
+| **Շահագործման ամսաթիվ**  |  2027 մարտ  |  
+| **Վաճառքի ենթակա բնակարանների կարգավիճակը**  |  ամբողջությամբ վերանորոգված  |  
+| **Բնակարանի նվազագույն ք.մ.**  |  26․5  |  
+| **Բնակարանի առավելագույն ք.մ.**  |  84․3  |  
+| **Բնակարանի 1 ք.մ.-ի արժեք**  |  500․000-710․000 ՀՀ դրամ  |  
+| **Ավտոտնակի առկայություն**  |  փակ տանիքով կայանատեղի (150-200)  |  
+| **Ավտոտնակի արժեք**  | -  |  
+| **Կոնտակտային տվյալներ Բանկից**  |  010 31 88 88 (4145)  |  
+_  

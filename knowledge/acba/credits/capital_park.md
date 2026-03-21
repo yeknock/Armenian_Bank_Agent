@@ -1,4 +1,3 @@
-SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/constructors/capital-park
 
 Պայմաններ  
 |  **Կառուցապատող**  |  **«ԳԱԶԱՎԻԿ» ՍՊԸ (ԿԱՊԻՏԱԼ ՊԱՐԿ)**  |  

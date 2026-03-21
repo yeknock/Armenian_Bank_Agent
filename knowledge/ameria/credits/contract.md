@@ -1,4 +1,3 @@
-SOURCE: https://payments.ameriabank.am/LoanRepayment/hy/Contract
 
 Այստեղ կարող եք իրականացնել հետևյալ մարումները. 
   * Ապառիկ

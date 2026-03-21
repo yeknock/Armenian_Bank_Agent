@@ -1,11 +1,7 @@
-SOURCE: https://www.acba.am/hy/individuals/save-and-invest/deposits/for-children
 
 [Ավանդ երեխաների համար](https://www.acba.am/hy/individuals/save-and-invest/deposits/for-children)
 Ավանդ երեխաների համար
-![Avand erexaneri hamar](https://www.acba.am/thumbs/1000x/2021-11/WubqnuwRDjaiBEb4SnNngHjPTZ.png)
-![](https://www.acba.am/thumbs/768x300/2021-11/WubqnuwRDjaiBEb4SnNngHjPTZ.png)
 **Ապահովեք Ձեր երեխայի անհոգ ապագան այսօր:**
-![](https://www.acba.am/pics/arrow_down.png)![](https://www.acba.am/pics/arrow_up.png)
 [ Հաշվիչ ](https://www.acba.am/hy/calculators/deposit-calculator/deposit-calculator-children)
 [ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Այցեքարտ
@@ -59,7 +55,6 @@ SOURCE: https://www.acba.am/hy/individuals/save-and-invest/deposits/for-children
   
 Ավանդ երեխաների համար ավանդատեսակի դեպքում տոկոսները հավելագրվում են ավանդի գումարին` տարեկան պարբերականությամբ:
 _  
-* ՈՒշադրություն` Ձեր հաշվում առկա միջոցների նկատմամբ տոկոսագումարները հաշվարկվում են անվանական տոկոսադրույքի հիման վրա, իսկ տարեկան տոկոսային եկամտաբերությունը ցույց է տալիս, թե որքան եկամուտ կստանաք Դուք` Ձեր կողմից ավանդի հետ կապված պարտադիր վճարներ կատարելու և սահմանված պարբերականությամբ վաստակած տոկոսագումարները ստանալու արդյունքում: Տարեկան տոկոսային եկամտաբերության հաշվարկման կարգը կարող եք գտնել հետևյալ հղմամբ`[Տարեկան տոկոսային եկամտաբերության հաշվարկման կարգ։](https://www.acba.am/uploaded/Avandner-ekamtaberutyan-hashvark.pdf)_
 Երեխաների համար գործող ավանդի տոկոսադրույքը փոփոխվում է տարին մեկ անգամ՝ տվյալ ավանդի ներդրման ամսաթվին հաջորդող յուրաքանչյուր տարվա նույն ամսաթվին (ոչ աշխատանքային օրվա հետ համընկնելու դեպքում` հաջորդաշխատանքային օրը:  
   
 
@@ -79,8 +74,6 @@ _
   
 
 Ծանոթացեք ավելի մանրամասն՝
-  * [Ժամկետային ավանդների պայմաններ](https://www.acba.am/files/avandner-tariffs.pdf)
-  * [ ](https://www.acba.am/uploaded/Avandner-ekamtaberutyan-hashvark.pdf)[Լրացուցիչ տեղեկատվություն](https://www.acba.am/uploaded/Avand-erexaneri-hamar.pdf)
   * [Ավանդների սակագների նախկին պայմաններ](https://www.acba.am/hy/1565846920)
 
 

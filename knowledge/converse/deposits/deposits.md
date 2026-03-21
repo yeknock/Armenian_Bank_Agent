@@ -1,4 +1,3 @@
-SOURCE: https://conversebank.am/hy/ddeposits
 
 # Ավանդներ
   * [Ֆիզիկական անձ հաճախորդներին տրամադրվող բանկային ծառայությունների փաթեթներ](https://conversebank.am/hy/Converse-Packages/)
@@ -36,7 +35,6 @@ SOURCE: https://conversebank.am/hy/ddeposits
 
 ### **Ժամկետային ավանդներ**
 "Կոնվերս բանկ" ՓԲԸ-ն առաջարկում է ժամկետային ավանդների տեսականի ավանդատուի համար ընտրության հարմար տարբերակներով:
-Ներդրեք **["Պրոգրես"](https://conversebank.am/hy/progress/)** , **["Կարաս"](https://conversebank.am/hy/karas/)****[ՀԾ Ինտերնետ-Բանկ](https://ebanking.conversebank.am/InternetBank/MainForm.wgx) **համակարգի և Converse Mobile հավելվածի միջոցով: Հետևեք [**ՈւՂԵՑՈՒՅՑԻ**](https://conversebank.am/u_files/file/Documents2019/Deposit_Userguide_2019.pdf) քայլերին ավանդներ ներդնելու համար:
 "Պրոգրես", "Կարաս" և ակցիաների շրջանակներում այլ տեսակների ավանդները հնարավոր է ներդնել նաև առցանց՝ առանց երրորդ անձի օգտին ավանդի ներդրման հնարավորության:
 [Ներբեռնիր հավելվածը](https://online.conversebank.am/mapp)
 **Կոնվերս Բանկի ավանդները՝**  
@@ -81,8 +79,5 @@ SOURCE: https://conversebank.am/hy/ddeposits
   * Ավանդատուն իրավունք ունի ավանդը բանկ ներդնել որոշակի երրորդ անձի անունով` ՀՀ օրենսդրությամբ սահմանված կարգով:
 
 
-[**![](https://conversebank.am/u_files/image/Logos/logo.png)Ծանուցում ավանդների հատուցման երաշխավորման պայմանների և կարգի մասին**](https://conversebank.am/u_files/file/2025/%D4%BE%D5%A1%D5%B6%D5%B8%D6%82%D6%81%D5%B8%D6%82%D5%B4\(1\)%20\(1\).pdf)  
-[**![](https://conversebank.am/u_files/image/Logos/logo_financial.jpg)Ծանուցում ֆինանսական հաշտարարի վերաբերյալ**](https://conversebank.am/u_files/file/Customer%20Rights/FSM-Hashtarar.pdf)
-**["Կոնվերս Բանկ" ՓԲԸ հիմնական պայմաններ](https://conversebank.am/u_files/file/Ampopagir%202024/Terms_arm.pdf)**
 [**Ֆինանսներ բոլորի համար**](https://www.fininfo.am/finhelper/index.php)
 Թարմացվել է 01.04.2025թ. 08:00

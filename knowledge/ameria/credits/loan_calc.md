@@ -1,4 +1,3 @@
-SOURCE: https://ameriabank.am/varkayin-hashvich
 
 # Վարկային հաշվիչ
 Մուտքագրիˊր վարկի վերաբերյալ բոլոր տվյալներն ու մի քանի րոպեում հաշվիˊր, թե որքան գումար ես վճարելու ամեն ամիս: Ի դեպ, կարող ես դիմել վարկի համար օնլայն` առանց բանկ գալու:
@@ -20,14 +19,11 @@ SOURCE: https://ameriabank.am/varkayin-hashvich
 [Դիմել օնլայն](https://customer.ameriabank.am/signin)
 ## Այլ հաշվիչներ
 ### Հիփոթեքային հաշվիչ
-![calculator icon](https://ameriabank.am/Portals/0/Images/icons/calculator.png)
 Մոտավոր պատկերացում կազմի´ր, թե որքան կկազմի հիփոթեքային վարկի ամսական վճարը: 
 [ Հաշվիր հիմա ](https://ameriabank.am/hipotekayin-hashvich)
 ### Աշխատավարձի հաշվիչ
-![check mark icon](https://ameriabank.am/Portals/0/Images/icons/premium.png)
 Իմացի′ր` որքան մաքուր աշխատավարձ կստանաս բոլոր պահումներից հետո կամ մուտքագրի′ր մաքուր աշխատավարձդ և իմացի′ր գրանցված աշխատավարձիդ, եկամտահարկիդ և այլ պահումների չափը: 
 [ Հաշվիր հիմա ](https://ameriabank.am/ashxatavardzi-hashvich)
 ### Ավանդի հաշվիչ
-![payment icon](https://ameriabank.am/Portals/0/Images/icons/Payment-icon.png)
 Հաշվիր, թե որքան եկամտաբերություն կապահովի քո կողմից սահամանված պայմաններով Ամերիա ավանդը: 
 [ Հաշվիր հիմա ](https://ameriabank.am/avandi-hashvich)

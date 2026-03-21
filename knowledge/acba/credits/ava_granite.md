@@ -1,4 +1,3 @@
-SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/constructors/ava-granite
 
 Պայմաններ  
 |  **Կառուցապատող**  |  **«ԱՎԱ ԳՐԱՆԻՏ» ՍՊԸ**  |  

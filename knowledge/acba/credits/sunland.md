@@ -1,13 +1,9 @@
-SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/constructors/SunLand-Bagrevand
 
 
 [SUNLAND BAGREVAND](https://www.acba.am/hy/individuals/loans/mortgage/constructors/SunLand-Bagrevand)
 SUNLAND BAGREVAND
-![SUNLAND BAGREVAND](https://www.acba.am/thumbs/1000x/2024-04/QBLiSSdwn2zdkM6rL0V3kqtjjb.JPG)
-![](https://www.acba.am/thumbs/768x300/2024-04/QBLiSSdwn2zdkM6rL0V3kqtjjb.JPG)
 Այժմ հերթը քոնն է տեղափոխվելու նոր բնակարան  
 
-![](https://www.acba.am/pics/arrow_down.png)![](https://www.acba.am/pics/arrow_up.png)
 [ Դիմեք օնլայն ](https://www.acba.am/hy/online-applications/Credit-applications/purchase-loans)
 [ Հաշվիչ ](https://www.acba.am/hy/calculators/Creditworthiness-calculator/mortgage-creditworthiness-calculator)
 [ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)

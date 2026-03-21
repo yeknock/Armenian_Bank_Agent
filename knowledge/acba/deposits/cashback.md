@@ -1,12 +1,8 @@
-SOURCE: https://www.acba.am/hy/individuals/save-and-invest/saving-programs/cashback-service
 
 
 [Cashback ծառայություն](https://www.acba.am/hy/individuals/save-and-invest/saving-programs/cashback-service)
 Cashback ծառայություն
-![Cashback ծառայություն](https://www.acba.am/thumbs/1000x/2023-02/AUcHucx9BgUEhaZsLglNxFGf2Q.jpg)
-![](https://www.acba.am/thumbs/768x300/2023-02/AUcHucx9BgUEhaZsLglNxFGf2Q.jpg)
 Հնարավորինս հաճախ կատարե՛ք վճարումներ American Express® CashBack Քարտով և օգտվե՛ք Cashback ծառայությունից: 
-![](https://www.acba.am/pics/arrow_down.png)![](https://www.acba.am/pics/arrow_up.png)
 [ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Որպես American Express® CashBack Քարտի Քարտատեր Դուք հնարավորություն ունեք ստանալու
   * 1%CASHBACK Հայաստանում կատարված բոլոր վճարային գործառնությունների* դիմաց

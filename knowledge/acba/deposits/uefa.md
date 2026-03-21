@@ -1,11 +1,7 @@
-SOURCE: https://www.acba.am/hy/individuals/save-and-invest/saving-programs/uefa-reward
 
 [UEFA միավորների կուտակում](https://www.acba.am/hy/individuals/save-and-invest/saving-programs/uefa-reward)
 UEFA միավորների կուտակում
-![UEFA միավորների կուտակում](https://www.acba.am/thumbs/1000x/2023-02/MJJPo4qAkNxD63jOXNNFxoDAbK.jpg)
-![](https://www.acba.am/thumbs/768x300/2023-02/MJJPo4qAkNxD63jOXNNFxoDAbK.jpg)
 Օգտագործե´ք Ձեր MasterCard UEFA Champions League Քարտը և կատարված գործառնությունների դիմաց ստացեք UEFA-ի ապրանքանիշը կրող պարգևատրում` ընտրելով այն www.uefa.com կայքի օնլայն խանութից` առանց որևէ լրացուցիչ ծախսերի: 
-![](https://www.acba.am/pics/arrow_down.png)![](https://www.acba.am/pics/arrow_up.png)
 [ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Միավորների կուտակում
 Պատվիրեք պարգևատրում
@@ -19,4 +15,3 @@ UEFA միավորների կուտակում
 
 
   
-MasterCard UEFA Champions League Քարտի պարգևատրումների ծրագրից օգտվելու պայմաններին կարող եք ծանոթանալ [այստեղ](https://www.acba.am/uploaded/UEFA-reward-terms.pdf):

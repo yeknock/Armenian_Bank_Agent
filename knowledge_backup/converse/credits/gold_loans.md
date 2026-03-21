@@ -1,0 +1,19 @@
+SOURCE: https://conversebank.am/hy/gold-loans/
+
+# Վարկեր ոսկով
+  * [Հիփոթեքային վարկեր](https://conversebank.am/hy/house/)
+  * [ՎԱՐԿԱՅԻՆ ՊԱՏՄՈՒԹՅԱՆ ԵՎ ՍՔՈՐ ԳՆԱՀԱՏԱԿԱՆԻ ՎԵՐԱԲԵՐՅԱԼ ՏԵՂԵԿԱՏՎՈՒԹՅՈՒՆ](https://conversebank.am/hy/Converse-Score/)
+  * [Ավտովարկեր](https://conversebank.am/hy/car/)
+  * [Ուսանողական վարկեր](https://conversebank.am/hy/students/)
+  * [Վարկեր ոսկով](https://conversebank.am/hy/gold-loans/)
+  * [Գյուղատնտեսական վարկեր](https://conversebank.am/hy/agriculturalloans/)
+  * [Անհատական այլ վարկեր](https://conversebank.am/hy/customer-loans/)
+  * [Որոշումների կայացման ավտոմատացված համակարգի միջոցով տրամադրվող սպառողական վարկ SNAP](https://conversebank.am/hy/consumer-loan/)
+
+
+  * [Ոսկու գրավով վարկեր](https://conversebank.am/hy/gold-backedloans/)
+
+
+Դուք կարող եք ձեռք բերել վարկեր՝ գրավ դնելով Ձեր ոսկին: 
+**Ուշադրություն՝**  
+Բոլոր այն վարկերի համար, որոնք համապատասխանում են "Սպառողական կրեդիտավորման մասին" ՀՀ օրենքի պահանջներին, վարկային հայտի վերաբերյալ դրական որոշում կայացնելուց հետո և նախքան վարկային պայմանագրի կնքումը, Բանկը Ձեզ տրամադրում է Անհատական թերթիկ՝ վարկի պայմանների և Ձեր կողմից տրամադրած փաստաթղթերի հիման վրա:

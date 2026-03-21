@@ -1,4 +1,10 @@
+from openai import OpenAI
+from dotenv import load_dotenv
+from pathlib import Path
 import os
+
+load_dotenv()
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 dirs = [
     "acba/branches", "acba/credits", "acba/deposits",
@@ -7,11 +13,12 @@ dirs = [
     ]
 
 for dir in dirs:
-    directory = os.fsencode("knowledge/" + dir)
-    for file in os.listdir(directory):
-        filename = os.fsdecode(file)
-        if filename.endswith(".md"):
-            print(f"{directory}/{os.path.basename(filename)}")
-            continue
-        else:
-            continue
+    directory = Path("knowledge/" + dir)
+    for filepath in directory.glob('*.md'):
+        with open(filepath, "r", encoding="utf-8") as f:
+            response = client.embeddings.create(
+                input = f.read(),
+                model = "text-embedding-3-small"
+            )
+
+            print(response.data[0].embedding)

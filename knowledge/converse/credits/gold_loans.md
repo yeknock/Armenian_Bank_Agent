@@ -1,4 +1,3 @@
-SOURCE: https://conversebank.am/hy/gold-loans/
 
 # Վարկեր ոսկով
   * [Հիփոթեքային վարկեր](https://conversebank.am/hy/house/)

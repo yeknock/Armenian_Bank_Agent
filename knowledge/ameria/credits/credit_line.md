@@ -1,17 +1,12 @@
-SOURCE: https://ameriabank.am/personal/loans/consumer-loans/credit-line
 
 # Վարկային գիծ
 Քո հարմարավետության համար ստեղծված ևս մեկ ուղի 
 [Դիմիր օնլայն](https://customer.ameriabank.am/signin)
-![Girl smiling and holding Ameriabank card with credit line](https://ameriabank.am/Portals/0/Images/Cards/card-loan-overdraft-2.png)
 ## Քանի միլիոն էլ ուզես, 15-17%-ով
 Ստացիր վարկային գիծ առանց գրավի մինչև ապրիլի 15-ը, գնիր նվերներ, մեկնիր ճամփորդության, կատարիր մեծ գնումներ, կարճ ասած` ինչ ուզես, մինչև 15 մլն դրամով
 [ Իմանալ ավելին ](https://ameriabank.am/campagins/consumer-loans-womens-month)
-![iphone](https://ameriabank.am/Portals/0/Images/campaigns/march-8/MARCH8_374X270.png)
-![...](https://ameriabank.am/Portals/0/Images/icons/loan-limit-icon.png)
 ###### 100,000 -15 մլն ՀՀ դրամ 1
 Վարկի գումար
-![...](https://ameriabank.am/Portals/0/Images/icons/overdraft-time-icon.png)
 ###### Անժամկետ ցպահանջ*
 Մինչև Բանկի կողմից վարկի հետկանչումը, որն իրականացվում է պայմանագրով սահմանված կարգով և պայմաններով Բանկի կողմից պարբերաբար իրականացվող մոնիթորինգի արդյունքերի հիման վրա:
 1Սքորինգ համակարգով տրամադրվող վարկերի դեպքում վարկային սահմանաչափ՝ 100,000 -15 մլն ՀՀ դրամ
@@ -23,26 +18,19 @@ SOURCE: https://ameriabank.am/personal/loans/consumer-loans/credit-line
 Չնախատեսված ծախսերի, չպլանավորած գնումների դեպքում հասանելի միջոցներ ունենալու հարմարավետ տարբերակ է վարկային գիծը: Դա Բանկի կողմից քեզ տրամադրվող վարկային միջոցներ են, որոնք հասանելի են կրեդիտային քարտով: Վարկային գիծը հարմար լուծում է անկանխիկ գնումների համար, որը ձևակերպելով՝ դու կստանաս.   
 
 #### ԱՌԱՎԵԼՈՒԹՅՈՒՆՆԵՐ
-* * *
 ## Առավելություններ
-![time icon](https://ameriabank.am/Portals/0/Images/icons/overdraft-time-icon.png)
 ###### Հայտի պատասխան 1 րոպեում
 Օնլայն վարկային հայտ ներկայացնելու դեպքում հայտի պատասխանը կստանաս անմիջապես՝ մինչև 1 րոպեի ընթացքում: 
-![online loan icon](https://ameriabank.am/Portals/0/Images/icons/overdraft-online-icon.png)
 ###### Վարկի տրամադրում՝ առանց Բանկ այցելելու
 Եթե ունես Ամերիաբանկի ակտիվ քարտ, կարող ես վարկը ստանալ Ամերիաբանկի հաշվին՝ առանց Բանկ այցելելու1
 1 Բանկի պայմաններին և սահմանված կարգին բավարարելու դեպքում:
-![security icon](https://ameriabank.am/Portals/0/Icons/Redesign/security.png)
 ###### Ապահով և անվտանգ
 Մեր քարտերով առցանց գործարքների անվտանգությունն ապահովվում է «3D Secure» տեխնոլոգիայով, և մենք միշտ քո կողքին ենք` միջոցներիդ և տվյալներիդ պատշաճ անվտանգություն երաշխավորելու հարցում: Քարտերի վերաբերյալ ցանկացած հարցի դեպքում դիմի՛ր Բանկ՝ 24/7 ռեժիմով: 
-![pin code icon](https://ameriabank.am/Portals/0/Icons/Redesign/pin.png)
 ###### PIN կոդի ինքնուրույն սահմանում
 Հեշտությամբ մտապահելու համար ինքնուրույն սահմանի՛ր վճարային քարտիդ PIN կոդը բանկոմատի միջոցով: Հավելյալ անվտանգության ապահովման համար կարող ես նաև փոխել այն, եթե այն հասանելի է դարձել երրորդ անձանց կամ նման կասկած ունես:
-![applying online icon](https://ameriabank.am/Portals/0/Images/icons/online-loan-icon.png)
 ###### Հաշվի կառավարում՝ առանց Բանկ այցելելու
 Կարող ես կառավարել հաշիվներդ Օնլայն/Մոբայլ բանկինգի, ինչպես նաև հեռախոսային բանկինգի միջոցով. կատարի՛ր փոխանցումներ, վճարումներ, մարի՛ր վարկերդ, ստուգի՛ր հաշիվդ և շատ ավելին:
 [Իմանալ ավելին](https://ameriabank.am/personal/accounts/accounts-management/myameria)
-![ussd service icon](https://ameriabank.am/Portals/0/Icons/Redesign/ussd.png)
 ###### USSD ծառայություն 
 Օրվա ցանկացած ժամի, ցանկացած վայրում բլոկավորել քարտը, ստանալ տեղեկություններ հաշվի մնացորդի, հասանելի ծառայությունների, վերջին գործարքների վերաբերյալ կարելի է նաև USSD-հրահանգների միջոցով:
 [Իմանալ ավելին](https://ameriabank.am/personal/cards/cards-management/ussd)
@@ -198,11 +186,8 @@ Master Card Platinum Digital,VISA Signature Digital 5**  |  **VISA Infinite 5** 
 |  Սույն փաստաթղթով չսահմանված վարկի ցանկացած այլ պայմանի վերանայում/փոփոխություն  |  Վարկի մնացորդի 0,1%-ի չափով` նվազագույնը 10,000 ՀՀ դրամ  |  
 |  Վարկի մարման օրվա փոփոխություն  |  10,000 ՀՀ դրամ  |  
 **Վարկային գիծ առանց ապահովության**
-  * [Ֆիզիկական անձանց վարկավորման պայմաններ /Վարկային քարտեր](https://ameriabank.am/Portals/0/files/Personal/Loans/unsecured_credit_line_arm.pdf)
-  * [Առանց ապահովության վարկային գծի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/Credit_line_unsecured.pdf)
 
 
-  * [Պայմաններ և կանոններ](https://ameriabank.am/Portals/0/files/Personal/web-info.pdf)
   * [«Ֆինանսներ բոլորի համար» abcfinance.am ինտերնետային կայք](http://www.abcfinance.am/)
   * [Վարկ վերցնելիս եղիր տեղեկացված](https://ameriabank.am/personal/loans/more/support/information)
   * [Ձեր Ֆինանսական տեղեկատուն՝ ](http://www.fininfo.am/) [www.fininfo.am](http://www.fininfo.am)  
@@ -213,13 +198,8 @@ Master Card Platinum Digital,VISA Signature Digital 5**  |  **VISA Infinite 5** 
 
 
 
-  * [Առանց ապահովության վարկային գծի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-leaflets/Credit_line_unsecured_14.07.2025.pdf) (ուժի մեջ է14.07.25-ից մինչև 22.02.26)
-  * [Առանց ապահովության վարկային գծի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-leaflets/Credit_line_unsecured_20.01.2025_arm.pdf) (ուժի մեջ է 20.01.25-ից մինչև 13.07.25)
-  * [Առանց ապահովության վարկային գծի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-leaflets/Credit_line_24.10.2024_unsecured.pdf) (ուժի մեջ է 24.10.24-ից մինչև 19.01.25)
 
 
   
 
-  * [Ֆիզիկական անձանց վարկավորման պայմաններ առանց ապահովության /Վարկային քարտեր](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/unsecured_credit_line_ed67_arm.pdf) (ուժի մեջ է14.07.25-ից մինչև 22.02.26)
-  * [Ֆիզիկական անձանց վարկավորման պայմաններ առանց ապահովության /Վարկային քարտեր](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/unsecured_credit_line_ed66_arm.pdf) (ուժի մեջ է 24.10.24-ից մինչև 19.01.25)
 

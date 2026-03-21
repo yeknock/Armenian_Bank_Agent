@@ -1,4 +1,3 @@
-SOURCE: https://conversebank.am/hy/Converse-Score/
 
 # ՎԱՐԿԱՅԻՆ ՊԱՏՄՈՒԹՅԱՆ ԵՎ ՍՔՈՐ ԳՆԱՀԱՏԱԿԱՆԻ ՎԵՐԱԲԵՐՅԱԼ ՏԵՂԵԿԱՏՎՈՒԹՅՈՒՆ
   * [Հիփոթեքային վարկեր](https://conversebank.am/hy/house/)
@@ -75,4 +74,3 @@ SOURCE: https://conversebank.am/hy/Converse-Score/
 Մանրամասները՝ [abcfinance.am](https://www.abcfinance.am/lifesituations/credit-history.html) և [acra.am](https://acra.am/%d5%af%d5%a1%d5%ba-%d6%87-%d5%a1%d5%bb%d5%a1%d5%af%d6%81%d5%b8%d6%82%d5%a9%d5%b5%d5%b8%d6%82%d5%b6/%d5%b0-%d5%bf-%d5%b0/?lang=hy) հղումներում։
 
 
-[**Համաձայնության լրացման փաստաթուղթ**](https://conversebank.am/u_files/file/2025/%D5%8E%D4%B1%D5%90%D4%BF%D4%B1%D5%8C%D5%88%D5%92%20%D5%80%D4%B1%D5%83%D4%B1%D4%BD%D5%88%D5%90%D4%B4%D5%86%D4%B5%D5%90%D4%BB%20%D5%8E%D4%B5%D5%90%D4%B1%D4%B2%D4%B5%D5%90%D5%85%D4%B1%D4%BC%20%D5%80%D4%B1%D5%90%D5%91%D5%88%D5%92%D5%84%20%D4%BF%D4%B1%D5%8F%D4%B1%D5%90%D4%B5%D4%BC%D5%88%D5%92%20%D5%80%D4%B1%D5%84%D4%B1%D5%81%D4%B1%D5%85%D5%86%D4%B1%D4%B3%D4%BB%D5%90.pdf)  

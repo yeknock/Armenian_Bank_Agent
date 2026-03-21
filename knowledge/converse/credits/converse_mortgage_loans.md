@@ -1,4 +1,3 @@
-SOURCE: https://conversebank.am/hy/Converse-Mortgage-loans/
 
 
 # ՀՀ ՊՆ համակարգի սպայական և ավագ ենթասպայական կազմերի զինծառայողներին տրամադրվող հիփոթեքային վարկեր 
@@ -98,7 +97,6 @@ SOURCE: https://conversebank.am/hy/Converse-Mortgage-loans/
 |  **Ընդհանուր տոկոսագումար**  |  3,322,460  |  
 |  **Մարումների հանրագումար**  |  13,322,460  |  
 **Վարկի տոկոսագումարը հաշվարկվում է անվանական տոկոսադրույքի հիման վրա, որը կիրառվում է նվազող մնացորդի նկատմամբ, իսկ տարեկան փաստացի տոկոսադրույքը ցույց է տալիս, թե որքան կարժենա վարկը Ձեզ համար տոկոսագումարները և վարկի տրամադրման ու սպասարկման գծով բոլոր պարտադիր վճարները սահմանված ժամկետներում և չափերով կատարելու դեպքում:  
-Տարեկան փաստացի տոկոսադրույքի հաշվարկման կարգը կարող եք գտնել հետևյալ [հասցեում](https://www.conversebank.am/u_files/file/Ampopagrer%202019/Effective%20Aug%20calculation%20\(2\).pdf):**  
 
 **Գրավի գնահատում**
 Գրավադրվող գույքը ենթակա է գնահատման Բանկի հետ համագործակցող գույքի գնահատում իրականացնող ընկերություններից որևէ մեկի կողմից: Գնահատող ընկերության ընտրությունը կատարվում է հաճախորդի կողմից: Գույքի շուկայական/իրացվելի արժեքի գնահատման հաշվետվությունը վավեր է տրման օրվանից 2 ամսվա ընթացքում: Անհրաժեշտության դեպքում (օրինակ՝ շուկայում գների փոփոխություն) կարող է պահանջվել լրացուցիչ գնահատում:  
@@ -243,9 +241,4 @@ SOURCE: https://conversebank.am/hy/Converse-Mortgage-loans/
 WhatsApp՝ +374 95 511211,  
 Skype՝ conversebank-callcenter  
 
-[**Տեղեկատվական ամփոփագիր**](https://conversebank.am/u_files/file/2024%20Mob/Military%20personnel%20mortgage%20Dec%202024.pdf)
-[**Պայմանները մինչ 02․12․2024**](https://conversebank.am/u_files/file/Ampopagir%202024/Military%20personnel%20mortgage%20Jul%202024.pdf)
-[**Պայմանները մինչ 14․07․2024**](https://conversebank.am/u_files/file/2024/mob/Military%20personnel%20mortgage%20Apr%202024.pdf) [**  
   
-**](https://conversebank.am/u_files/file/2024/mob/Military%20personnel%20mortgage%20Apr%202024.pdf)[**Պայմանները մինչ 30․04․2024**](https://conversebank.am/u_files/file/2024/Military%20personnel%20mortgage%20Jan%202024.pdf)
-[**Պայմանները մինչ 14․01․2024**](https://conversebank.am/u_files/file/2024/mob/Military%20personnel%20mortgage%20Oct%202023.pdf) **Թարմացվել է 02․12․2024**

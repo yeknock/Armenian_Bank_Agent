@@ -1,9 +1,6 @@
-SOURCE: https://www.acba.am/hy/individuals/save-and-invest/saving-programs/membership-rewards
 
 [Membership Rewards ծրագիր](https://www.acba.am/hy/individuals/save-and-invest/saving-programs/membership-rewards)
 Membership Rewards ծրագիր
-![Membership Rewards ծրագիր](https://www.acba.am/thumbs/1000x/2023-02/ZQRU6cot1D3fTyvxD1V1Tj28mf.jpg)
-![](https://www.acba.am/thumbs/768x300/2023-02/ZQRU6cot1D3fTyvxD1V1Tj28mf.jpg)
 [ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Ինչպե՞ս անդամակցել Membership Rewards Ծրագրին
 Ինչպե՞ս կուտակել միավորներ

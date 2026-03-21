@@ -1,4 +1,3 @@
-SOURCE: https://ameriabank.am/campaigns/mortgage-loan-for-diaspora
 
 ## Հայրենիքում տուն գնելը երբեք այսքան հեշտ չի եղել։ 
 Անկախ բնակության երկրից` Սփյուռքի մեր հայրենակիցները կարող են դիմել Ամերիաբանկ հիփոթեքային վարկավորման համար և գնել, վերանորոգել կամ կառուցապատել տուն Հայաստանի ցանկացած անկյունում։   
@@ -6,9 +5,7 @@ SOURCE: https://ameriabank.am/campaigns/mortgage-loan-for-diaspora
   
   
 
-* * *
 Հայտը լրացնելուց հետո մեր մասնագետը կապ կհաստատի՝ վարկավորման պայմանները քննարկելու համար։ Հիփոթեքային վարկերի [**ամբողջական պայմանները՝**](https://ameriabank.am/personal/loans/mortgage-loans)
-![Bali Indonesia](https://ameriabank.am/Portals/0/Images/campaigns/mortgage-for-spyur/yerevan.png)
 ## Պայմաններ
 1
 ###### Վարկի ժամկետ
@@ -28,13 +25,10 @@ SOURCE: https://ameriabank.am/campaigns/mortgage-loan-for-diaspora
 • ԱՄՆ դոլար -10 -10.5%   
 • Եվրո - 8 - 8.5% 
 ## Վարկի փաստացի տոկոսադրույք՝ 
-* * *
 [Դիմել մասնաճյուղ](https://ameriabank.am/service-network)
-![...](https://ameriabank.am/Portals/0/Images/mortgage/mortgage-category.png)
 ## Լրացրու հայտը
 Հայտը լրացնելուց հետո մեր մասնագետը կապ կհաստատի քեզ հետ:
   
 
-![...](https://ameriabank.am/Portals/0/Images/campaigns/mortgage-for-spyur/opera-bird-view.png)
 ***Արտարժույթով չեն կարող տրամադրել, եթե հաճախորդի համավարկառուն Հայաստանի Հանրապետության ռեզիդենտ է**
 **** Տոկոսադրույքը ճշգրտվող է, այն կարող է փոփոխվել սկսած 37-րդ ամսվանից, կարող է փոփոխվել տարեկան ոչ ավելի, քան երկու անգամ: Ընդ որում, այն առավելագույն շեմերը, որոնցից ավելի կրեդիտի անվանական տոկոսադրույքը չի կարող բարձրանալ կամ իջնել, կախված Ճշգրտվող անվանական տոկոսադրույքի փոփոխությունից, սահմանվում է ± 5%:**

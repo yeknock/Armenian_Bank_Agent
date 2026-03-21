@@ -1,4 +1,3 @@
-SOURCE: https://www.acba.am/hy/individuals/loans/installment-loan
 
 
 Ապառիկ տեղում
@@ -14,18 +13,15 @@ SOURCE: https://www.acba.am/hy/individuals/loans/installment-loan
 Ապահովման միջոց
 [Մանրամասն »](https://www.acba.am/#prodFeatureInvisibleContent_4375)
 Ապահովման միջոց
-![](https://www.acba.am/pics/white_close_btn.png)
 Ձեռքբերվող ապրանք 
 Առավելագույն ժամկետ
 [Մանրամասն »](https://www.acba.am/#prodFeatureInvisibleContent_4379)
 Առավելագույն ժամկետ
-![](https://www.acba.am/pics/white_close_btn.png)
 արևային ջրատաքացուցիչներ/վահանակներ – 96 ամիս  
 այլ ապրանքներ/ծառայություններ – 60 ամիս 
 Առավելագույն գումար
 [Մանրամասն »](https://www.acba.am/#prodFeatureInvisibleContent_3142)
 Առավելագույն գումար
-![](https://www.acba.am/pics/white_close_btn.png)
 •արևային ջրատաքացուցիչներ/վահանակներ – 5 000 000 ՀՀ դրամ  
 •այլ ապրանքներ/ծառայություններ – 3 500 000 ՀՀ դրամ 
 Հատուկ առաջարկ
@@ -48,7 +44,6 @@ SOURCE: https://www.acba.am/hy/individuals/loans/installment-loan
 
 
   
-Նշված պայմաններով համագործակցող կազմակերպությունների ցանկին կարող եք ծանոթանալ՝ անցնելով [հղմամբ։ ](https://www.acba.am/files/Cooperating-companies-list.pdf)
   * Վարկի տրամադրում առանց միջնորդավճարի և ամսական սպասարկման վճարի։
 
 
@@ -68,7 +63,6 @@ SOURCE: https://www.acba.am/hy/individuals/loans/installment-loan
 **Վարկի միջնորդավճար –** առկա չէ
 **Տոկոսագումարի****հաշվարկ** – օրական` վարկի նվազող մնացորդի նկատմամբ
 **Տեղեկացեք մանրամասն.**
-**Հնարավոր լրացուցիչ վճարումների չափի մասին՝[Վարկային սակագներ](https://www.acba.am/files/loans-tariffs.pdf):**
 **[Վարկային սակագների նախկին պայմաններ](https://www.acba.am/hy/1565846920)  
   
 **
@@ -97,11 +91,9 @@ SOURCE: https://www.acba.am/hy/individuals/loans/installment-loan
   
 *մարման չափը կարող է տարբերվել` կախված տվյալ ամսվա օրերի քանակից
   
-ՈՒՇԱԴՐՈՒԹՅՈՒՆ՝ ՎԱՐԿԻ ՏՈԿՈՍԱԳՈՒՄԱՐՆԵՐԸ ՀԱՇՎԱՐԿՎՈՒՄ ԵՆ ԱՆՎԱՆԱԿԱՆ ՏՈԿՈՍԱԴՐՈՒՅՔԻ ՀԻՄԱՆ ՎՐԱ, ԻՍԿ ՏԱՐԵԿԱՆ ՓԱՍՏԱՑԻ ՏՈԿՈՍԱԴՐՈՒՅՔԸ ՑՈՒՅՑ Է ՏԱԼԻՍ, ԹԵ ՈՐՔԱՆ ԿԱՐԺԵՆԱ ՎԱՐԿԸ ՁԵԶ ՀԱՄԱՐ ՏՈԿՈՍԱԳՈՒՄԱՐՆԵՐԸ ԵՎ ՎԱՐԿԻ ՏՐԱՄԱԴՐՄԱՆ և ՍՊԱՍԱՐԿՄԱՆ ԳԾՈՎ ԲՈԼՈՐ ՊԱՐՏԱԴԻՐ ՎՃԱՐՆԵՐԸ ՍԱՀՄԱՆՎԱԾ ԺԱՄԿԵՏՆԵՐՈՒՄ ԵՎ ՉԱՓԵՐՈՎ ԿԱՏԱՐԵԼՈՒ ԴԵՊՔՈՒՄ: ՓԱՍՏԱՑԻ ՏՈԿՈՍԱԴՐՈՒՅՔԻ ՀԱՇՎԱՐԿԸ ԿԱՐՈՂ ԵՔ ԳՏՆԵԼ [ԱՅՍՏԵՂ](https://www.acba.am/uploaded/tarekan-pastaci-hashvark.pdf)
   
 **Տեղեկացեք****մանրամասն****.**
 [Ապառիկ տեղումի հաշվիչ](https://www.acba.am/hy/calculators/loan-calculator/Installment-now-calculator%20)
-Վարկառուի կողմից իր պարտավորությունները ժամանակին չկատարելու դեպքում յուրաքանչյուր ժամկետանց օրվա համար հաշվարկվում է տուժանք 0.13%-ի չափով ([կիրառվող տույժեր](http://www.acba.am/uploaded/tuyjer.pdf))
 Վարկի մարումներն իրականացվում են հետևյալ հերթականությամբ (ժամկետանց պարտավորությունները կատարելու դեպքում)`
   * Տույժ/տուգանք
   * Տոկոսագումար

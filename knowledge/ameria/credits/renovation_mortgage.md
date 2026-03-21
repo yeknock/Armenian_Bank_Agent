@@ -1,23 +1,17 @@
-SOURCE: https://ameriabank.am/personal/loans/mortgage/renovation-mortgage
 
 
 # Վերանորոգման վարկ 
 Ավելի գեղեցիկ և հարմարավետ տուն քո ընտանիքի համար 
 [Վերանորոգման հաշվիչ](https://myhome.am/calculators/renovation-calculator%0A)
-![A boy and girl with renovation and constraction settings ](https://ameriabank.am/Portals/0/Images/internal-pages/Commercial-mortgage.png)
-![...](https://ameriabank.am/Portals/0/Images/icons/loan-limit-icon.png)
 ###### 3 - 150 մլն ՀՀ դրամ 
 Վարկի գումար
-![...](https://ameriabank.am/Portals/0/Images/icons/overdraft-time-icon.png)
 ###### 60 - 240 ամիս 
 Մարման ժամկետ
-![...](https://ameriabank.am/Portals/0/Images/icons/percentage-icon.png)
 ###### 13.82-15.06% 
 Փաստացի տոկոսադրույք
 ## **Վերանորոգման վարկ**
 Քո անշարժ գույքը վերանորոգման կարիք ունի, և մենք մշակել ենք լուծում քեզ այդ գործում օգնելու համար: Օգտվելով վերանորոգման վարկերից՝ կարող ես իրականացնել ինչպես բնակելի, այնպես էլ առևտրային նշանակության անշարժ գույքի վերանորոգումը՝ բնակության, վարձակալության տրամադրելու, ներդրում կատարելու կամ առևտրային գործունեություն ծավալելու նպատակով: Դու նաևկարող ես տեղափոխել մեկ այլ բանկում գործող վերանորոգման վարկը մեզ մոտ:
 #### ԱՌԱՎԵԼՈՒԹՅՈՒՆՆԵՐ
-* * *
 ##  [Պայմաններ և սակագներ](https://ameriabank.am/personal/loans/mortgage/renovation-mortgage#)
   * [ Պահանջվող փաստաթղթեր ](https://ameriabank.am/personal/loans/mortgage/renovation-mortgage#Tab1_10252)
   * [ Բնակելի նշանակության անշարժ գույքի վերանորոգման վարկ ](https://ameriabank.am/personal/loans/mortgage/renovation-mortgage#Tab2_10252)
@@ -110,7 +104,6 @@ SOURCE: https://ameriabank.am/personal/loans/mortgage/renovation-mortgage
 |  5.5. Լրացուցիչ ապահովում  |  5.5.1. Որպես լրացուցիչ ապահովում Բանկը կարող է պահանջել նաև ֆիզիկական և/կամ իրավաբանական անձանց երաշխավորություն  |  
 |  6. Գրավադրվող գույքի ապահովագրություն  |  6.1. Գրավադրվող գույքի ապահովագրություն  |  6.1.1.Գրավադրվող անշարժ գույքը Բանկի կողմից ապահովագրվում է հետևյալ դեպքերում.  |  
 |  6.1.1.1.եթե անշարժ գույքի սեփականության իրավունքի գրանցման և /կամ վերագնահատման պահին դրա շուկայական արժեքը գերազանցում է 100 /մեկ հարյուր/ մլն ՀՀ դրամը,  |  
-|  _[6.1.1.2. գրավադրվող անշարժ գույքի հասցեն ներառված է Բանկի ինտերնետային կայքում հրապարակված գույքերի ցանկում։](https://ameriabank.am/Portals/0/files/Other/insured-properties.pdf)_  |  
 |  6.1.2. Բանկի կողմից ապահովագրությունն իրականացվում է յուրաքանչյուր տարի` վերոնշյալ պայմաններից որևէ մեկի առկայության դեպքում`վարկի մնացորդի չափով և վարկի ամբողջ ժամկետի ընթացքում (այս դեպքում նախատեսված տոկոսադրույքի հաշվարկում ներառվում են բոլոր հնարավոր, այդ թվում՝ սահմանված դեպքերում նախատեսվող ապահովագրությունից բխող հնարավոր ծախսերը)։  |  
 |  7. Վարկի պայմանների կատարման ժամկետ  |  7.1. Վարկի պայմանների կատարման ժամկետ  |  7.1.1. Վարկի վերջին փուլը տրամադրելուց հետո 6 ամիս, եթե այլ պայման նախատեսված չէ վարկը հաստատող իրավասու մարմնի կողմից  |  
 |  8. Պահանջվող փաստաթղթեր  |  8.1. Պահանջվող փաստաթղթեր  |  **8.1.1. Վարկային հայտը լրացնելիս պահանջվող փաստաթղթեր.**  |  
@@ -198,7 +191,6 @@ SOURCE: https://ameriabank.am/personal/loans/mortgage/renovation-mortgage
 |  **8.5.** Լրացուցիչ ապահովում  |  **8.5.1.** Որպես լրացուցիչ ապահովում Բանկը կարող է պահանջել նաև ֆիզիկական և/կամ իրավաբանական անձանց երաշխավորություն:  |  
 |  9. Գրավադրվող գույքի ապահովագրություն  |  9.1. Գրավադրվող գույքի ապահովագրություն  |  9.1.1.Գրավադրվող անշարժ գույքը Բանկի կողմից ապահովագրվում է.  |  
 |  9.1.1.1.եթե անշարժ գույքի սեփականության իրավունքի գրանցման և /կամ վերագնահատման պահին դրա շուկայական արժեքը գերազանցում է 100 /մեկ հարյուր/ մլն ՀՀ դրամը,  |  
-|  _[9.1.1.2. գրավադրվող անշարժ գույքի հասցեն ներառված է Բանկի ինտերնետային կայքում հրապարակված գույքերի ցանկում։](https://ameriabank.am/Portals/0/files/Other/insured-properties.pdf)_  |  
 |  9.1.2. Բանկի կողմից ապահովագրությունն իրականացվում է յուրաքանչյուր տարի` վերոնշյալ պայմաններից որևէ մեկի առկայության դեպքում`վարկի մնացորդի չափով և վարկի ամբողջ ժամկետի ընթացքում (այս դեպքում նախատեսված տոկոսադրույքի հաշվարկում ներառվում են բոլոր հնարավոր, այդ թվում՝ սահմանված դեպքերում նախատեսվող ապահովագրությունից բխող հնարավոր ծախսերը)։  |  
 |  10. Վարկի պայմանների կատարման ժամկետ  |  10.1. Վարկի պայմանների կատարման ժամկետ  |  **10.1.1.** Վարկի վերջին փուլը տրամադրելուց հետո 6 ամիս, եթե այլ պայման նախատեսված չէ վարկը հաստատող իրավասու մարմնի կողմից:  |  
 |  11. Պահանջվող փաստաթղթեր  |  11.1. Պահանջվող փաստաթղթեր  |  **11.1.1. Վարկային հայտը լրացնելիս պահանջվող փաստաթղթեր.**  |  
@@ -313,35 +305,13 @@ SOURCE: https://ameriabank.am/personal/loans/mortgage/renovation-mortgage
 
 
   * [Անշարժ գույքի ձեռքբերման, վերանորոգման և կառուցապատման վարկերի տեղեկատվական ամփոփագրեր](https://ameriabank.am/personal/loans/more/support/guides)
-  * [Անշարժ գույքի վերանորոգման հիփոթեքային վարկերի տրամադրման հատուկ առաջարկ](https://ameriabank.am/Portals/0/files/Personal/Loans/renovation_loan_special_offer_arm.pdf)
-  * [Բնակելի նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/mortage_personal_renovation_arm.pdf)
-  * [Առևտրային նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/mortgage_commercial_renovation_arm.pdf)
   * [«Ֆինանսներ բոլորի համար» abcfinance.am ինտերնետային կայք](http://www.abcfinance.am/)
   * [Ձեր Ֆինանսական տեղեկատուն` www.fininfo.am](http://www.fininfo.am/)
-  * [Լողացող (Ճշգրտվող) տոկոսադրույքի սահմանման, հաշվարկման և փոփոխման կարգի մասին](https://ameriabank.am/userfiles/file/Retail/Floating_Agreement_arm.pdf)  
   
 ՈՒՇԱԴՐՈՒԹՅՈՒՆ` «ՁԵՐ ՖԻՆԱՆՍԱԿԱՆ ՏԵՂԵԿԱՏՈՒՆ» ՖԻԶԻԿԱԿԱՆ ԱՆՁԱՆՑ ԱՌԱՋԱՐԿՎՈՂ ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐԻ ՈՐՈՆՄԱՆ, ՀԱՄԵՄԱՏՄԱՆ և ՁԵԶ ՀԱՄԱՐ ԱՄԵՆԱԱՐԴՅՈՒՆԱՎԵՏ ՏԱՐԲԵՐԱԿԻ ԸՆՏՐՈՒԹՅՈՒՆԸ ՀԵՇՏԱՑՆՈՂ ԷԼԵԿՏՐՈՆԱՅԻՆ ՀԱՄԱԿԱՐԳ Է:
 
 
-  * [Բնակելի նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortage_personal_renovation_ed67_arm.pdf) (ուժի մեջ է 20.11.25թ-ից մինչև 03.02.26)
-  * [Բնակելի նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortage_personal_renovation_ed66_arm.pdf) (ուժի մեջ է 02.09.25թ-ից մինչև 05.10.25)
-  * [Բնակելի նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortage_personal_renovation_ed65_arm.pdf) (ուժի մեջ է 04.06.25թ-ից մինչև 01.09.25)
-  * [Բնակելի նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortage_personal_renovation_ed64_arm.pdf) (ուժի մեջ է 25.11.24թ-ից մինչև 03.06.25)
-  * [Բնակելի նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortage_personal_renovation_ed63_arm.pdf) (ուժի մեջ է 26.06.24թ-ից մինչև 24.11.24)
-  * [Բնակելի նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortage_personal_renovation_ed62_arm.pdf) (ուժի մեջ է 03.05.24թ-ից մինչև 25.06.24)
-  * [Բնակելի նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/mortage_personal_renovation_ed61_arm.pdf) (ուժի մեջ է 01.02.24թ-ից մինչև 02.05.24)
-  * [Բնակելի նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/mortage_personal_renovation_ed60_arm.pdf) (ուժի մեջ է 17.07.23թ-ից մինչև 31.01.24)
-  * [Բնակելի նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/userfiles/file/loan%20terms/mortage_personal_renovation_ed59_arm.pdf) (ուժի մեջ է 14.05.23թ-ից մինչև 16.07.23)
-  * [Բնակելի նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/userfiles/file/loan%20terms/mortage_personal_renovation_ed58_arm.pdf)(ուժի մեջ է 02.02.23թ-ից մինչև 13.05.23)
-  * [Բնակելի նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/userfiles/file/loan%20terms/mortage_personal_renovation_ed57_arm.pdf)(ուժի մեջ է 17.12.22 թ-ից մինչև 01.02.23)  
   
 
 
 
-  * [Առևտրային նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortgage_commercial_renovation_ed62_arm.pdf)(ուժի մեջ է 20.11.25թ-ից մինչև 03.02.26)
-  * [Առևտրային նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortgage_commercial_renovation_ed61_arm.pdf) (ուժի մեջ է 04.06.25թ-ից մինչև 05.10.25)
-  * [Առևտրային նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortgage_commercial_renovation_ed60_arm.pdf) (ուժի մեջ է 25.11.24թ-ից մինչև 03.06.25)
-  * [Առևտրային նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortgage_commercial_renovation_ed59_arm.pdf) (ուժի մեջ է 01.02.24թ-ից մինչև 24.11.24)
-  * [Առևտրային նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/userfiles/file/loan%20terms/mortgage_commercial_renovation_ed58_arm.pdf) (ուժի մեջ է 24.02.23թ-ից մինչև 31.01.24)
-  * [Առևտրային նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/userfiles/file/loan%20terms/mortgage_commercial_renovation_ed57_arm.pdf) (ուժի մեջ է 01.02.23թ-ից մինչև 23.02.23)
-  * [Առևտրային նշանակության անշարժ գույքի վերանորոգման վարկի ամբողջական պայմաններ](https://ameriabank.am/userfiles/file/loan%20terms/mortgage_commercial_renovation_ed56_arm.pdf) (ուժի մեջ է 16.12.22թ-ից մինչև 31.01.23)

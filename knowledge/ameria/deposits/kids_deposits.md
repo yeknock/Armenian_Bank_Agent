@@ -1,28 +1,19 @@
-SOURCE: https://ameriabank.am/personal/saving/deposits/kids-deposit
 
 # Ամերիա Մանկական ավանդ
 ԱՎԱՆԴույթ դարձրու լավ պահերն ու ակնթարթները կուտակելն ու երեխաներիդ փոխանցելը 
 [Դառնալ հաճախորդ ](https://join.myameria.am/?ref=2B69DDC9-B8A8-415C-B887-E7947C5ADE54)
-![Grandad smiling with his grandchildren](https://ameriabank.am/Portals/0/Images/campaigns/kids-deposit/grandad.png)
-![icon](https://ameriabank.am/Portals/0/Images/icons/green/salary.png)
 ##### 50,000 դրամ
 Նվազագույն գումար 
-![icon](https://ameriabank.am/Portals/0/Images/icons/green/time.png)
 ##### Մինչև երեխայի 18 տարեկանը 
-![icon](https://ameriabank.am/Portals/0/Images/icons/green/discount.png)
 ##### Մինչև 9,40% 
 Տոկոսադրույք
-![icon](https://ameriabank.am/Portals/0/Images/icons/green/bonus%20.png)
 ##### ֏, $
 Արժույթներ
 ## Մանկական ավանդի մասին 
 0-16 տարեկան երեխաների համար մանկական ավանդ կարող են ներդնել ֆիզիկական անձինք։ 
 Ավանդի ներդրման պահից 5 տարի ժամկետը լրանալուց հետո յուրաքանչյուր տարի ավանդի տոկոսադրույքը կարող է ճշգրտվել սահմանվելով այդ պահին ավանդատեսակի ներդրման համար բանկում գործող տոկոսադրույքը: 
 #### Ավանդի ներդրման պահից 5 տարվա ընթացքում ավանդը վաղաժամկետ ընդհատելու դեպքում կատարվում է վերահաշվարկ.
-* * *
-![...](https://ameriabank.am/Portals/0/Images/campaigns/kids-deposit/mother.png)
 #### Ամերիա մանկական ավանդ
-![](https://ameriabank.am/Portals/0/Images/campaigns/kids-deposit/family.png)
 ## Պատրա՞ստ ես ավանդ ներդնել քո երեխաների համար
 Այսօր սկսիր մտածել քո երեխաների ապագայի մասին և բացիր Ամերիա մանկական ավանդ։   
   
@@ -61,14 +52,6 @@ SOURCE: https://ameriabank.am/personal/saving/deposits/kids-deposit
 Ավանդ կարող են ներդնել անչափահաս անձը, անչափահաս անձի ծնողները և երրորդ անձինք։
 Կարո՞ղ եմ երկարաձգել ավանդի պայմանագրի գործողության ժամկետը։ 
 Ավանդատեսակը երկարաձգման հնարավորություն չունի։
-  * [«Ամերիաբանկ» ՓԲԸ ավանդի պայմաններ ֆիզիկական անձանց համար](https://ameriabank.am/Portals/0/files/Personal/deposit/Deposit_Terms_PP_arm.pdf)
-  * [«Ամերիաբանկ» ՓԲԸ Ֆիզիկական անձանց ավանդների և խնայողական հաշվի սակագներ](https://ameriabank.am/Portals/0/files/Personal/Deposit_saving_terms_for_pp_arm.pdf)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/leaflet/leaflet_deposit_amd_arm.pdf) (AMD)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/leaflet/leaflet_deposit_eur_arm.pdf) (EUR)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/leaflet/leaflet_deposit_usd_arm.pdf) (USD)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/leaflet/leaflet_deposit_rub_arm.pdf) (RUB)
-  * [«Ամերիաբանկ» ՓԲԸ ստանդարտ սակագներ ֆիզիկական անձ հաճախորդների համար](https://ameriabank.am/Portals/0/files/Personal/Individual_standard_tariffs.pdf)
-  * [ԾԱՆՈւՑՈւՄ` Ավանդների հատուցման երաշխավորման պայմանների և կարգի մասին](https://ameriabank.am/userfiles/file/Hatucum_arm.pdf)
   * [«Ֆինանսներ բոլորի համար» abcfinance.am ինտերնետային կայք](https://abcfinance.am/)
   * [Հաճախակի տրվող հարցեր ավանդների մասին](https://ameriabank.am/personal/saving/other-services/support)
   * [Ավանդի ներդրման և սպասարկման կանոններ](https://ameriabank.am/personal/saving/other-services/terms)
@@ -81,28 +64,18 @@ SOURCE: https://ameriabank.am/personal/saving/deposits/kids-deposit
 Ձեր Ֆինանսական տեղեկատուն [www.fininfo.am](https://www.fininfo.am/)  
 
 ՈՒՇԱԴՐՈՒԹՅՈՒՆ՝ «ՁԵՐ ՖԻՆԱՆՍԱԿԱՆ ՏԵՂԵԿԱՏՈՒՆ» ՖԻԶԻԿԱԿԱՆ ԱՆՁԱՆՑ ԱՌԱՋԱՐԿՎՈՂ ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐԻ ՈՐՈՆՄԱՆ, ՀԱՄԵՄԱՏՄԱՆ և ՁԵԶ ՀԱՄԱՐ ԱՄԵՆԱԱՐԴՅՈՒՆԱՎԵՏ ՏԱՐԲԵՐԱԿԻ ԸՆՏՐՈՒԹՅՈՒՆԸ ՀԵՇՏԱՑՆՈՂ ԷԼԵԿՏՐՈՆԱՅԻՆ ՀԱՄԱԿԱՐԳ Է
-  * [«Ամերիաբանկ» ՓԲԸ Ֆիզիկական անձանց ավանդների և խնայողական հաշվի սակագներ](https://ameriabank.am/Portals/0/files/Personal/deposit/previous/Deposit_saving_terms_for_pp_ed3_arm.pdf) (ուժի մեջ է 10.08.25-ից մինչև 14.09.25)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/previous/leaflet_deposit_amd_ed1_arm.pdf) (AMD) (ուժի մեջ է 10.08.25-ից մինչև 14.09.25)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/previous/leaflet_deposit_eur_ed1_arm.pdf) (EUR) (ուժի մեջ է 10.08.25-ից մինչև 14.09.25)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/previous/leaflet_deposit_usd_ed1_arm.pdf) (USD) (ուժի մեջ է 10.08.25-ից մինչև 14.09.25)
-  * [Ֆիզիկական անձանց ժամկետային ավանդի և խնայողական հաշվի տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/deposit/leaflet/leaflet_deposit_rub_arm.pdf) (RUB) (ուժի մեջ է 10.08.25-ից մինչև 14.09.25)
-  * [«Ամերիաբանկ» ՓԲԸ ստանդարտ սակագներ ֆիզիկական անձ հաճախորդների համար](https://ameriabank.am/Portals/0/files/Personal/deposit/previous/leaflet_deposit_rub_ed1_arm.pdf) (ուժի մեջ է 14.08.25-ից մինչև 14.09.25)
 
 
 ## Խնայողության այլ տարբերակներ
-[ ![product](https://ameriabank.am/Portals/0/Images/deposit/deposit-illustration.png) ](https://ameriabank.am/personal/saving/deposits/kids-deposit#)
 ###### [Ամերիա ավանդ ](https://ameriabank.am/personal/saving/deposits/kids-deposit#)
 Սա ժամկետային ավանդատեսակ է, որի պայմանագրի գործողության ժամկետում դու չես կարող ավելացնել կամ նվազեցնել ավանդի գումարը կամ փոխարկել ավանդը մեկ արժույթից մեկ այլ արժույթի։
 [Իմանալ ավելին](https://ameriabank.am/personal/saving/deposits/ameria-deposit)
-[ ![product](https://ameriabank.am/Portals/0/Images/deposit/saving-illustrations.png) ](https://ameriabank.am/personal/saving/deposits/kids-deposit#)
 ###### [Խնայողական հաշիվ ](https://ameriabank.am/personal/saving/deposits/kids-deposit#)
 Դու կարող ես ներդնել որոշակի գումար՝ դրա նկատմամբ հաշվարկվող հարմար տոկոսադրույքով, ցանկացած ժամանակ ավելացնել կամ նվազեցնել գումարը, ինչպես նաև օգտագործել այն՝ առանց սահմանափակումների:
 [Իմանալ ավելին](https://ameriabank.am/personal/accounts/accounts/saving-account)
-[ ![product](https://ameriabank.am/Portals/0/Images/deposit/bonds-illustration.png) ](https://ameriabank.am/personal/saving/deposits/kids-deposit#)
 ###### [Պարտատոմս ](https://ameriabank.am/personal/saving/deposits/kids-deposit#)
 Դու ևս կարող ես դառնալ պարտատոմսերի սեփականատեր և պարբերաբար տոկոսագումարներ ստանալ արժեկտրոնի տեսքով:
 [Իմանալ ավելին](https://ameriabank.am/personal/saving/saving/bonds)
-[ ![product](https://ameriabank.am/Portals/0/Images/deposit/kutakayin-2-deposit.png) ](https://ameriabank.am/personal/saving/deposits/kids-deposit#)
 ###### [Ամերիա կուտակային ավանդ ](https://ameriabank.am/personal/saving/deposits/kids-deposit#)
 Սա ժամկետային ավանդատեսակ է, որի պայմանագրի գործողության ժամկետում դու ունես ավանդի գումարն ավելացնելու հնարավորություն։
 [Իմանալ ավելին](https://ameriabank.am/personal/saving/deposits/cumulative-deposit)

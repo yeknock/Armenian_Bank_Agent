@@ -1,19 +1,13 @@
-SOURCE: https://ameriabank.am/personal/loans/mortgage/online
 
 # Առաջնային և երկրորդային շուկաներից բնակարանի ձեռքբերման օնլայն վարկ
 Քո բնակարանը սպասում է քեզ 
 [Դիմիր օնլայն](https://myhome.am/home)
-![Man and woman apply for estate.ameriabank.am online mortgage](https://ameriabank.am/Portals/0/Images/mortgage/mortgage-category.png)
-![loan limit icon](https://ameriabank.am/Portals/0/Images/icons/loan-limit-icon.png)
 ###### 3 - 100 մլն ՀՀ դրամ
 Վարկի գումար
-![loan term icon](https://ameriabank.am/Portals/0/Images/icons/overdraft-time-icon.png)
 ###### 360 ամիս
 Մարման ժամկետ
-![loan percentage icon](https://ameriabank.am/Portals/0/Images/icons/percentage-icon.png)
 ###### 13.83% - 16.67% 
 Փաստացի տոկոսադրույք
-![check mark icon](https://ameriabank.am/Portals/0/Images/icons/check-mark.png)
 ###### սկսած 10 %-ից
 Նվազագույն կանխավճար
 ## **Առաջնային և երկրորդային շուկաներից բնակարանի ձեռքբերման օնլայն վարկ**
@@ -27,7 +21,6 @@ _*Երկրորդային շուկայի դեպքում վարկային պայմ
   
 
 #### ԱՌԱՎԵԼՈՒԹՅՈՒՆՆԵՐ
-* * *
 Mortgage calculator
 ## Հիփոթեքային հաշվիչ
 Արժեքների մուտքագրումը սահմանափակված է՝ ըստ Բանկի պայմանների
@@ -50,18 +43,14 @@ Mortgage calculator
 ## MyHome.am
 Անշարժ գույքի միակ միասնական հարթակը Հայաստանում
 [Դիմիր օնլայն](https://myhome.am/)
-![...](https://ameriabank.am/Portals/0/Images/mortgage/myhome_video.png)
 #### MyHome.am
 ## Առավելություններ
-![calculator icon](https://ameriabank.am/Portals/0/Images/icons/calculator-2.png)
 ###### Վարկունակության ստուգում 
 Պարզապես լրացրո´ւ մի քանի տվյալ և անմիջապես իմացի´ր, թե որքան գումարի վարկ կարող ես ստանալ: 
 [Փորձիˊր հիմա](https://myhome.am/apply-now?isPreQualification=true)
-![online loan apply icon](https://ameriabank.am/Portals/0/Images/icons/overdraft-online-icon.png)
 ###### Օնլայն վարկավորում 
 Անցիˊր վարկավորման ողջ գործընթացն օնլայն` պարզապես վերջում այցելելով նոտարական գրասենյակ: 
 [Գրանցվիˊր համակարգում](https://myhome.am/home?signup=true)
-![time-icon](https://ameriabank.am/Portals/0/Images/icons/overdraft-time-icon.png)
 ###### Հայտի պատասխան 5 րոպեում 
 Օնլայն վարկային հայտ ներկայացնելու դեպքում հայտի պատասխանը կստանաս անմիջապես՝ մինչև 5 րոպեի ընթացքում: 
 ##  Պայմաններ և սակագներ
@@ -127,7 +116,6 @@ Mortgage calculator
 Որպես գրավադրման արժեք հիմք է ընդունվում Կառուցապատողի⁵ կողմից Բանկին պատկանող էլեկտրոնային համակարգում նշված վերջնական (ամրագրման հայտի հաստատման) արժեքը/առուվաճառքի արժեքը  |   |   |  
 |  6. Գրավադրվող գույքի ապահովագրություն  |  6.1. Գրավադրվող գույքի ապահովագրություն  |  6.1.1.Գրավադրվող անշարժ գույքը Բանկի կողմից ապահովագրվում է հետևյալ դեպքերում.  |   |   |  
 |  6.1.1.1 անշարժ գույքի սեփականության իրավունքի գրանցման և /կամ վերագնահատման պահին դրա շուկայական արժեքը գերազանցում է 100 /մեկ հարյուր/ մլն ՀՀ դրամը,  |   |   |  
-|  _[6.1.1.2. գրավադրվող անշարժ գույքի հասցեն ներառված է Բանկի ինտերնետային կայքում հրապարակված գույքերի ցանկում։](https://ameriabank.am/Portals/0/files/Other/insured-properties.pdf)_  |   |   |  
 |  6.1.2. Բանկի կողմից ապահովագրությունն իրականացվում է յուրաքանչյուր տարի` վերոնշյալ պայմաններից որևէ մեկի առկայության դեպքում`վարկի մնացորդի չափով և վարկի ամբողջ ժամկետի ընթացքում (այս դեպքում նախատեսված տոկոսադրույքի հաշվարկում ներառվում են բոլոր հնարավոր, այդ թվում՝ սահմանված դեպքերում նախատեսվող ապահովագրությունից բխող հնարավոր ծախսերը)։  |   |   |  
 |  7. Պահանջվող փաստաթղթեր  |  7.1. Պահանջվող փաստաթղթեր  |  **7.1.1. Վարկային հայտը լրացնելիս պահանջվող փաստաթղթեր**  |   |   |  
 |  Անձը հաստատող փաստաթուղթ, ՀԾՀ  |   |   |  
@@ -189,7 +177,6 @@ Mortgage calculator
 |  5.4. Գրավադրվող գույքի գնահատում  |  5.4.1. Գրավադրվող անշարժ գույքը գնահատվում է Բանկի հետ համագործակցող կազմակերպությունների կողմից:  |   |   |  
 |  6. Գրավադրվող գույքի ապահովագրություն  |  6.1. Գրավադրվող գույքի ապահովագրություն  |  6.1.1.Գրավադրվող անշարժ գույքը Բանկի կողմից ապահովագրվում է հետևյալ դեպքերում.  |   |   |  
 |  6.1.1.1.եթե անշարժ գույքի սեփականության իրավունքի գրանցման և /կամ վերագնահատման պահին դրա շուկայական արժեքը գերազանցում է 100 /մեկ հարյուր/ մլն ՀՀ դրամը,  |   |   |  
-|  _[6.1.1.2. գրավադրվող անշարժ գույքի հասցեն ներառված է Բանկի ինտերնետային կայքում հրապարակված գույքերի ցանկում։](https://ameriabank.am/Portals/0/files/Other/insured-properties.pdf)_  |   |   |  
 |  6.1.2. Բանկի կողմից ապահովագրությունն իրականացվում է յուրաքանչյուր տարի` վերոնշյալ պայմաններից որևէ մեկի առկայության դեպքում`վարկի մնացորդի չափով և վարկի ամբողջ ժամկետի ընթացքում (այս դեպքում նախատեսված տոկոսադրույքի հաշվարկում ներառվում են բոլոր հնարավոր, այդ թվում՝ սահմանված դեպքերում նախատեսվող ապահովագրությունից բխող հնարավոր ծախսերը)։  |   |   |  
 |  7. Պահանջվող փաստաթղթեր  |  7.1. Պահանջվող փաստաթղթեր  |  **7.1.1. Վարկային հայտը լրացնելիս պահանջվող փաստաթղթեր**  |   |   |  
 |  Անձը հաստատող փաստաթուղթ, ՀԾՀ  |   |   |  
@@ -310,26 +297,12 @@ Mortgage calculator
   * [abcfinance.am](https://abcfinance.am/news/news_varkayinscore.html) – Սկիզբ - Նորություններ – Ի՞նչ է ՍՔՈՐԸ և ինչպե՞ս այն բարելավել
 
 
-  * [Առաջնային շուկայից Բնակելի նշանակության անշարժ գույքի ձեռքբերման օնլայն վարկ](https://ameriabank.am/Portals/0/files/Personal/Loans/mortgage_personal_online_purchase_arm.pdf)
-  * [Երկրորդային շուկայից Բնակելի նշանակության անշարժ գույքի ձեռքբերման օնլայն վարկ](https://ameriabank.am/Portals/0/files/Personal/Loans/mortgage_personal_online_secondary_purchase_arm.pdf)
   * [Առաջնային շուկայից Բնակելի նշանակության անշարժ գույքի ձեռքբերման օնլայն վարկի պայմաններ ամփոփագիր](https://ameriabank.am/personal/loans/more/support/guides)
   * [«Ֆինանսներ բոլորի համար» abcfinance.am ինտերնետային կայք](http://www.abcfinance.am/)  
 
   * [Ձեր Ֆինանսական տեղեկատուն` www.fininfo.am](http://www.fininfo.am/)   
 ՈՒՇԱԴՐՈՒԹՅՈՒՆ` «ՁԵՐ ՖԻՆԱՆՍԱԿԱՆ ՏԵՂԵԿԱՏՈՒՆ» ՖԻԶԻԿԱԿԱՆ ԱՆՁԱՆՑ ԱՌԱՋԱՐԿՎՈՂ ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐԻ ՈՐՈՆՄԱՆ, ՀԱՄԵՄԱՏՄԱՆ և ՁԵԶ ՀԱՄԱՐ ԱՄԵՆԱԱՐԴՅՈՒՆԱՎԵՏ ՏԱՐԲԵՐԱԿԻ ԸՆՏՐՈՒԹՅՈՒՆԸ ՀԵՇՏԱՑՆՈՂ ԷԼԵԿՏՐՈՆԱՅԻՆ ՀԱՄԱԿԱՐԳ Է:
-  * [Լողացող (Ճշգրտվող) տոկոսադրույքի սահմանման, հաշվարկման և փոփոխման կարգի մասին](https://ameriabank.am/userfiles/file/Retail/Floating_Agreement_arm.pdf)
 
 
-  * [Առաջնային շուկայից Բնակելի նշանակության անշարժ գույքի ձեռքբերման օնլայն վարկի պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortgage_personal_online_purchase_ed67_arm.pdf) (ուժի մեջ է 20.11.25թ-ից մինչև 03.02.26)
-  * [Առաջնային շուկայից Բնակելի նշանակության անշարժ գույքի ձեռքբերման օնլայն վարկի պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortgage_personal_online_purchase_ed66_arm.pdf) (ուժի մեջ է 02.09.25թ-ից մինչև 05.10.25) 
-  * [Առաջնային շուկայից Բնակելի նշանակության անշարժ գույքի ձեռքբերման օնլայն վարկի պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortgage_personal_online_purchase_ed65_arm.pdf) (ուժի մեջ է 04.06.25թ-ից մինչև 01.09.25)
-  * [Առաջնային շուկայից Բնակելի նշանակության անշարժ գույքի ձեռքբերման օնլայն վարկի պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortgage_personal_online_purchase_ed64_arm.pdf) (ուժի մեջ է 25.11.24թ-ից մինչև 03.06.25)
-  * [Առաջնային շուկայից Բնակելի նշանակության անշարժ գույքի ձեռքբերման օնլայն վարկի պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/mortgage_personal_online_purchase_ed63_arm.pdf) (ուժի մեջ է 26.06.24թ-ից մինչև 24.11.24)
-  * [Առաջնային շուկայից Բնակելի նշանակության անշարժ գույքի ձեռքբերման օնլայն վարկի պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortgage_personal_online_purchase_ed62_arm.pdf) (ուժի մեջ է 03.05.24թ-ից մինչև 25.06.24)
-  * [Առաջնային շուկայից Բնակելի նշանակության անշարժ գույքի ձեռքբերման օնլայն վարկի պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/mortgage_personal_online_purchase_ed61_arm.pdf) (ուժի մեջ է 01.02.24թ-ից մինչև 02.05.24)  
   
 
-  * [Երկրորդային շուկայից Բնակելի նշանակության անշարժ գույքի ձեռքբերման օնլայն վարկ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortgage_personal_online_secondary_purchase_ed67_arm.pdf) (ուժի մեջ է 20.11.25թ-ից մինչև 03.02.26)
-  * [Երկրորդային շուկայից Բնակելի նշանակության անշարժ գույքի ձեռքբերման օնլայն վարկ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortgage_personal_online_secondary_purchase_ed66_arm.pdf) (ուժի մեջ է 02.09.25թ-ից մինչև 05.10.25)
-  * [Երկրորդային շուկայից Բնակելի նշանակության անշարժ գույքի ձեռքբերման օնլայն վարկ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortgage_personal_online_secondary_purchase_ed65_arm.pdf) (ուժի մեջ է 04.06.25թ-ից մինչև 01.09.25)
-  * [Երկրորդային շուկայից Բնակելի նշանակության անշարժ գույքի ձեռքբերման օնլայն վարկ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-loans/mortgage_personal_online_secondary_purchase_ed64_arm.pdf) (ուժի մեջ է 25.11.24թ-ից մինչև 03.06.25)

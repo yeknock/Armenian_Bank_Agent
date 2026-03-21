@@ -1,132 +1,78 @@
-SOURCE: https://ameriabank.am/personal/loans/consumer-loans/consumer-finance
 
 # Ապառիկ ֆինանսավորում
 Ապառիկ գնումներ՝ արագ և հարմար տարբերակով
 Տեսնել գործընկերների ցանկը
-![](https://ameriabank.am/Portals/0/Images/New-home/consumer-loan.png)
 ## Ի՞նչ է ապառիկը
 Մենք առաջարկում ենք կենցաղային և համակարգչային տեխնիկան, կահույքը, արևային համակարգերը և քո առօրյա կյանքի համար անհրաժեշտ բազմաթիվ այլ ապրանքներն ու ծառայությունները ապառիկ ձեռք բերելու արագ տարբերակ: Ապառիկ գնումը ձևակերպվում է անմիջապես խանութում1՝ առանց Բանկ այցելելու անհրաժեշտության և ընդամենը մի քանի րոպեի ընթացքում:
   
 
 1 Ապառիկով գնում կարելի է կատարել միայն Բանկի հետ համագործակցության պայմանագիր կնքած ընկերությունների վաճառակետերում:
-![icon](https://ameriabank.am/Portals/0/Images/icons/loan-limit-icon.png)
 ##### 50,000 - 6,000,000 ՀՀ դրամ
 Ֆինանսավորման գումար
-![icon](https://ameriabank.am/Portals/0/Images/icons/overdraft-time-icon.png)
 ##### 6 - 60 ամիս
 Ֆինանսավորման ժամկետ
-![icon](https://ameriabank.am/Portals/0/Images/icons/percentage-icon.png)
 ##### 0 - 21.5%
 Անվանական տոկոսադրույք  
 Փաստացի տոկոսադրույք` 0 - 24%
-![...](https://ameriabank.am/Portals/0/Images/loans/advantages.png)
 ## ԱՌԱՎԵԼՈՒԹՅՈՒՆՆԵՐ
 ## Հատուկ առաջարկներ
 ## ՎՈԼՏԱ / VOLTA 
-* * *
-Մանրամասները տես [**այստեղ**](https://ameriabank.am/Portals/0/files/consumer-finance/partners/volta_arm.pdf)
-![new featur for myameria application, visa subscription](https://ameriabank.am/Portals/0/Images/consumer-finance/offers/volta.png)
 ## ՎԵՆՈՒՍ / VENUS 
   *   
 1-6 ամիսների համար` 0%, 7-րդ ամսից սկսած` 21.5%   
 Տարեկան փաստացի տոկոսադրույք` 0-24% 
 
 
-* * *
-Մանրամասները տես [**այստեղ**](https://ameriabank.am/Portals/0/files/consumer-finance/partners/venus_arm.pdf)
-![new featur for myameria application, visa subscription](https://ameriabank.am/Portals/0/Images/consumer-finance/offers/venus.png)
 ## ECO STEP / ԷԿՈ ՍԹԵՓ
   *   
 1-3 ամիսների համար` 0%, 4-րդ ամսից սկսած մինչև ֆինանսավորման ժամկետի ավարտը` 15.5%   
 Տարեկան փաստացի տոկոսադրույք` 0-24% 
 
 
-* * *
-Մանրամասները տես [**այստեղ**](https://ameriabank.am/Portals/0/files/consumer-finance/partners/eco_step_arm.pdf)
-![new featur for myameria application, visa subscription](https://ameriabank.am/Portals/0/Images/consumer-finance/offers/ecostep.png)
 ## Վի-Էլ-ՎԻ Սենթր / VLV CENTRE
   *   
 1-6 ամիսների համար` 0%, 7-րդ ամսից սկսած` 21.5%   
 Տարեկան փաստացի տոկոսադրույք` 0-24% 
 
 
-* * *
-Մանրամասները տես [**այստեղ**](https://ameriabank.am/Portals/0/files/consumer-finance/partners/vlv_arm.pdf)
-![new featur for myameria application, visa subscription](https://ameriabank.am/Portals/0/Images/consumer-finance/offers/vlv.png)
 ## ԲԻԼԴԻՆԳ ՄԱՏԵՐԻԱԼ / BUILDING MATERIAL
   *   
 1-6 ամիսների համար` 0%, 7-րդ ամսից սկսած` 21.5%   
 Տարեկան փաստացի տոկոսադրույք` 0-24% 
 
 
-* * *
-Մանրամասները տես [**այստեղ**](https://ameriabank.am/Portals/0/files/consumer-finance/partners/building_material_arm.pdf)
-![new featur for myameria application, visa subscription](https://ameriabank.am/Portals/0/Images/consumer-finance/offers/building_materials.png)
 ## PC ELECTRONICS / ՓԻՍԻ ԷԼԵԿՏՐՈՆԻՔՍ
   *   
 1-12 ամիսների համար` 0%, 13-րդ ամսից սկսած` 21.5%   
 Տարեկան փաստացի տոկոսադրույք` 0-24% 
 
 
-* * *
-Մանրամասները տես [**այստեղ**](https://ameriabank.am/Portals/0/files/consumer-finance/partners/pc_electronics_arm.pdf)
-![new featur for myameria application, visa subscription](https://ameriabank.am/Portals/0/Images/consumer-finance/offers/pc.png)
 ## ԶԻԳԶԱԳ / ZIGZAG
   *   
 • 1-6 ամիսների համար` 0%, 7-րդ ամսից սկսած` 21.5% (բոլոր կենցաղային պարագաների ձեռքբերման համար)  
 • 1-12 ամիսների համար` 0%, 13-րդ ամսից սկսած` 21.5% (նշված ապրանքատեսականու համար)տարեկան փաստացի տոկոսադրույք` 0-24% 
 
 
-* * *
-Մանրամասները տես [**այստեղ**](https://ameriabank.am/Portals/0/files/consumer-finance/partners/zigzag_arm.pdf)
-![new featur for myameria application, visa subscription](https://ameriabank.am/Portals/0/Images/loans/consumer-finance/zigzag_logo.png)
 ## VLV CENTRE
   *   
 1-4 ամիսների համար` 0%, 5-րդ ամսից սկսած` 21.5%, տարեկան փաստացի տոկոսադրույք` 0-24% 
 
 
-* * *
-Մանրամասները տես [**այստեղ**](https://ameriabank.am/Portals/0/files/consumer-finance/partners/vlv_4_arm.pdf)
-![new featur for myameria application, visa subscription](https://ameriabank.am/Portals/0/Images/loans/consumer-finance/vlv-aparik-partner.png)
 ## ԻԴԵԱԼ / IDEAL
   *   
 • 1-9 ամիսների համար` 0%, 10-րդ ամսից սկսած` 21.5% (ջեռուցման համակարգերի համար)  
 • 1-12 ամիսների համար` 0%, 13-րդ ամսից սկսած` 21.5% (ողջ տեսականին, բացառությամբ ջեռուցման համակարգերի) 
 
 
-* * *
-Մանրամասները տես [**այստեղ**](https://ameriabank.am/Portals/0/files/consumer-finance/partners/ideal_arm.pdf)
-![new featur for myameria application, visa subscription](https://ameriabank.am/Portals/0/Images/loans/consumer-finance/ideal_system-logo.png)
 ## ՇՏԻԳԵՆ/ SHTIGEN
-* * *
-Մանրամասները տես [**այստեղ**](https://ameriabank.am/Portals/0/files/consumer-finance/partners/shtigen_arm.pdf)
-![new featur for myameria application, visa subscription](https://ameriabank.am/Portals/0/Images/loans/consumer-finance/shtigen.png)
 ## ՀՈՄՊԼԵՔՍ ՀԻՊԵՐ ՄՈԼ / HOMPLEX
-* * *
-Մանրամասները տես [**այստեղ**](https://ameriabank.am/Portals/0/files/consumer-finance/partners/homplex_arm.pdf)
-![new featur for myameria application, visa subscription](https://ameriabank.am/Portals/0/Images/loans/consumer-finance/homplex.png)
 ## ՆՈՐ ՏՈՒՆ/ NOR TUN
-* * *
-Մանրամասները տես [**այստեղ**](https://ameriabank.am/Portals/0/files/consumer-finance/partners/nor_tun_arm.pdf)
-![new featur for myameria application, visa subscription](https://ameriabank.am/Portals/0/Images/loans/consumer-finance/nor_tun.png)
 ## ԼԵՅԴԻ ԶՈՆ ՍՊԸ / LADY ZONE
-* * *
-Մանրամասները տես [**այստեղ**](https://ameriabank.am/Portals/0/files/consumer-finance/partners/lady-zone-arm.pdf)
-![special offer for lady zone](https://ameriabank.am/Portals/0/Images/loans/lady-zone.png)
 ## ՌՈՒԲԵՆ ԵՎ ԵՂԲԱՅՐՆԵՐ ՍՊԸ RUBEN / ELF DECOR
-* * *
-Մանրամասները տես [**այստեղ**](https://ameriabank.am/Portals/0/files/consumer-finance/partners/elf_decor.pdf)
-![special offer for elf decor](https://ameriabank.am/Portals/0/Images/loans/elf-decor.png)
 ## ՎԱԼԵՆՍԻԱ ՀՁ ՍՊԸ /  
 KLAIK
-* * *
-Մանրամասները տես [**այստեղ**](https://ameriabank.am/Portals/0/files/consumer-finance/klaik-terms-arm.pdf)
-![special offer for klaik](https://ameriabank.am/Portals/0/Images/loans/klaik.png)
 ## Զ ԷՍ ՏՈՊ ՍՊԸ /  
 SKILL.AM
-* * *
-Մանրամասները տես [**այստեղ**](https://ameriabank.am/Portals/0/files/consumer-finance/partners/skill.pdf)
-![special offer for skill](https://ameriabank.am/Portals/0/Images/loans/skill.png)
 ## Համագործակցող ընկերություններ
 Կատեգորիա
 Բոլորը
@@ -152,68 +98,47 @@ SKILL.AM
 53
 Այլ
 30
-![ZIGZAG / ԶԻԳԶԱԳ](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/zigzag.png)
 ZIGZAG / ԶԻԳԶԱԳ
 ԶԻԳԶԱԳ ՍՊԸ
-![VEGA / ՎԵԳԱ](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/vega.png)
 VEGA / ՎԵԳԱ
 ՎԵԳԱ ՈՒՈՐԼԴ ՍՊԸ
-![VLV / ՎԻ ԷԼ ՎԻ](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/vlv.png)
 VLV / ՎԻ ԷԼ ՎԻ
 ՎԻ ԷԼ ՎԻ ՍԵՆԹՐ ՍՊԸ
-![NOR TUN / ՆՈՐ ՏՈՒՆ](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/nor-tun.png)
 NOR TUN / ՆՈՐ ՏՈՒՆ
 ԲԱՐՍԻՍ ՍՊԸ
-![BEKO / ԲԵԿՈ](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/beko.png)
 BEKO / ԲԵԿՈ
 ԷԴ-ՍՊՈ ՍՊԸ
-![Սոլարթիմ](https://ameriabank.am/Portals/0/Images/Cards/benefits-logos/solar-team.png)
 Սոլարթիմ
 «Սոլարթիմ» ՍՊԸ 
-![ՊՐԱՅՄ ԱՎՏՈ ԳՐՈՒՊ / PRIME AUTO GROUP](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/prime_auto.png)
 ՊՐԱՅՄ ԱՎՏՈ ԳՐՈՒՊ / PRIME AUTO GROUP
 «ՊՐԱՅՄ ԱՎՏՈ ԳՐՈՒՊ» ՍՊԸ
-![AVARD COMPUTERS / ԱՎԱՐԴ ՔՈՄՓՅՈՒԹԵՐՍ](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/avard_computers.png)
 AVARD COMPUTERS / ԱՎԱՐԴ ՔՈՄՓՅՈՒԹԵՐՍ
 «ԱՎԱՐԴԳԵՅՄԻՆԳ» ՍՊԸ
-![NOTEBOOK CENTRE / ՆՈՈՒԹԲՈՒՔ ՍԵՆԹՐ](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/prime_store_notebook-centre.png)
 NOTEBOOK CENTRE / ՆՈՈՒԹԲՈՒՔ ՍԵՆԹՐ
 «Պրայմ Սթոր» ՍՊԸ 
-![MOB - X / ՄՈԲ - ԻՔՍ](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/mob_x.png)
 MOB - X / ՄՈԲ - ԻՔՍ
 ԳԱԲՐԵԼՅԱՆ ՔՆՔՈՒՇ ԱՐԱՄԱԻՍԻ ԱՁ 
-![META STORE / ՄԵՏԱ ՍԹՈՐ](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/meta_store.png)
 META STORE / ՄԵՏԱ ՍԹՈՐ
 «Մետա Սթոր» ՍՊԸ 
-![SOTKA / ՍՈՏԿԱ](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/sotka.png)
 SOTKA / ՍՈՏԿԱ
 Վարպետյան Հովհաննես Հակոբի ԱՁ 
-![SIM RACING CLUB](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/phone.png)
 SIM RACING CLUB
 «Հովհաննիսյան Արա Արթուրի» ԱՁ 
-![ՏՈՌՆԱԴՈ ԷԼԵԿՏՐՈՆԻԿՍ](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/tornado_electronics.png)
 ՏՈՌՆԱԴՈ ԷԼԵԿՏՐՈՆԻԿՍ
 Հովհաննիսյան Գրիգոր Աղասու Ա/Ձ
-![FON X/ՖՈՆ ԻՔՍ](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/fon_x.png)
 FON X/ՖՈՆ ԻՔՍ
 «Միքայելյան Արտակ Աշոտի» Ա/Ձ
-![ARTSAKH MOBILE / ԱՐՑԱԽ ՄՈԲԱՅԼ](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/artsakh_mobile.png)
 ARTSAKH MOBILE / ԱՐՑԱԽ ՄՈԲԱՅԼ
 «Սիմոնյան Էրիկ Արտեմի» Ա/Ձ
-![HT MOBILE / ԷՅՉ-ԹԻ ՄՈԲԱՅԼ](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/ht_mobile.png)
 HT MOBILE / ԷՅՉ-ԹԻ ՄՈԲԱՅԼ
 «Արամայիս Բադալյան» ՍՊԸ
-![ՄՈԲԱՅԼ ԶՈՆ/ MOBILE ZONE](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/mobile_zone.png)
 ՄՈԲԱՅԼ ԶՈՆ/ MOBILE ZONE
 «Ֆայն Շոփ» ՍՊԸ 
-![ԹԵՉՀԱՈՒՍ](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/techhouse.png)
 ԹԵՉՀԱՈՒՍ
 «Թեչհաուս» ՍՊԸ 
-![MOBILE GROUP / ՄՈԲԱՅԼ ԳՐՈՒՊ](https://ameriabank.am/Portals/0/Images/consumer-finance/partners/mobile_group.png)
 MOBILE GROUP / ՄՈԲԱՅԼ ԳՐՈՒՊ
 «Մոբայլ Գրուպ.ԷՅ ԷՄ» ՍՊԸ
 Ցուցադրել ավելին 
-![no result image](https://ameriabank.am/Portals/0/Images/investment/illustrations/Illustration-filter.png)
 ###### Նշված տվյալներով առաջարկ չի գտնվել
 ##  Պայմաններ և սակագներ 
   * [ Հարց ու պատասխան ](https://ameriabank.am/personal/loans/consumer-loans/consumer-finance#Tab1_38663)
@@ -344,7 +269,6 @@ MOBILE GROUP / ՄՈԲԱՅԼ ԳՐՈՒՊ
 |  Անկանխիկ եղանակով  
 «Ամերիաբանկ» ՓԲԸ վճարային տերմինալների միջոցով   
  |  0 դրամ  
-Համապատասխան միջնորդավճարի կիրառմամբ, ըստ [փաստաթղթի](https://ameriabank.am/Portals/0/files/Other/Payment_terminals_arm.pdf)  
  |  
 |  Easy Pay, TelCell, MobiDram, idram, UPay վճարային տերմինալների միջոցով  |  МobiDram, idram- 200 դրամ Easy Pay -300 ՀՀ դրամ Telcell - 400 ՀՀ դրամ  
 UPay – մինչև 35,000 ՀՀ դրամը` 200 դրամ, 35,001 ՀՀ դրամից սկսած` 0.6% HayPost - 300 ՀՀ դրամ  
@@ -396,17 +320,9 @@ UPay – մինչև 35,000 ՀՀ դրամը` 200 դրամ, 35,001 ՀՀ դրամի
 
 
   * [Վարկ վերցնելիս եղեք տեղեկացված](https://ameriabank.am/personal/loans/more/support/information)
-  * [Ապառիկ ֆինանսավորման պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Consumer_finance_terms.pdf)
-  * [Ապրանքների ձեռքբերման և ծառայությունների մատուցման ապառիկ ֆինանսավորման տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/Leaflet_consumer_finance_arm.pdf)
-  * [Պայմաններ և կանոններ](https://ameriabank.am/Portals/0/files/Personal/web-info.pdf)
-  * [«Ամերիաբանկ» ՓԲԸ կողմից ֆիզիկական անձանց ապառիկ ֆինանսավորման ծառայության մատուցման հիմնական պայմաններ](https://ameriabank.am/Portals/0/files/basic_conditions_of_installment_financing-service_arm.pdf)
 
 
 **Նախկին պայմաններ**
-  * [Ապառիկ ֆինանսավորման պայմաններ](https://ameriabank.am/Portals/0/files/Personal/previous/Consumer_finance_ed15_terms.pdf) (ուժի մեջ է 25․09․25 թ.-ից մինչև 15․03․26)
-  * [Ապառիկ ֆինանսավորման պայմաններ](https://ameriabank.am/Portals/0/files/Personal/previous/Consumer_finance_terms_ed14.pdf) (ուժի մեջ է 10.10.24թ.-ից մինչև 24.09.25)
-  * [«Ամերիաբանկ» ՓԲԸ կողմից ֆիզիկական անձանց ապառիկ ֆինանսավորման ծառայության մատուցման հիմնական պայմաններ](https://ameriabank.am/Portals/0/files/Personal/Loans/previous/basic_conditions_of_installment_financing-service_ed6_arm.pdf) (ուժի մեջ է 04.07.24թ.-ից մինչև 15.03.26)
-  * [Ապրանքների ձեռքբերման և ծառայությունների մատուցման ապառիկ ֆինանսավորման տեղեկատվական ամփոփագիր](https://ameriabank.am/Portals/0/files/Personal/Loans/previous-leaflets/Leaflet_consumer_finance_ed2_arm.pdf) (ուժի մեջ է 07.05.25թ.-ից մինչև 24.09.25)
 
 
   

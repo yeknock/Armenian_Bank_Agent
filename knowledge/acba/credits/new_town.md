@@ -1,11 +1,7 @@
-SOURCE: https://www.acba.am/hy/individuals/loans/mortgage/constructors/1677160792
 
 [ՆՅՈՒ ԹԱՈւՆ](https://www.acba.am/hy/individuals/loans/mortgage/constructors/1677160792)
 ՆՅՈՒ ԹԱՈւՆ
-![ՆՅՈՒ ԹԱՈւՆ](https://www.acba.am/thumbs/1000x/2023-02/7qsCz9e0ghudUP1yAZkFgy0m7g.jpg)
-![](https://www.acba.am/thumbs/768x300/2023-02/7qsCz9e0ghudUP1yAZkFgy0m7g.jpg)
 Այժմ հերթը քոնն է տեղափոխվել նոր բնակարան 
-![](https://www.acba.am/pics/arrow_down.png)![](https://www.acba.am/pics/arrow_up.png)
 [ Դիմեք օնլայն ](https://www.acba.am/hy/online-applications/Credit-applications/purchase-loans)
 [ Հաշվիչ ](https://www.acba.am/hy/calculators/Creditworthiness-calculator/mortgage-creditworthiness-calculator)
 [ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)

@@ -1,4 +1,3 @@
-SOURCE: https://conversebank.am/hy/eraz/
 
 
 # Գտնված երազ
@@ -198,8 +197,6 @@ SOURCE: https://conversebank.am/hy/eraz/
 **
 
 
-[**Ավանդի ներդրման պայմանները մինչ 03․10․2022**](https://conversebank.am/u_files/file/Ampopagrer2021/Gtnvats%20Yeraz%20Dec%202021\(1\).pdf)
-[**Ավանդի ներդրման պայմանները մինչ 13.12.2021**](https://conversebank.am/u_files/file/Ampopagrer2021/Gtnvats%20Yeraz%20Nov%202021.pdf)
 Թարմացվել է 13.12.2022թ. 08:00 
 **[Ավանդի ներդրման պայմանները մինչ 10․03․2021](https://conversebank.am/hy/eraz/#)**
 **Ավանդի տարեկան պարզ տոկոսադրույք և տոկոսային եկամտաբերություն**  

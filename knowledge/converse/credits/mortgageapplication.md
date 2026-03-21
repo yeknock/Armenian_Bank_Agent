@@ -1,4 +1,3 @@
-SOURCE: https://conversebank.am/hy/mortgageapplication/
 
 
 # ՊԵԿ համաձայնություն

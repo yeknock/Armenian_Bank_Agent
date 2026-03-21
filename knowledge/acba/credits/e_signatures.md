@@ -1,12 +1,8 @@
-SOURCE: https://www.acba.am/hy/individuals/loans/e-signatures
 
 
 [Պայմանագրերի ստորագրում էլեկտրոնային եղանակով](https://www.acba.am/hy/individuals/loans/e-signatures)
 Պայմանագրերի ստորագրում էլեկտրոնային եղանակով
-![Պայմանագրերի ստորագրում էլեկտրոնային եղանակով](https://www.acba.am/thumbs/1000x/2023-02/rYeHyTAVaJFC7fbZOtZHHjUsfR.jpg)
-![](https://www.acba.am/thumbs/768x300/2023-02/rYeHyTAVaJFC7fbZOtZHHjUsfR.jpg)
 Ակբա բանկը համալրել է հաճախորդներին հեռավար սպասարկելու հնարավորությունները՝ ներդնելով **պայմանագրերի ստորագրման էլեկտրոնային** համակարգ։ 
-![](https://www.acba.am/pics/arrow_down.png)![](https://www.acba.am/pics/arrow_up.png)
 [ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Պայմանագրի օնլայն ստորագրում
 Քայլերի հաջորդականություն

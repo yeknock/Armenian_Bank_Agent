@@ -1,4 +1,3 @@
-SOURCE: https://conversebank.am/hy/house/
 
 # Հիփոթեքային վարկեր
   * [Հիփոթեքային վարկեր](https://conversebank.am/hy/house/)
@@ -44,4 +43,3 @@ SOURCE: https://conversebank.am/hy/house/
 | [**ք. Երևան, Նորք Մարաշ վ/շ, Արմենակյան 27/4**](https://conversebank.am/hy/qualityconstruction/)  |  
 | [**ք. Աշտարակ, Ն. Աշտարակեցու 52/2**](https://conversebank.am/hy/ArtcontstructionLLC/)  |  
 | [**ք. Մասիս, 4-րդ հողամաս**](https://www.conversebank.am/hy/Murtshshinllc4th/)  |  
-[**Բնակարանային ապահովության պետական աջակցության նպատակային ծրագրեր**](https://conversebank.am/u_files/file/Ampopagir%202024/Targeted%20state%20support%20programs%20Jul%202024.pdf)

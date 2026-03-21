@@ -1,4 +1,3 @@
-SOURCE: https://ameriabank.am/loans/secured-loans
 
 
 ### Գրավով ապահովված սպառողական վարկ 
@@ -10,7 +9,6 @@ SOURCE: https://ameriabank.am/loans/secured-loans
 ##### 3 մլն-50 մլն ՀՀ դրամ
 Վարկի գումար
 [Իմանալ ավելին](https://ameriabank.am/loans/secured-loans/consumer-loan)
-![3D loan illustration](https://ameriabank.am/Portals/0/Images/secured-loans/gravov-varker-see-all-1.png)
 ### Գրավով ապահովված օվերդրաֆտ 
 Օվերդրաֆտը հարմար է չնախատեսված իրավիճակներում վճարումներ կատարելու համար կամ այն դեպքերում, երբ հստակ չգիտես` որքան ես ծախսելու: Վարկի տոկոսը հաշվարկվում է միայն ծախսված գումարի չափով: Այս դեպքում կարող ես կատարել ինչպես անկանխիկ վճարումներ, անյպես էլ կանխիկացնել գումարն Ամերիաբանկի բանկոմատներում: 
 ##### 18,39 ‒ 23,42%
@@ -20,7 +18,6 @@ SOURCE: https://ameriabank.am/loans/secured-loans
 ##### 1 մլն - 100 մլն ՀՀ դրամ
 Վարկի գումար
 [Իմանալ ավելին](https://ameriabank.am/loans/secured-loans/overdraft)
-![3D card loan illustration](https://ameriabank.am/Portals/0/Images/secured-loans/gravov-varker-see-all-overdraft.png)
 ### Գրավով ապահովված վարկային գիծ 
 Վարկային գիծը հարմար է չնախատեսված իրավիճակներում անկանխիկ վճարումներ կատարելու համար: Վարկի տոկոսը հաշվարկվում է միայն ծախսված գումարի չափով, իսկ առաջին 51 օրում վերադարձնելու դեպքում % չես վճարի: Գումարը կարող ես օգտագործել միայն քեզ տրամադրված կրեդիտային քարտով: 
 ##### 18,39 ‒ 23,42%
@@ -30,7 +27,6 @@ SOURCE: https://ameriabank.am/loans/secured-loans
 ##### 1 մլն - 100 մլն ՀՀ դրամ 
 Վարկի գումար
 [Իմանալ ավելին](https://ameriabank.am/loans/secured-loans/credit-line)
-![3D umbrella illustration](https://ameriabank.am/Portals/0/Images/secured-loans/gravov-varker-see-all-gic.png)
 ### Ներդրումային վարկ
 Ներդրումային վարկը Հայաստանում 1-ին և դեռևս միակ վարկատեսակն է, որով դու կարող ես գնել անշարժ կամ շարժական գույք արտերկրում և դրանով լրացուցիչ եկամուտներ ստանալ: Վարկը կարող ես ստանալ նաև որպես ֆիզիկական անձ ՀՀ-ի և արտերկրի ընկերություններում բաժնեմաս գնելու կամ այլ կերպ բիզնեսում ներդրում կատարելու համար: 
 ##### Փաստացի տոկոսադրույք
@@ -40,4 +36,3 @@ SOURCE: https://ameriabank.am/loans/secured-loans
 ##### 3 - 150 մլն ՀՀ դրամ 
 Վարկի գումար
 [Իմանալ ավելին](https://ameriabank.am/personal/loans/other-loans/investment-loan)
-![3D umbrella illustration](https://ameriabank.am/Portals/0/Images/secured-loans/gravov-varker-see-all-investment.png)
