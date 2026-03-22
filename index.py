@@ -35,9 +35,12 @@ def embed_chunks(dirs):
                 words = content.split()
 
                 i = 0
+                chunk_size = 150
+                overlap = 50
                 while i < len(words):
-                    chunk_list = words[i:i + 200]
-                    chunk_str = ' '.join(chunk_list)
+                    chunk_list = words[i:i + chunk_size]
+                    header = f"Bank: {dir.split('/')[0]}, Topic: {dir.split('/')[1]}, Sub-topic: {filepath.stem}\n"
+                    chunk_str = header + ' '.join(chunk_list)
 
                     response = client_openai.embeddings.create(
                         input = chunk_str,
@@ -56,7 +59,7 @@ def embed_chunks(dirs):
                         }
                     })
                     
-                    i += 200
+                    i += ((chunk_size - overlap))
     return all_chunks_data
 
 chunks = embed_chunks(dirs)
