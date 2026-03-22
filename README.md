@@ -69,7 +69,7 @@ Create a .env file in the root directory:
 
 
 
-
+`Note:` I used gpt-4o-mini to understand user's question, so it will be safer, because it understands the main "topic", "bank" and "sub-topic" better than if I use another methods to understand users question
 
 
 
