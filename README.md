@@ -47,10 +47,10 @@ LiveKit Server - I used local server (my laptop)
 Create a .env file in the root directory:
 
 
-`OPENAI_API_KEY=your_openai_key`
-`LIVEKIT_URL=ws://localhost:7880`
-`LIVEKIT_API_KEY=devkey`
-`LIVEKIT_API_SECRET=secret`
+`OPENAI_API_KEY=your_openai_key` <br>
+`LIVEKIT_URL=ws://localhost:7880` <br>
+`LIVEKIT_API_KEY=devkey` <br>
+`LIVEKIT_API_SECRET=secret` <br>
 
 
 ## Initialize the Knowledge Base
