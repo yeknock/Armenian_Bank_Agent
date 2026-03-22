@@ -10,8 +10,7 @@ client_openai = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 client_chromadb = chromadb.PersistentClient(path="./chroma_db")
 collection = client_chromadb.get_or_create_collection(name="banks_info")
 
-question = "Ինչպես կարող եմ ստանալ հիփոթեք Կոնվերսում"
-
+question = "ես ուզում եմ մանկական ավանդ ներդնել ամերիա բանկում։ Կարո՞ղ ես ասել պայմանները"
 
 
 def embed_query(query):
@@ -26,6 +25,7 @@ def embed_query(query):
 def detect_intent(question):
     completion = client_openai.chat.completions.create(
         model="gpt-4o-mini",
+        response_format={"type": "json_object"},
         messages=[
             {"role": "system", "content": """You are an intent classifier for an Armenian banking assistant.
                 Available banks: acba, ameria, converse
@@ -53,19 +53,17 @@ def detect_intent(question):
 def get_context(question):
     topic, bank, sub_topic = detect_intent(question)
     
-    # If a sub_topic is found, prioritize it in the string
     search_query = f"{question} {sub_topic}" if sub_topic else question
     embedded_query = embed_query(search_query)
 
-    # Build filter
-    where_filter = {}
     filters = []
     if bank:
         filters.append({"bank": {"$eq": bank}})
     if topic:
         filters.append({"topic": {"$eq": topic}})
     
-    # Only apply filter if we have attributes
+
+    where_filter = {}
     if len(filters) > 1:
         where_filter = {"$and": filters}
     elif len(filters) == 1:
@@ -73,8 +71,7 @@ def get_context(question):
     else:
         where_filter = None
 
-    # Increase n_results to 15 or 20 if sub_topic is missing 
-    # to get a broader range of credit types
+    # If sub_topic is found use 10, if not we want more data
     num_results = 10 if sub_topic else 20
 
     query = collection.query(
@@ -84,29 +81,3 @@ def get_context(question):
     )
     
     return "\n\n".join(query['documents'][0])
-
-
-
-def ask_llm(question):
-    context = get_context(question)
-    
-    completion = client_openai.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {"role": "system", "content": f"""You are a helpful banking assistant for Armenian banks.
-            Answer in Armenian.
-            
-            Guidelines:
-            1. If the context contains specific loan types (like student or car loans) but the user asked a general question, summarize what you see and ask if they want details on those specific products.
-            2. Use the context below to answer. 
-            3. If the context is completely irrelevant to the bank or topic, say: Այդ մասին տեղեկատվություն չունեմ:
-
-            Context:
-            {context}"""},
-            {"role": "user", "content": question}
-        ]
-    )
-    return completion.choices[0].message.content
-
-answer = ask_llm(question)
-print(answer)

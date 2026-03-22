@@ -62,13 +62,15 @@ def embed_chunks(dirs):
                     i += ((chunk_size - overlap))
     return all_chunks_data
 
-chunks = embed_chunks(dirs)
 
-collection.add(
-    ids=[item["id"] for item in chunks],
-    embeddings=[item["embedding"] for item in chunks],
-    documents=[item["document"] for item in chunks],
-    metadatas=[item["metadata"] for item in chunks]
-)
+if __name__ == "__main__"
+    chunks = embed_chunks(dirs)
 
-print(f"Total chunks - {collection.count()}")
+    collection.add(
+        ids=[item["id"] for item in chunks],
+        embeddings=[item["embedding"] for item in chunks],
+        documents=[item["document"] for item in chunks],
+        metadatas=[item["metadata"] for item in chunks]
+    )
+
+    print(f"Total chunks - {collection.count()}")
