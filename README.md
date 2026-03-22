@@ -31,15 +31,15 @@ Python 3.10 or higher
 LiveKit Server - I used local server (my laptop)
 
 #### Clone the repository
-`git clone <your-repo-link>` <br>
-`cd armenian-banking-ai` <br>
+``git clone <your-repo-link>`` <br>
+``cd armenian-banking-ai`` <br>
 
 #### Create and activate virtual environment
-`python -m venv venv` <br>
-`source venv/bin/activate  # Windows: venv\Scripts\activate` <br>
+``python -m venv venv`` <br>
+``source venv/bin/activate  # Windows: venv\Scripts\activate`` <br>
 
 #### Install dependencies
-`pip install -r requirements.txt` <br>
+``pip install -r requirements.txt`` <br>
 
 
 ## Configuration
@@ -47,25 +47,25 @@ LiveKit Server - I used local server (my laptop)
 Create a .env file in the root directory:
 
 
-`OPENAI_API_KEY=your_openai_key` <br>
-`LIVEKIT_URL=ws://localhost:7880` <br>
-`LIVEKIT_API_KEY=devkey` <br>
-`LIVEKIT_API_SECRET=secret` <br>
+``OPENAI_API_KEY=your_openai_key`` <br>
+``LIVEKIT_URL=ws://localhost:7880`` <br>
+``LIVEKIT_API_KEY=devkey`` <br>
+``LIVEKIT_API_SECRET=secret`` <br>
 
 
 ## Initialize the Knowledge Base
 
-`python index.py`
+``python index.py``
 
 
 ## Running the Agent
 
-`python agent.py dev`
+``python agent.py dev``
 
 
 ## Launch in Development Mode:
 
-`livekit-server --dev`
+``livekit-server --dev``
 
 
 
