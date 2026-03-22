@@ -31,15 +31,15 @@ Python 3.10 or higher
 LiveKit Server - I used local server (my laptop)
 
 #### Clone the repository
-`git clone <your-repo-link>`
-`cd armenian-banking-ai`
+`git clone <your-repo-link>` <br>
+`cd armenian-banking-ai` <br>
 
 #### Create and activate virtual environment
-`python -m venv venv`
-`source venv/bin/activate  # Windows: venv\Scripts\activate`
+`python -m venv venv` <br>
+`source venv/bin/activate  # Windows: venv\Scripts\activate` <br>
 
 #### Install dependencies
-`pip install -r requirements.txt`
+`pip install -r requirements.txt` <br>
 
 
 ## Configuration
