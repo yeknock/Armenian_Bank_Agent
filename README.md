@@ -1,7 +1,7 @@
 # Armenian_Bank_Agent
 This project is an AI-powered voice assistant specifically designed for the Armenian banking sector. It uses a Retrieval-Augmented Generation (RAG) architecture to provide accurate information about interest rates, mortgage terms, and branch locations for banks like Converse Bank, Ameriabank, and Acba.
 
-!["Voice Agent"](https://cdn.shopify.com/app-store/listing_images/9f2e396681b94256f3528bf6c60389f6/icon/CP3_kYG5go4DEAE=.png)
+<img src="[image-url-or-path](https://cdn.prod.website-files.com/65a7d326e810bc36dae1978f/68405224a17261084ff56357_best_ai_voice_agents_that_.webp)" width="200" />
 
 ## Architecture & Decisions:
 
