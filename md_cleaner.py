@@ -1,7 +1,7 @@
 from pathlib import Path
 
 def cleaner(filepath):
-    junky_lines = ["![", "SOURCE:", ".pdf", "* * *"]
+    junky_lines = ["![", "SOURCE:", ".pdf", "* * *", "https://", "http://", "######"]
 
     with open(filepath, "r", encoding="utf-8") as f:
         lines = f.readlines()

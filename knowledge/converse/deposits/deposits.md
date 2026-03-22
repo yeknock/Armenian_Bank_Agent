@@ -1,57 +1,14 @@
 
-# Ավանդներ
-  * [Ֆիզիկական անձ հաճախորդներին տրամադրվող բանկային ծառայությունների փաթեթներ](https://conversebank.am/hy/Converse-Packages/)
-  * [Ֆիզիկական անձ հաճախորդներին տրամադրվող բանկային ծառայությունների փաթեթներ` "Nektar"](https://conversebank.am/hy/nektar/)
-  * [Բանկային ծառայությունների փաթեթ](https://conversebank.am/hy/Matrixpackages/)
-  * [Google pay](https://conversebank.am/hy/ConverseGooglePay/)
-  * [Apple Pay](https://conversebank.am/hy/applepay/)
-  * [Վարկեր](https://conversebank.am/hy/loans/)
-  * [Ավանդներ](https://conversebank.am/hy/ddeposits/)
-  * [Քարտեր](https://conversebank.am/hy/converse-cards/)
-  * [Գույքի վաճառք](https://conversebank.am/hy/realestate/)
-  * [Հեռակառավարման համակարգեր](https://conversebank.am/hy/herakaravarman-hamakarg/)
-  * [Փոխանցումներ](https://conversebank.am/hy/transfers/)
-  * [Պետական մարմինների սպասարկման գրասենյակների գործառույթներ](https://conversebank.am/hy/petakanmarminner/)
-  * [Պահառուական ծառայություններ](https://conversebank.am/hy/ddepositoryindividual/)
-  * [Հաշիվների բացում և սպասարկում](https://conversebank.am/hy/open-account/)
-  * [Ճշգրտվող/Լողացող/Հաստատուն Տոկոսադրույքներ](https://conversebank.am/hy/floating-interest-rates/)
-  * [Օնլայն հայտեր](https://conversebank.am/hy/all-forms/)
-  * [Ապահովագրություն](https://conversebank.am/hy/insurance/)
-  * [Կորպորատիվ պարտատոմսեր](https://conversebank.am/hy/CorpBonds/)
-  * [Պարտատոմսեր](https://conversebank.am/hy/2022issue/)
-  * [Այլ ծառայություններ](https://conversebank.am/hy/other-services/)
-  * [Payoneer](https://conversebank.am/hy/CBPayoneer/)
-  * [Սոցիալական փաթեթի հաշիվ](https://conversebank.am/hy/packagesocial/)
-
-
-  * [Պրոգրես](https://conversebank.am/hy/progress/)
-  * [Կարաս](https://conversebank.am/hy/karas/)
-  * [Մանուկ](https://conversebank.am/hy/manuk/)
-  * [Բարեկեցիկ ապագա](https://conversebank.am/hy/barekecik/)
-  * [Օրական](https://conversebank.am/hy/orakan/)
-  * [Գտնված երազ](https://conversebank.am/hy/eraz/)
-  * [Կուտակային կենսաթոշակային ավանդ](https://conversebank.am/hy/kutakayin/)
-
-
 ### **Ժամկետային ավանդներ**
 "Կոնվերս բանկ" ՓԲԸ-ն առաջարկում է ժամկետային ավանդների տեսականի ավանդատուի համար ընտրության հարմար տարբերակներով:
 "Պրոգրես", "Կարաս" և ակցիաների շրջանակներում այլ տեսակների ավանդները հնարավոր է ներդնել նաև առցանց՝ առանց երրորդ անձի օգտին ավանդի ներդրման հնարավորության:
-[Ներբեռնիր հավելվածը](https://online.conversebank.am/mapp)
 **Կոնվերս Բանկի ավանդները՝**  
 |  Ավանդ  |  Տոկոսադրույք  |   | Ժամկետներ  |  
 | --- | --- | --- | --- |  
-|  [**Պրոգրես**](https://conversebank.am/hy/progress/)  |  5․25% - 9․75% ՀՀ դրամ 0.75% - 4․00% ԱՄՆ դոլար 0.50% - 2․25% Եվրո  |  45 օրից մինչև 24 ամիս  |  
-|  [**Կարաս**](https://conversebank.am/hy/karas/)  |  8.00% - 9․25% ՀՀ դրամ 2.00% - 3․40% ԱՄՆ դոլար  |  6 ամիս - 24 ամիս   |  
-|  [**Մանուկ**](https://conversebank.am/hy/manuk/) (Դադարեցված է անորոշ ժամկետով)  |  11.86% ՀՀ դրամ 3.83% ԱՄՆ դոլար   |  5 - 18 տարի  |  
-|  [**Բարեկեցիկ ապագա**](https://conversebank.am/hy/barekecik/) (Դադարեցված է անորոշ ժամկետով)  |  12.61% ՀՀ դրամ 4.83% ԱՄՆ դոլար  |  առնվազն 10 տարի  |  
-| [**Օրական**](https://conversebank.am/hy/orakan/)  |  ՀՀ դրամ 5.31% - 9.75 %  
   
 ԱՄՆ դոլար 0.77%-3.90%  
   
 Եվրո 0.51% - 2.15%  | 46 - 545 օրերի միջակայքում  |  
-|  [**Գտնված երազ**](https://conversebank.am/hy/eraz/) (Դադարեցված է անորոշ ժամկետով)  | 9.75% ՀՀ դրամ  | 1 տարի  |  
-| [**Կուտակային կենսաթոշակային ավանդ**](https://conversebank.am/hy/kutakayin/)  | 11.61% ՀՀ դրամ  | առնվազն 5 տարի  |  
-**[Ընդհանուր դրույթներ և պայմաններ](https://conversebank.am/hy/ddeposits#) **
   * Ավանդի ներդրման օր է համարվում ավանդատուի հաշվին միջոցների մուտքագրման օրը:
   * Ավանդի ներդրումը հավաստվում է պայմանագրով, որով ավանդատուն իրավունք է ստանում բանկից պահանջել վերադարձնել ավանդի գումարը` համապատասխան սահմանված տոկոսներով:
   * Եթե ավանդը ներդրվում է արտարժույթով, ապա ավանդատուն պայմանագրով հավաստում է, որ պայմանագիրը կնքելու պահին գիտակցել և ընդունել է արտարժույթի փոփոխման հետևանքով հնարավոր ռիսկերը:
@@ -78,6 +35,3 @@
   * Ավանդի հաշվում ավանդատուի անունով կարող են մուտքագրվել նաև երրորդ անձանց կողմից դրամական միջոցները` ավանդի հաշվի մասին անհրաժեշտ տվյալների ճշտման դեպքում, եթե այլ բան նախատեսված չէ պայմանագրով:
   * Ավանդատուն իրավունք ունի ավանդը բանկ ներդնել որոշակի երրորդ անձի անունով` ՀՀ օրենսդրությամբ սահմանված կարգով:
 
-
-[**Ֆինանսներ բոլորի համար**](https://www.fininfo.am/finhelper/index.php)
-Թարմացվել է 01.04.2025թ. 08:00

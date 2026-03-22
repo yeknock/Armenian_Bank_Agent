@@ -1,16 +1,12 @@
 
 ՋԻ ԹԻ ԷՍ Բիլդինգ
 Այժմ հերթը քոնն է տեղափոխվելու նոր բնակարան 
-[ Դիմեք օնլայն ](https://www.acba.am/hy/online-applications/Credit-applications/purchase-loans)
-[ Հաշվիչ ](https://www.acba.am/hy/calculators/Creditworthiness-calculator/mortgage-creditworthiness-calculator)
-[ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Պայմաններ  
 |  **Կառուցապատող**  |  ****«ՋԻ ԹԻ ԷՍ Բիլդինգ»** ՍՊԸ**  |  
 | --- | --- |  
 |  **Հասցե**  |  Երևան, Նազարբեկյան 12/4   |  
 | **Կոնտակտային տվյալներ**  |  
-|  **Հեռախոսահամարներ**  |  +374 94 42 04 50  |  
-| **Էլ․ հասցե**  | gts․building2022@mail․ru  |  
+|  **Հեռախոսահամարներ**  |  +374 94 42 04 50  | 
 | **Կարգավիճակ**  | Ավարտված  |  
 | **Հարկերի քանակ**  | 16  |  
 | **Բնակարանների քանակ**  | 102  |  

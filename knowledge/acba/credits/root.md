@@ -1,17 +1,11 @@
 
-[ՌՈՒԹ ՔՈՆՍՏՐԱԿՏ](https://www.acba.am/hy/individuals/loans/mortgage/constructors/1676545229)
 ՌՈՒԹ ՔՈՆՍՏՐԱԿՏ
-Այժմ հերթը քոնն է տեղափոխվելու նոր բնակարան 
-[ Դիմեք օնլայն ](https://www.acba.am/hy/online-applications/Credit-applications/purchase-loans)
-[ Հաշվիչ ](https://www.acba.am/hy/calculators/Creditworthiness-calculator/mortgage-creditworthiness-calculator)
-[ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Պայմաններ  
 |  **Կառուցապատող**  |  **«ՌՈՒԹ ՔՈՆՍՏՐԱԿՏ» ՍՊԸ**  |  
 | --- | --- |  
 |  **Հասցե**  |  Մարզ Կոտայք, համայնք Աբովյան գյուղ Առինջ Պ. Սևակի թաղամասի 4-րդ փողոց 2/1  |  
 |  **Կոնտակտային տվյալներ**  |  
 | **Հեռախոսահամար**  | 041 221 205  |  
-| **Էլ հասցե**  | root.construct.armenia@gmail.com  |  
 | **Կայք**  | -  |  
 | **Կարգավիճակ**  | Կառուցապատման փուլում  |  
 | **Հարկերի քանակ**  | 14  |  

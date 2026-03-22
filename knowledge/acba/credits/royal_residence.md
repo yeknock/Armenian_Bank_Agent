@@ -1,20 +1,11 @@
 
-[ՌՈՅԱԼ ՌԵԶԻԴԵՆՍ](https://www.acba.am/hy/individuals/loans/mortgage/constructors/royal-residence)
 ՌՈՅԱԼ ՌԵԶԻԴԵՆՍ
-Այժմ հերթը քոնն է տեղափոխվելու նոր բնակարան  
-
-[ Դիմեք օնլայն ](https://www.acba.am/hy/online-applications/Credit-applications/purchase-loans)
-[ Հաշվիչ ](https://www.acba.am/hy/calculators/Creditworthiness-calculator/mortgage-creditworthiness-calculator)
-[ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Պայմաններ  
 |  **Կառուցապատող**  |  «ՌՈՅԱԼ ՌԵԶԻԴԵՆՍ» ՍՊԸ  |  
 | --- | --- |  
 |  **Հասցե**  |  Երևան, Աջափնյակ, Հալաբյան 20/16  |  
 |  **Կոնտակտային տվյալներ**  |  
 | **Հեռախոսահամար**  | +374 41 26 20 16  |  
-| **Էլ․ հասցե**  | home@royalresidence.am  |  
-| **Կայք**  | [royalresidence.me](https://www.royalresidence.me/)  |  
-| [**Կարգավիճակ**](https://www.royalresidence.me/)  | Կառուցապատման փուլում  |  
 | **Հարկերի քանակ**  | 16, որից 15-ը բնակելի  |  
 | **Բնակարանների քանակ**  | 132  |  
 | **Հասանելի բնակարանների քանակ***  | 13  |  

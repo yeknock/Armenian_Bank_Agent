@@ -1,21 +1,5 @@
 
-|   |  
-| --- |  
-»
-[Անհատներ](https://www.acba.am/hy/individuals)
-»
-[Ստանալ վարկ](https://www.acba.am/hy/individuals/loans)
-»
-[Անշարժ գույքի գնման հիփոթեքային վարկեր](https://www.acba.am/hy/individuals/loans/mortgage)
-»
-[Բնակարաններ կառուցապատողներից](https://www.acba.am/hy/individuals/loans/mortgage/constructors)
-»
-[ԱՄԵՐԻԿԱՆԱ](https://www.acba.am/hy/individuals/loans/mortgage/constructors/1664972843)
 ԱՄԵՐԻԿԱՆԱ
-Այժմ հերթը քոնն է տեղափոխվելու նոր բնակարան 
-[ Դիմեք օնլայն ](https://www.acba.am/hy/online-applications/Credit-applications/purchase-loans)
-[ Հաշվիչ ](https://www.acba.am/hy/calculators/Creditworthiness-calculator/mortgage-creditworthiness-calculator)
-[ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Պայմաններ  
 |  **Կառուցապատող**  |  ԱՄԵՐԻԿԱՆԱ «ՍԱԳԱ ՇԻՆ» ՍՊԸ  |  
 | --- | --- |  
@@ -23,7 +7,6 @@
 |  **Կոնտակտային տվյալներ**  |  
 | **Հեռախոսահամար**  |  +374 93 913191  |  
 | **Էլ հասցե**  | khachatur@americanaarmenia.com  |  
-| **Սոցիալական էջ**  | <https://hy.americanaarmenia.com/>  |  
 | **Կարգավիճակ**  | Ավարտված է  |  
 | **Հարկերի քանակ**  | 4  |  
 | **Բնակարանների քանակ**  |  16 մասնավոր տուն,  
@@ -37,6 +20,3 @@
 | **Ավտոտնակի առկայություն**  | Առկա է  |  
 | **Ավտոտնակի արժեք**  | 4,000,000 - 5,000,000 ՀՀ դրամ  |  
 | **Կոնտակտային տվյալներ Բանկից**  | +374 98 55 50 10  |  
-_*Հասանելի բնակարանների քանակը կարող է փոփոխվել: Առավել մանրամասն տեղեկատվություն ստանալու համար խնդրում ենք կապվել կառուցապատող ընկերության հետ:_
-Վարկավորման պայմաններին առավել մանրամասն ծանոթացեք [այստեղ:](https://www.acba.am/hy/individuals/loans/mortgage/purchase-mortgage)
--

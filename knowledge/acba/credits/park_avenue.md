@@ -1,17 +1,12 @@
 
 ՊԱՐԿ ԱՎԵՆՅՈՒ
 Այժմ հերթը քոնն է տեղափոխվելու նոր բնակարան 
-[ Դիմեք օնլայն ](https://www.acba.am/hy/online-applications/Credit-applications/purchase-loans)
-[ Հաշվիչ ](https://www.acba.am/hy/calculators/Creditworthiness-calculator/mortgage-creditworthiness-calculator)
-[ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Պայմաններ  
 |  **Կառուցապատող**  |  «ԳԱԶԱՎԻԿ» ՍՊԸ (ՊԱՐԿ ԱՎԵՆՅՈՒ)  |  
 | --- | --- |  
 |  **Հասցե**  |  Երևան, Գրիբոյեդովի 48/6  |  
 |  **Կոնտակտային տվյալներ**  |  
 | **Հեռախոսահամար**  | +374 41 88 66 10  |  
-| **Էլ․ հասցե**  | parkavenueyerevan@mail.ru  |  
-| **Կայք**  | [parkavenue.am](https://parkavenue.am/am)  |  
 | **Կարգավիճակ**  | Կառուցապատման փուլում  |  
 | **Հարկերի քանակ**  | Վերգետնյա 16 հարկ, որից 15 բնակելի  |  
 | **Բնակարանների քանակ**  | 288  |  

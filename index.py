@@ -51,7 +51,8 @@ def embed_chunks(dirs):
                         "metadata": {
                             "source": str(filepath),
                             "bank": dir.split('/')[0],
-                            "topic": dir.split('/')[1]
+                            "topic": dir.split('/')[1],
+                            "sub_topic": filepath.stem
                         }
                     })
                     

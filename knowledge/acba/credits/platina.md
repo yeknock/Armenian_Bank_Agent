@@ -1,17 +1,11 @@
 
-[ՊԼԱՏԻՆԱ](https://www.acba.am/hy/individuals/loans/mortgage/constructors/1664971722)
 ՊԼԱՏԻՆԱ
-Այժմ հերթը քոնն է տեղափոխվելու նոր բնակարան 
-[ Դիմեք օնլայն ](https://www.acba.am/hy/online-applications/Credit-applications/purchase-loans)
-[ Հաշվիչ ](https://www.acba.am/hy/calculators/Creditworthiness-calculator/mortgage-creditworthiness-calculator)
-[ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Պայմաններ  
 |  **Կառուցապատող**  |  «ՊԼԱՏԻՆԱ» ՍՊԸ   
  |  
 |  **Հասցե**  |  Կոտայքի մարզ, համայնք Նաիրի, գ. Քասախ, Մ. Սարյան փողոց 14 և 15 հողամասեր  |  
 |  **Կոնտակտային տվյալներ**  |  
 | **Հեռախոսահամար**  | +374 96 07 88 66  |  
-| **Էլ․ հասցե**  | 995090@mail.ru  |  
 | **Կարգավիճակ**  | Կառուցապատված   |  
 | **Հարկերի քանակ**  | 2  |  
 | **Բնակարանների քանակ**  | 14 բնակելի տուն  |  

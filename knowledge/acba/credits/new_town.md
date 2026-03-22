@@ -1,17 +1,12 @@
 
-[ՆՅՈՒ ԹԱՈւՆ](https://www.acba.am/hy/individuals/loans/mortgage/constructors/1677160792)
 ՆՅՈՒ ԹԱՈւՆ
 Այժմ հերթը քոնն է տեղափոխվել նոր բնակարան 
-[ Դիմեք օնլայն ](https://www.acba.am/hy/online-applications/Credit-applications/purchase-loans)
-[ Հաշվիչ ](https://www.acba.am/hy/calculators/Creditworthiness-calculator/mortgage-creditworthiness-calculator)
-[ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Պայմաններ  
 |  **Կառուցապատող**  |  **«ՆՅՈՒ ԹԱՈւՆ»**  |  
 | --- | --- |  
 |  **Հասցե**  |  ԱՐՄԱՎԻՐ, ՎԱՂԱՐՇԱՊԱՏ, Շահումյան փ., 75/4-6  |  
 |  **Կոնտակտային տվյալներ**  |  
 | **Հեռախոսահամար**  |  (+374) 44 000-807 (+374) 44 000-802  |  
-| **Էլ հասցե**  |  info@centralresidence.am  |  
 | **Կայք**  | -  |  
 | **Կարգավիճակ**  | Կառուցապատման փուլում  |  
 | **Հարկերի քանակ**  | 12  |  

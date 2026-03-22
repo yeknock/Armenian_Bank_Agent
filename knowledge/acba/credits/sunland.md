@@ -1,20 +1,11 @@
 
-
-[SUNLAND BAGREVAND](https://www.acba.am/hy/individuals/loans/mortgage/constructors/SunLand-Bagrevand)
 SUNLAND BAGREVAND
-Այժմ հերթը քոնն է տեղափոխվելու նոր բնակարան  
-
-[ Դիմեք օնլայն ](https://www.acba.am/hy/online-applications/Credit-applications/purchase-loans)
-[ Հաշվիչ ](https://www.acba.am/hy/calculators/Creditworthiness-calculator/mortgage-creditworthiness-calculator)
-[ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Պայմաններ  
 |  **Կառուցապատող**  |  **«ՏՄ ՄԵԳԱ ՀՈԼԴԻՆԳ» ՍՊԸ**  |  
 | --- | --- |  
 |  **Հասցե**  |  ք. Երևան, Նոր Նորքի 2-րդ զանգվածում՝ Բագրևանդի արահետ 60 հասցեում՝ Մոլդովական և Բագրևանդ փողոցների միջնամասում  |  
 |  **Կոնտակտային տվյալներ**  |  
 | **Հեռախոսահամար**  | 098 908 967  |  
-| **Էլ հասցե**  | varos.abnusyan@redinvest.am  |  
-| **Կայք**  | [https://www.redgroup.am](https://redgroup.am/projects/bnakarankarucapatoxic-sunland2?currency_rate=amd#301)  |  
 | **Կարգավիճակ**  | Կառուցապատման փուլում  |  
 | **Հարկերի քանակ**  |  4  |  
 | **Շենքերի քանակ**  |  5  |  

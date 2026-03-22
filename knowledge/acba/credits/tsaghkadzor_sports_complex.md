@@ -1,19 +1,12 @@
 
 
-[ԾԱՂԿԱՁՈՐ ՍՊՈՐՏԱՅԻՆ ՀԱՄԱԼԻՐ](https://www.acba.am/hy/individuals/loans/mortgage/constructors/tsaghkadzor-sports-complex)
 ԾԱՂԿԱՁՈՐ ՍՊՈՐՏԱՅԻՆ ՀԱՄԱԼԻՐ
-Այժմ հերթը քոնն է տեղափոխվելու նոր բնակարան 
-[ Լրացնել հայտը ](https://www.acba.am/hy/online-applications/Credit-applications/purchase-loans)
-[ Հաշվիչ ](https://www.acba.am/hy/calculators/Creditworthiness-calculator/mortgage-creditworthiness-calculator)
-[ Ունե՞ք հարցեր ](https://app.purechat.com/w/acba.am)
 Պայմաններ  
 |  **Կառուցապատող**  |  «Ծաղկաձոր սպորտային համալիր» ՍՊԸ  |  
 | --- | --- |  
 |  **Հասցե**  |  Ծաղկաձոր ք․, Գլխավոր մարզահամալիր, թաղամաս 81, մասնաշենք 3  |  
 |  **Կոնտակտային տվյալներ**  |  
-| **Հեռախոսահամար**  |  099-405-222  |  
-| **Էլ հասցե**  |  officesalesbaza@gmail.com  |  
-| **Կայք**  | <https://www.instagram.com/bazaresidence>  |  
+| **Հեռախոսահամար**  |  099-405-222  |   
 | **Կարգավիճակ**  | Կառուցապատման փուլում  |  
 | **Հարկերի քանակ**  |  8  |  
 | **Բնակարանների քանակ**  |  248  |  
